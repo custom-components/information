@@ -10,7 +10,7 @@ This shared space is **not** supposed to be a replacement of any kind to the Off
  - [Home Assistant website](https://www.home-assistant.io/)
  - [Home Assistant developer documentation](https://developers.home-assistant.io/)
 
-This shared space is a place where all users that deveolp custom_components are invited to share their codes for discoverability.
+This shared space is a place where all users that develop custom_components are invited to share their codes for discoverability.
 This space has some benefits.
  - Users that are looking for custom_components will have fever places to look.
  - There is less chance that multiple developers are working on the same thing.
