@@ -1,18 +1,6 @@
 [
       {
-        "sensor.brewdog": {
-          "updated_at": "2018-07-11",
-          "version": ""
-        }
-      },
-      {
-        "sensor.versions": {
-          "updated_at": "2018-07-11",
-          "version": ""
-        }
-      },
-      {
-        "switch.hadockermon": {
+        "binary_sensor.hadockermon": {
           "updated_at": "2018-07-11",
           "version": ""
         }
@@ -24,21 +12,63 @@
         }
       },
       {
+        "custom_cards": {
+          "updated_at": "2018-07-17",
+          "version": "1.1.10"
+        }
+      },
+      {
         "hassbian-config": {
           "updated_at": "2018-07-11",
           "version": ""
         }
       },
       {
-        "sensor.ruter": {
+        "sensor.authenticated": {
+          "updated_at": "2018-07-17",
+          "version": "0.0.4"
+        }
+      },
+      {
+        "sensor.brewdog": {
           "updated_at": "2018-07-11",
-          "version": ""
+          "version": "component"
+        }
+      },
+      {
+        "sensor.custom_cards": {
+          "updated_at": "2018-07-16",
+          "version": "0.0.6"
         }
       },
       {
         "sensor.launchlibrary": {
           "updated_at": "2018-07-11",
+          "version": "stream"
+        }
+      },
+      {
+        "sensor.rpi_power": {
+          "updated_at": "2018-07-08",
+          "version": "description"
+        }
+      },
+      {
+        "sensor.ruter": {
+          "updated_at": "2018-07-11",
+          "version": "pyruter==0.0.4"
+        }
+      },
+      {
+        "sensor.untapped": {
+          "updated_at": "2018-07-08",
           "version": ""
+        }
+      },
+      {
+        "sensor.versions": {
+          "updated_at": "2018-07-11",
+          "version": "pyhaversion==0.0.2"
         }
       },
       {
@@ -50,31 +80,7 @@
       {
         "sensor.wienerlinien": {
           "updated_at": "2018-07-11",
-          "version": ""
-        }
-      },
-      {
-        "binary_sensor.hadockermon": {
-          "updated_at": "2018-07-11",
-          "version": ""
-        }
-      },
-      {
-        "sensor.rpi_power": {
-          "updated_at": "2018-07-08",
-          "version": ""
-        }
-      },
-      {
-        "sensor.untapped": {
-          "updated_at": "2018-07-08",
-          "version": ""
-        }
-      },
-      {
-        "sensor.authenticated": {
-          "updated_at": "2018-07-17",
-          "version": "0.0.4"
+          "version": "stops"
         }
       },
       {
@@ -84,15 +90,9 @@
         }
       },
       {
-        "custom_cards": {
-          "updated_at": "2018-07-17",
-          "version": "1.1.10"
-        }
-      },
-      {
-        "sensor.custom_cards": {
-          "updated_at": "2018-07-16",
-          "version": "0.0.6"
+        "switch.hadockermon": {
+          "updated_at": "2018-07-11",
+          "version": ""
         }
       }
 ]
