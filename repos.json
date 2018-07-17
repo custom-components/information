@@ -11,6 +11,10 @@
       "updated_at": "2018-07-17",
       "version": "1.1.10"
     },
+    "custom_components": {
+      "updated_at": "2018-07-17",
+      "version": "0.0.1"
+    },
     "hassbian-config": {
       "updated_at": "2018-07-11",
       "version": ""
@@ -30,6 +34,10 @@
     "sensor.custom_cards": {
       "updated_at": "2018-07-16",
       "version": "0.0.6"
+    },
+    "sensor.custom_components": {
+      "updated_at": "2018-07-17",
+      "version": "0.0.1"
     },
     "sensor.launchlibrary": {
       "updated_at": "2018-07-11",
