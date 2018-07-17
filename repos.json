@@ -32,7 +32,7 @@
       {
         "sensor.brewdog": {
           "updated_at": "2018-07-11",
-          "version": "component"
+          "version": ""
         }
       },
       {
@@ -44,19 +44,19 @@
       {
         "sensor.launchlibrary": {
           "updated_at": "2018-07-11",
-          "version": "stream"
+          "version": ""
         }
       },
       {
         "sensor.rpi_power": {
           "updated_at": "2018-07-08",
-          "version": "description"
+          "version": ""
         }
       },
       {
         "sensor.ruter": {
           "updated_at": "2018-07-11",
-          "version": "pyruter==0.0.4"
+          "version": ""
         }
       },
       {
@@ -68,7 +68,7 @@
       {
         "sensor.versions": {
           "updated_at": "2018-07-11",
-          "version": "pyhaversion==0.0.2"
+          "version": ""
         }
       },
       {
@@ -80,7 +80,7 @@
       {
         "sensor.wienerlinien": {
           "updated_at": "2018-07-11",
-          "version": "stops"
+          "version": ""
         }
       },
       {
