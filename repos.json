@@ -1,0 +1,98 @@
+[
+      {
+        "sensor.brewdog": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.versions": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "switch.hadockermon": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "cloudflare": {
+          "updated_at": "2018-07-10",
+          "version": ""
+        }
+      },
+      {
+        "hassbian-config": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.ruter": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.launchlibrary": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.weatheralerts": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.wienerlinien": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "binary_sensor.hadockermon": {
+          "updated_at": "2018-07-11",
+          "version": ""
+        }
+      },
+      {
+        "sensor.rpi_power": {
+          "updated_at": "2018-07-08",
+          "version": ""
+        }
+      },
+      {
+        "sensor.untapped": {
+          "updated_at": "2018-07-08",
+          "version": ""
+        }
+      },
+      {
+        "sensor.authenticated": {
+          "updated_at": "2018-07-17",
+          "version": "0.0.4"
+        }
+      },
+      {
+        "sickrage": {
+          "updated_at": "2018-07-09",
+          "version": ""
+        }
+      },
+      {
+        "custom_cards": {
+          "updated_at": "2018-07-17",
+          "version": "1.1.10"
+        }
+      },
+      {
+        "sensor.custom_cards": {
+          "updated_at": "2018-07-16",
+          "version": "0.0.6"
+        }
+      }
+]
