@@ -24,6 +24,12 @@
         }
       },
       {
+        "information": {
+          "updated_at": "2018-07-17",
+          "version": ""
+        }
+      },
+      {
         "sensor.authenticated": {
           "updated_at": "2018-07-17",
           "version": "0.0.4"
