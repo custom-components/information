@@ -48,16 +48,16 @@
       "version": ""
     },
     "sensor.ruter": {
-      "updated_at": "2018-07-11",
-      "version": ""
+      "updated_at": "2018-07-17",
+      "version": "2.1.1"
     },
     "sensor.untapped": {
       "updated_at": "2018-07-08",
       "version": ""
     },
     "sensor.versions": {
-      "updated_at": "2018-07-11",
-      "version": ""
+      "updated_at": "2018-07-17",
+      "version": "0.0.5"
     },
     "sensor.weatheralerts": {
       "updated_at": "2018-07-11",
@@ -72,7 +72,7 @@
       "version": ""
     },
     "switch.hadockermon": {
-      "updated_at": "2018-07-11",
+      "updated_at": "2018-07-17",
       "version": ""
     }
 }
