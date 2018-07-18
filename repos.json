@@ -9,11 +9,11 @@
     },
     "custom_cards": {
       "updated_at": "2018-07-18",
-      "version": "1.1.11"
+      "version": "1.1.12"
     },
     "custom_components": {
       "updated_at": "2018-07-18",
-      "version": "0.0.4"
+      "version": "0.0.5"
     },
     "hassbian-config": {
       "updated_at": "2018-07-11",
