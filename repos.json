@@ -23,11 +23,11 @@
       "local_location": "/custom_components/custom_components.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_components/master/custom_components/custom_components.py"
     },
-    "hassbian-config": {
+    "hassbian_config": {
       "updated_at": "2018-07-18",
-      "version": "",
-      "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian-config/master/custom_components/hassbian-config/__init__.py"
+      "version": "1.0.4",
+      "local_location": "/custom_components/hassbian_config/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py"
     },
     "information": {
       "updated_at": "2018-07-18",
