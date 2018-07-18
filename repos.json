@@ -3,13 +3,13 @@
       "updated_at": "2018-07-11",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon/__init__.py"
+      "remote_location": ""
     },
     "cloudflare": {
       "updated_at": "2018-07-10",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/cloudflare/master/custom_components/cloudflare/__init__.py"
+      "remote_location": ""
     },
     "custom_cards": {
       "updated_at": "2018-07-18",
@@ -33,7 +33,7 @@
       "updated_at": "2018-07-18",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/information/master/custom_components/information/__init__.py"
+      "remote_location": ""
     },
     "sensor.authenticated": {
       "updated_at": "2018-07-18",
@@ -45,7 +45,7 @@
       "updated_at": "2018-07-11",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog/__init__.py"
+      "remote_location": ""
     },
     "sensor.custom_cards": {
       "updated_at": "2018-07-16",
@@ -63,7 +63,7 @@
       "updated_at": "2018-07-11",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.launchlibrary/master/custom_components/sensor/launchlibrary/__init__.py"
+      "remote_location": ""
     },
     "sensor.rpi_power": {
       "updated_at": "2018-07-18",
@@ -81,7 +81,7 @@
       "updated_at": "2018-07-08",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py"
+      "remote_location": ""
     },
     "sensor.versions": {
       "updated_at": "2018-07-17",
@@ -93,24 +93,24 @@
       "updated_at": "2018-07-11",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts/__init__.py"
+      "remote_location": ""
     },
     "sensor.wienerlinien": {
       "updated_at": "2018-07-11",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien/__init__.py"
+      "remote_location": ""
     },
     "sickrage": {
       "updated_at": "2018-07-18",
-      "version": "",
-      "local_location": "",
+      "version": "0.0.2",
+      "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py"
     },
     "switch.hadockermon": {
       "updated_at": "2018-07-17",
       "version": "",
       "local_location": "",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon/__init__.py"
+      "remote_location": ""
     }
 }
