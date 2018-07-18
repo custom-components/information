@@ -20,7 +20,7 @@
       "local_location": "/custom_components/custom_components.py"
     },
     "hassbian-config": {
-      "updated_at": "2018-07-11",
+      "updated_at": "2018-07-18",
       "version": "",
       "local_location": "/custom_components/hassbian-config/__init__.py"
     },
