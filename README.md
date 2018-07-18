@@ -37,7 +37,7 @@ If it is a component the `.py` file **must** be here in your repo:\
 `custom_components/YOUR_COMPONENT.py`
 
 If it is a platform the `.py` file **must** be here in your repo:\
-`custom_components/COMPONENT/YOUR_COMPONENT.py`
+`custom_components/COMPONENT/YOUR_PLATFORM.py`
 
 The `.py` file also will have to include a `__version__` variable, [example here](https://github.com/custom-components/sensor.authenticated/blob/master/custom_components/sensor/authenticated.py#L17)
 
