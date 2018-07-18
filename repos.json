@@ -8,12 +8,12 @@
       "version": ""
     },
     "custom_cards": {
-      "updated_at": "2018-07-17",
-      "version": "1.1.10"
+      "updated_at": "2018-07-18",
+      "version": "1.1.11"
     },
     "custom_components": {
       "updated_at": "2018-07-18",
-      "version": "0.0.3"
+      "version": "0.0.4"
     },
     "hassbian-config": {
       "updated_at": "2018-07-11",
@@ -44,8 +44,8 @@
       "version": ""
     },
     "sensor.rpi_power": {
-      "updated_at": "2018-07-08",
-      "version": ""
+      "updated_at": "2018-07-18",
+      "version": "0.0.5"
     },
     "sensor.ruter": {
       "updated_at": "2018-07-17",
