@@ -24,8 +24,8 @@
       "version": ""
     },
     "sensor.authenticated": {
-      "updated_at": "2018-07-17",
-      "version": "0.0.4"
+      "updated_at": "2018-07-18",
+      "version": "0.0.5"
     },
     "sensor.brewdog": {
       "updated_at": "2018-07-11",
