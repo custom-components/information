@@ -77,6 +77,12 @@
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py"
     },
+    "sensor.tautulli": {
+      "updated_at": "2018-07-19",
+      "version": "",
+      "local_location": "/custom_components/sensor/tautulli/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli/__init__.py"
+    },
     "sensor.untapped": {
       "updated_at": "2018-07-08",
       "version": "",
