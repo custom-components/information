@@ -18,8 +18,8 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_cards/master/custom_components/custom_cards.py"
     },
     "custom_components": {
-      "updated_at": "2018-07-18",
-      "version": "0.0.7",
+      "updated_at": "2018-07-19",
+      "version": "0.0.8",
       "local_location": "/custom_components/custom_components.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_components/master/custom_components/custom_components.py"
     },
