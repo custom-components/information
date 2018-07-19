@@ -79,9 +79,9 @@
     },
     "sensor.tautulli": {
       "updated_at": "2018-07-19",
-      "version": "",
-      "local_location": "/custom_components/sensor/tautulli/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli/__init__.py"
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/tautulli.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py"
     },
     "sensor.untapped": {
       "updated_at": "2018-07-08",
