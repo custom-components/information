@@ -78,8 +78,8 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py"
     },
     "sensor.tautulli": {
-      "updated_at": "2018-07-20",
-      "version": "0.0.5",
+      "updated_at": "2018-07-21",
+      "version": "0.0.6",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py"
     },
