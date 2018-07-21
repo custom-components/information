@@ -47,3 +47,9 @@ Contact one of the users with an owner role.
 This are currently:
 
 - [ludeeus](https://github.com/ludeeus) - You can find him on he [Discord server](https://discord.gg/c5DvZ4e) as `@Ludeeus#4212`
+
+## When components / plaforms are added to Home Assistant
+
+If you get your custom_component in Home Assistant, the custom version of it should be archived.
+Before archiving the README file should be updated to point users to the official documentation.
+For a sugestion on how this can be done see the custom_component for [Cloudflare](https://github.com/custom-components/cloudflare).
