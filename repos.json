@@ -54,7 +54,7 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_cards/master/custom_components/sensor/custom_cards.py"
     },
     "sensor.custom_components": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-07-21",
       "version": "0.0.1",
       "local_location": "/custom_components/sensor/custom_components.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_components/master/custom_components/sensor/custom_components.py"
