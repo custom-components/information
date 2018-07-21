@@ -96,7 +96,7 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-07-21",
       "version": "",
       "local_location": "/custom_components/sensor/weatheralerts.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py"
