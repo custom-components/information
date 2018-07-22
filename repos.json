@@ -30,7 +30,7 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py"
     },
     "information": {
-      "updated_at": "2018-07-21",
+      "updated_at": "2018-07-22",
       "version": "",
       "local_location": "/custom_components/information/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/information/master/custom_components/information/__init__.py"
