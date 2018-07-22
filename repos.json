@@ -13,7 +13,7 @@
     },
     "custom_cards": {
       "updated_at": "2018-07-22",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "local_location": "/custom_components/custom_cards.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_cards/master/custom_components/custom_cards.py"
     },
