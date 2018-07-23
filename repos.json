@@ -7,14 +7,6 @@
       "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon",
       "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
     },
-    "cloudflare": {
-      "updated_at": "2018-07-21",
-      "version": "",
-      "local_location": "/custom_components/cloudflare.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/cloudflare/master/custom_components/cloudflare.py",
-      "visit_repo": "https://github.com/custom-components/cloudflare",
-      "changelog": "https://github.com/custom-components/cloudflare/releases/latest"
-    },
     "custom_cards": {
       "updated_at": "2018-07-22",
       "version": "2.1.0",
@@ -47,14 +39,6 @@
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
-    "information": {
-      "updated_at": "2018-07-23",
-      "version": "",
-      "local_location": "/custom_components/information/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/information/master/custom_components/information/__init__.py",
-      "visit_repo": "https://github.com/custom-components/information",
-      "changelog": "https://github.com/custom-components/information/releases/latest"
-    },
     "sensor.authenticated": {
       "updated_at": "2018-07-20",
       "version": "0.0.5",
@@ -70,22 +54,6 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
       "visit_repo": "https://github.com/custom-components/sensor.brewdog",
       "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
-    },
-    "sensor.custom_cards": {
-      "updated_at": "2018-07-22",
-      "version": "0.0.6",
-      "local_location": "/custom_components/sensor/custom_cards.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_cards/master/custom_components/sensor/custom_cards.py",
-      "visit_repo": "https://github.com/custom-components/sensor.custom_cards",
-      "changelog": "https://github.com/custom-components/sensor.custom_cards/releases/latest"
-    },
-    "sensor.custom_components": {
-      "updated_at": "2018-07-21",
-      "version": "0.0.1",
-      "local_location": "/custom_components/sensor/custom_components.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_components/master/custom_components/sensor/custom_components.py",
-      "visit_repo": "https://github.com/custom-components/sensor.custom_components",
-      "changelog": "https://github.com/custom-components/sensor.custom_components/releases/latest"
     },
     "sensor.launchlibrary": {
       "updated_at": "2018-07-20",
