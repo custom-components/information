@@ -7,22 +7,6 @@
       "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon",
       "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
     },
-    "custom_cards": {
-      "updated_at": "2018-07-22",
-      "version": "2.1.0",
-      "local_location": "/custom_components/custom_cards.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/custom_cards/master/custom_components/custom_cards.py",
-      "visit_repo": "https://github.com/custom-components/custom_cards",
-      "changelog": "https://github.com/custom-components/custom_cards/releases/latest"
-    },
-    "custom_components": {
-      "updated_at": "2018-07-21",
-      "version": "1.0.1",
-      "local_location": "/custom_components/custom_components.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/custom_components/master/custom_components/custom_components.py",
-      "visit_repo": "https://github.com/custom-components/custom_components",
-      "changelog": "https://github.com/custom-components/custom_components/releases/latest"
-    },
     "custom_updater": {
       "updated_at": "2018-07-23",
       "version": "1.0.0",
