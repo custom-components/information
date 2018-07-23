@@ -24,10 +24,10 @@
       "changelog": "https://github.com/custom-components/custom_components/releases/latest"
     },
     "custom_updater": {
-      "updated_at": "2018-07-22",
-      "version": "",
-      "local_location": "/custom_components/custom_updater/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
+      "updated_at": "2018-07-23",
+      "version": "1.0.0",
+      "local_location": "/custom_components/custom_updater.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
       "visit_repo": "https://github.com/custom-components/custom_updater",
       "changelog": "https://github.com/custom-components/custom_updater/releases/latest"
     },
