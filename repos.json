@@ -104,7 +104,7 @@
       "changelog": "https://github.com/custom-components/sensor.wienerlinien/releases/latest"
     },
     "sickrage": {
-      "updated_at": "2018-07-18",
+      "updated_at": "2018-07-24",
       "version": "0.0.2",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
