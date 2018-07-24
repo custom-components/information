@@ -105,7 +105,7 @@
     },
     "sickrage": {
       "updated_at": "2018-07-24",
-      "version": "0.0.3",
+      "version": "0.1.0",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
