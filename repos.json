@@ -24,7 +24,7 @@
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
     "sensor.authenticated": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-07-25",
       "version": "0.0.5",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
