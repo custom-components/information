@@ -112,7 +112,7 @@
       "changelog": "https://github.com/custom-components/sickrage/releases/latest"
     },
     "switch.hadockermon": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-07-28",
       "version": "",
       "local_location": "/custom_components/switch/hadockermon.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
