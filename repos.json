@@ -118,5 +118,13 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
       "visit_repo": "https://github.com/custom-components/switch.hadockermon",
       "changelog": "https://github.com/custom-components/switch.hadockermon/releases/latest"
+    },
+    "usps_mail": {
+      "updated_at": "2018-07-29",
+      "version": "",
+      "local_location": "/custom_components/usps_mail/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail/__init__.py",
+      "visit_repo": "https://github.com/custom-components/usps_mail",
+      "changelog": "https://github.com/custom-components/usps_mail/releases/latest"
     }
 }
