@@ -8,7 +8,7 @@
       "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
     },
     "custom_updater": {
-      "updated_at": "2018-07-23",
+      "updated_at": "2018-07-30",
       "version": "1.2.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
