@@ -25,7 +25,7 @@
     },
     "sensor.authenticated": {
       "updated_at": "2018-07-30",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
