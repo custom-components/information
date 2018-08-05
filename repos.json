@@ -7,6 +7,14 @@
       "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon",
       "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
     },
+    "camera.unsplash": {
+      "updated_at": "2018-08-05",
+      "version": "0.0.1",
+      "local_location": "/custom_components/camera/unsplash.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
+      "visit_repo": "https://github.com/custom-components/camera.unsplash",
+      "changelog": "https://github.com/custom-components/camera.unsplash/releases/latest"
+    },
     "custom_updater": {
       "updated_at": "2018-08-04",
       "version": "1.3.0",
