@@ -9,9 +9,9 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-06",
-      "version": "",
-      "local_location": "/custom_components/camera/combined/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined/__init__.py",
+      "version": "0.0.1",
+      "local_location": "/custom_components/camera/combined.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
       "changelog": "https://github.com/custom-components/camera.combined/releases/latest"
     },
