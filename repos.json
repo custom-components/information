@@ -97,7 +97,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-07-20",
-      "version": "0.0.5",
+      "version": "0.1.0",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
