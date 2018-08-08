@@ -56,7 +56,7 @@
       "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
     },
     "sensor.launchlibrary": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-08-08",
       "version": "",
       "local_location": "/custom_components/sensor/launchlibrary.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.launchlibrary/master/custom_components/sensor/launchlibrary.py",
