@@ -80,7 +80,7 @@
       "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest"
     },
     "sensor.tautulli": {
-      "updated_at": "2018-08-08",
+      "updated_at": "2018-08-09",
       "version": "0.0.8",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
