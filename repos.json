@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "0.0.1",
+      "version": "",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -25,7 +25,7 @@
     },
     "custom_updater": {
       "updated_at": "2018-08-12",
-      "version": "",
+      "version": "2.0.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
       "visit_repo": "https://github.com/custom-components/custom_updater",
@@ -33,7 +33,7 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "1.0.4",
       "local_location": "/custom_components/hassbian_config/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
@@ -41,7 +41,7 @@
     },
     "sensor.authenticated": {
       "updated_at": "2018-08-11",
-      "version": "0.2.0",
+      "version": "",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
@@ -65,7 +65,7 @@
     },
     "sensor.rpi_power": {
       "updated_at": "2018-08-06",
-      "version": "0.0.7",
+      "version": "",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
       "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
@@ -73,7 +73,7 @@
     },
     "sensor.ruter": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "2.1.1",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
@@ -88,7 +88,7 @@
       "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
     "sensor.untapped": {
-      "updated_at": "2018-08-10",
+      "updated_at": "2018-08-12",
       "version": "",
       "local_location": "/custom_components/sensor/untapped/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
@@ -97,7 +97,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-08-07",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
