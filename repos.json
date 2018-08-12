@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -17,7 +17,7 @@
     },
     "camera.unsplash": {
       "updated_at": "2018-08-08",
-      "version": "0.4.2",
+      "version": "",
       "local_location": "/custom_components/camera/unsplash.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
       "visit_repo": "https://github.com/custom-components/camera.unsplash",
@@ -33,9 +33,9 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "",
-      "local_location": "/custom_components/hassbian_config.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+      "version": "1.0.4",
+      "local_location": "/custom_components/hassbian_config/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
@@ -65,7 +65,7 @@
     },
     "sensor.rpi_power": {
       "updated_at": "2018-08-06",
-      "version": "",
+      "version": "0.0.7",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
       "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
@@ -97,7 +97,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-08-07",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
@@ -113,7 +113,7 @@
     },
     "sensor.wienerlinien": {
       "updated_at": "2018-07-20",
-      "version": "1.1.1",
+      "version": "",
       "local_location": "/custom_components/sensor/wienerlinien.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
       "visit_repo": "https://github.com/custom-components/sensor.wienerlinien",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "",
+      "version": "0.1.0",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
