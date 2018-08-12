@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -17,7 +17,7 @@
     },
     "camera.unsplash": {
       "updated_at": "2018-08-08",
-      "version": "",
+      "version": "0.4.2",
       "local_location": "/custom_components/camera/unsplash.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
       "visit_repo": "https://github.com/custom-components/camera.unsplash",
@@ -33,7 +33,7 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "1.0.4",
       "local_location": "/custom_components/hassbian_config/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
@@ -41,7 +41,7 @@
     },
     "sensor.authenticated": {
       "updated_at": "2018-08-11",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
@@ -49,7 +49,7 @@
     },
     "sensor.brewdog": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "0.0.2",
       "local_location": "/custom_components/sensor/brewdog.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
       "visit_repo": "https://github.com/custom-components/sensor.brewdog",
@@ -65,7 +65,7 @@
     },
     "sensor.rpi_power": {
       "updated_at": "2018-08-06",
-      "version": "",
+      "version": "0.0.7",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
       "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
@@ -73,7 +73,7 @@
     },
     "sensor.ruter": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "2.1.1",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
@@ -81,7 +81,7 @@
     },
     "sensor.tautulli": {
       "updated_at": "2018-08-09",
-      "version": "",
+      "version": "0.0.8",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
       "visit_repo": "https://github.com/custom-components/sensor.tautulli",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "",
+      "version": "0.1.0",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
