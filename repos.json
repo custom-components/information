@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -41,7 +41,7 @@
     },
     "sensor.authenticated": {
       "updated_at": "2018-08-11",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "",
+      "version": "0.1.0",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
