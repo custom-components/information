@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -25,7 +25,7 @@
     },
     "custom_updater": {
       "updated_at": "2018-08-15",
-      "version": "",
+      "version": "2.1.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
       "visit_repo": "https://github.com/custom-components/custom_updater",
@@ -33,9 +33,9 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "",
-      "local_location": "/custom_components/hassbian_config.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+      "version": "1.0.4",
+      "local_location": "/custom_components/hassbian_config/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
@@ -49,7 +49,7 @@
     },
     "sensor.brewdog": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "0.0.2",
       "local_location": "/custom_components/sensor/brewdog.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
       "visit_repo": "https://github.com/custom-components/sensor.brewdog",
@@ -65,7 +65,7 @@
     },
     "sensor.rpi_power": {
       "updated_at": "2018-08-06",
-      "version": "",
+      "version": "0.0.7",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
       "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
@@ -73,7 +73,7 @@
     },
     "sensor.ruter": {
       "updated_at": "2018-07-20",
-      "version": "",
+      "version": "2.1.1",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
@@ -90,8 +90,8 @@
     "sensor.untapped": {
       "updated_at": "2018-08-12",
       "version": "",
-      "local_location": "/custom_components/sensor/untapped.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped.py",
+      "local_location": "/custom_components/sensor/untapped/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
       "visit_repo": "https://github.com/custom-components/sensor.untapped",
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
@@ -113,7 +113,7 @@
     },
     "sensor.wienerlinien": {
       "updated_at": "2018-07-20",
-      "version": "1.1.1",
+      "version": "",
       "local_location": "/custom_components/sensor/wienerlinien.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
       "visit_repo": "https://github.com/custom-components/sensor.wienerlinien",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
