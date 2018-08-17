@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-08",
-      "version": "0.0.1",
+      "version": "",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -33,15 +33,15 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "1.0.4",
-      "local_location": "/custom_components/hassbian_config/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
+      "version": "",
+      "local_location": "/custom_components/hassbian_config.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
     "sensor.authenticated": {
       "updated_at": "2018-08-17",
-      "version": "0.2.0",
+      "version": "",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
@@ -73,7 +73,7 @@
     },
     "sensor.ruter": {
       "updated_at": "2018-07-20",
-      "version": "2.1.1",
+      "version": "",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
@@ -121,7 +121,7 @@
     },
     "sickrage": {
       "updated_at": "2018-08-05",
-      "version": "",
+      "version": "0.1.0",
       "local_location": "/custom_components/sickrage/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
@@ -137,7 +137,7 @@
     },
     "usps_mail": {
       "updated_at": "2018-08-16",
-      "version": "0.0.5",
+      "version": "",
       "local_location": "/custom_components/usps_mail.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
       "visit_repo": "https://github.com/custom-components/usps_mail",
