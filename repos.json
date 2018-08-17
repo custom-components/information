@@ -17,7 +17,7 @@
     },
     "camera.unsplash": {
       "updated_at": "2018-08-08",
-      "version": "0.4.2",
+      "version": "",
       "local_location": "/custom_components/camera/unsplash.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
       "visit_repo": "https://github.com/custom-components/camera.unsplash",
@@ -33,14 +33,14 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "1.0.4",
+      "version": "",
       "local_location": "/custom_components/hassbian_config/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
     "sensor.authenticated": {
-      "updated_at": "2018-08-14",
+      "updated_at": "2018-08-17",
       "version": "0.2.0",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
@@ -49,7 +49,7 @@
     },
     "sensor.brewdog": {
       "updated_at": "2018-07-20",
-      "version": "0.0.2",
+      "version": "",
       "local_location": "/custom_components/sensor/brewdog.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
       "visit_repo": "https://github.com/custom-components/sensor.brewdog",
@@ -81,7 +81,7 @@
     },
     "sensor.tautulli": {
       "updated_at": "2018-08-16",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
       "visit_repo": "https://github.com/custom-components/sensor.tautulli",
@@ -97,7 +97,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-08-07",
-      "version": "0.1.0",
+      "version": "",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
@@ -113,7 +113,7 @@
     },
     "sensor.wienerlinien": {
       "updated_at": "2018-07-20",
-      "version": "1.1.1",
+      "version": "",
       "local_location": "/custom_components/sensor/wienerlinien.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
       "visit_repo": "https://github.com/custom-components/sensor.wienerlinien",
@@ -122,8 +122,8 @@
     "sickrage": {
       "updated_at": "2018-08-05",
       "version": "",
-      "local_location": "/custom_components/sickrage/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage/__init__.py",
+      "local_location": "/custom_components/sickrage.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sickrage/master/custom_components/sickrage.py",
       "visit_repo": "https://github.com/custom-components/sickrage",
       "changelog": "https://github.com/custom-components/sickrage/releases/latest"
     },
@@ -137,7 +137,7 @@
     },
     "usps_mail": {
       "updated_at": "2018-08-16",
-      "version": "0.0.5",
+      "version": "",
       "local_location": "/custom_components/usps_mail.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
       "visit_repo": "https://github.com/custom-components/usps_mail",
