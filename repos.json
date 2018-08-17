@@ -33,7 +33,7 @@
     },
     "hassbian_config": {
       "updated_at": "2018-07-20",
-      "version": "1.0.4",
+      "version": "",
       "local_location": "/custom_components/hassbian_config/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config/__init__.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
@@ -90,8 +90,8 @@
     "sensor.untapped": {
       "updated_at": "2018-08-12",
       "version": "",
-      "local_location": "/custom_components/sensor/untapped/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
+      "local_location": "/custom_components/sensor/untapped.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped.py",
       "visit_repo": "https://github.com/custom-components/sensor.untapped",
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
@@ -137,7 +137,7 @@
     },
     "usps_mail": {
       "updated_at": "2018-08-16",
-      "version": "0.0.5",
+      "version": "",
       "local_location": "/custom_components/usps_mail.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
       "visit_repo": "https://github.com/custom-components/usps_mail",
