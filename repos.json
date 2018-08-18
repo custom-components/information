@@ -65,9 +65,9 @@
     },
     "sensor.feedparser": {
       "updated_at": "2018-08-18",
-      "version": "",
-      "local_location": "/custom_components/sensor/feedparser/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser/__init__.py",
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/feedparser.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
       "visit_repo": "https://github.com/custom-components/sensor.feedparser",
       "changelog": "https://github.com/custom-components/sensor.feedparser/releases/latest"
     },
