@@ -63,6 +63,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.brewdog",
       "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
     },
+    "sensor.feedparser": {
+      "updated_at": "2018-08-18",
+      "version": "",
+      "local_location": "/custom_components/sensor/feedparser/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser/__init__.py",
+      "visit_repo": "https://github.com/custom-components/sensor.feedparser",
+      "changelog": "https://github.com/custom-components/sensor.feedparser/releases/latest"
+    },
     "sensor.launchlibrary": {
       "updated_at": "2018-08-18",
       "version": "",
