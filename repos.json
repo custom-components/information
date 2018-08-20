@@ -17,7 +17,7 @@
     },
     "camera.multisource": {
       "updated_at": "2018-08-20",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "local_location": "/custom_components/camera/multisource.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
       "visit_repo": "https://github.com/custom-components/camera.multisource",
