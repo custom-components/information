@@ -120,7 +120,7 @@
       "changelog": "https://github.com/custom-components/sensor.versions/releases/latest"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-07-21",
+      "updated_at": "2018-08-20",
       "version": "",
       "local_location": "/custom_components/sensor/weatheralerts.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
