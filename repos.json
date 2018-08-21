@@ -103,6 +103,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
       "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest"
     },
+    "sensor.syncthing": {
+      "updated_at": "2018-08-21",
+      "version": "",
+      "local_location": "/custom_components/sensor/syncthing/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.syncthing/master/custom_components/sensor/syncthing/__init__.py",
+      "visit_repo": "https://github.com/custom-components/sensor.syncthing",
+      "changelog": "https://github.com/custom-components/sensor.syncthing/releases/latest"
+    },
     "sensor.tautulli": {
       "updated_at": "2018-08-17",
       "version": "0.1.0",
