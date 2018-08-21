@@ -48,8 +48,8 @@
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
     "sensor.aftership": {
-      "updated_at": "2018-08-17",
-      "version": "0.0.2",
+      "updated_at": "2018-08-21",
+      "version": "0.1.0",
       "local_location": "/custom_components/sensor/aftership.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
       "visit_repo": "https://github.com/custom-components/sensor.aftership",
