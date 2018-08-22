@@ -32,7 +32,7 @@
       "changelog": "https://github.com/custom-components/camera.unsplash/releases/latest"
     },
     "custom_updater": {
-      "updated_at": "2018-08-19",
+      "updated_at": "2018-08-22",
       "version": "2.2.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
