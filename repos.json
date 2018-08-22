@@ -120,7 +120,7 @@
       "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
     "sensor.untapped": {
-      "updated_at": "2018-08-12",
+      "updated_at": "2018-08-22",
       "version": "",
       "local_location": "/custom_components/sensor/untapped/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
