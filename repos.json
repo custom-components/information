@@ -8,7 +8,7 @@
       "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
     },
     "camera.combined": {
-      "updated_at": "2018-08-20",
+      "updated_at": "2018-08-23",
       "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
@@ -104,7 +104,7 @@
       "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/latest"
     },
     "sensor.ruter": {
-      "updated_at": "2018-07-20",
+      "updated_at": "2018-08-23",
       "version": "2.1.1",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
@@ -168,7 +168,7 @@
       "changelog": "https://github.com/custom-components/sickrage/releases/latest"
     },
     "switch.hadockermon": {
-      "updated_at": "2018-07-28",
+      "updated_at": "2018-08-23",
       "version": "",
       "local_location": "/custom_components/switch/hadockermon.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
