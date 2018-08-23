@@ -89,9 +89,9 @@
     },
     "sensor.personalcapital": {
       "updated_at": "2018-08-23",
-      "version": "",
-      "local_location": "/custom_components/sensor/personalcapital/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital/__init__.py",
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/personalcapital.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
       "visit_repo": "https://github.com/custom-components/sensor.personalcapital",
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
