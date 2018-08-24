@@ -72,7 +72,7 @@
       "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
     },
     "sensor.feedparser": {
-      "updated_at": "2018-08-22",
+      "updated_at": "2018-08-24",
       "version": "0.0.1",
       "local_location": "/custom_components/sensor/feedparser.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
@@ -88,7 +88,7 @@
       "changelog": "https://github.com/custom-components/sensor.launchlibrary/releases/latest"
     },
     "sensor.personalcapital": {
-      "updated_at": "2018-08-23",
+      "updated_at": "2018-08-24",
       "version": "0.0.1",
       "local_location": "/custom_components/sensor/personalcapital.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
