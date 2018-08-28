@@ -127,6 +127,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.tautulli",
       "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
+    "sensor.trakt": {
+      "updated_at": "2018-08-28",
+      "version": "",
+      "local_location": "/custom_components/sensor/trakt/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt/__init__.py",
+      "visit_repo": "https://github.com/custom-components/sensor.trakt",
+      "changelog": "https://github.com/custom-components/sensor.trakt/releases/latest"
+    },
     "sensor.untapped": {
       "updated_at": "2018-08-24",
       "version": "",
