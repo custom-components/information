@@ -136,7 +136,7 @@
       "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
     "sensor.trakt": {
-      "updated_at": "2018-08-28",
+      "updated_at": "2018-08-29",
       "version": "0.0.1",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
@@ -160,7 +160,7 @@
       "changelog": "https://github.com/custom-components/sensor.versions/releases/latest"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-08-20",
+      "updated_at": "2018-08-29",
       "version": "",
       "local_location": "/custom_components/sensor/weatheralerts.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
