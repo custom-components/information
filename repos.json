@@ -55,6 +55,14 @@
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
+    "media_player.braviatv_psk": {
+      "updated_at": "2018-08-29",
+      "version": "",
+      "local_location": "/custom_components/media_player/braviatv_psk/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk/__init__.py",
+      "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk",
+      "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/latest"
+    },
     "sensor.aftership": {
       "updated_at": "2018-08-29",
       "version": "0.3.0",
