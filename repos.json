@@ -87,6 +87,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.feedparser",
       "changelog": "https://github.com/custom-components/sensor.feedparser/releases/latest"
     },
+    "sensor.geoip": {
+      "updated_at": "2018-08-29",
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/geoip.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
+      "visit_repo": "https://github.com/custom-components/sensor.geoip",
+      "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest"
+    },
     "sensor.launchlibrary": {
       "updated_at": "2018-08-18",
       "version": "",
