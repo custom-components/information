@@ -176,7 +176,7 @@
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
     "sensor.versions": {
-      "updated_at": "2018-08-07",
+      "updated_at": "2018-08-31",
       "version": "0.1.0",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
