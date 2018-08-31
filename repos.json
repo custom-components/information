@@ -119,13 +119,13 @@
       "visit_repo": "https://github.com/custom-components/sensor.personalcapital",
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
-    "sensor.radar_upcoming_media": {
+    "sensor.radarr_upcoming_media": {
       "updated_at": "2018-08-31",
-      "version": "",
-      "local_location": "/custom_components/sensor/radar_upcoming_media/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radar_upcoming_media/master/custom_components/sensor/radar_upcoming_media/__init__.py",
-      "visit_repo": "https://github.com/custom-components/sensor.radar_upcoming_media",
-      "changelog": "https://github.com/custom-components/sensor.radar_upcoming_media/releases/latest"
+      "version": "0.0.1",
+      "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
+      "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
+      "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/latest"
     },
     "sensor.rpi_power": {
       "updated_at": "2018-08-20",
