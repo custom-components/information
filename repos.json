@@ -33,7 +33,7 @@
     },
     "climate.e_thermostaat": {
       "updated_at": "2018-08-28",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/climate/e_thermostaat.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
       "visit_repo": "https://github.com/custom-components/climate.e_thermostaat",
