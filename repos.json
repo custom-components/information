@@ -104,7 +104,7 @@
       "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest"
     },
     "sensor.launchlibrary": {
-      "updated_at": "2018-08-18",
+      "updated_at": "2018-09-05",
       "version": "",
       "local_location": "/custom_components/sensor/launchlibrary.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.launchlibrary/master/custom_components/sensor/launchlibrary.py",
@@ -192,7 +192,7 @@
       "changelog": "https://github.com/custom-components/sensor.versions/releases/latest"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-08-29",
+      "updated_at": "2018-09-05",
       "version": "",
       "local_location": "/custom_components/sensor/weatheralerts.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
