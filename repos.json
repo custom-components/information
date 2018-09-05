@@ -40,7 +40,7 @@
       "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/latest"
     },
     "custom_updater": {
-      "updated_at": "2018-09-04",
+      "updated_at": "2018-09-05",
       "version": "2.2.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
@@ -112,7 +112,7 @@
       "changelog": "https://github.com/custom-components/sensor.launchlibrary/releases/latest"
     },
     "sensor.personalcapital": {
-      "updated_at": "2018-08-28",
+      "updated_at": "2018-09-05",
       "version": "0.0.1",
       "local_location": "/custom_components/sensor/personalcapital.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
