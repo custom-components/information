@@ -40,8 +40,8 @@
       "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/latest"
     },
     "custom_updater": {
-      "updated_at": "2018-09-07",
-      "version": "2.2.1",
+      "updated_at": "2018-09-08",
+      "version": "2.3.0",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
       "visit_repo": "https://github.com/custom-components/custom_updater",
