@@ -55,6 +55,14 @@
       "visit_repo": "https://github.com/custom-components/hassbian_config",
       "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
     },
+    "lists": {
+      "updated_at": "2018-09-14",
+      "version": "",
+      "local_location": "/custom_components/lists/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists/__init__.py",
+      "visit_repo": "https://github.com/custom-components/lists",
+      "changelog": "https://github.com/custom-components/lists/releases/latest"
+    },
     "media_player.braviatv_psk": {
       "updated_at": "2018-09-03",
       "version": "0.2.0",
