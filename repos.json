@@ -176,7 +176,7 @@
       "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
     "sensor.trakt": {
-      "updated_at": "2018-09-14",
+      "updated_at": "2018-09-15",
       "version": "0.0.2",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
