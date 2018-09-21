@@ -41,7 +41,7 @@
     },
     "custom_updater": {
       "updated_at": "2018-09-21",
-      "version": "2.6.0",
+      "version": "2.6.1",
       "local_location": "/custom_components/custom_updater.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
       "visit_repo": "https://github.com/custom-components/custom_updater",
