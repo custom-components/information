@@ -9,7 +9,7 @@
     },
     "camera.combined": {
       "updated_at": "2018-08-31",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/camera/combined.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
       "visit_repo": "https://github.com/custom-components/camera.combined",
@@ -17,7 +17,7 @@
     },
     "camera.multisource": {
       "updated_at": "2018-08-23",
-      "version": "",
+      "version": "0.3.0",
       "local_location": "/custom_components/camera/multisource.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
       "visit_repo": "https://github.com/custom-components/camera.multisource",
@@ -25,7 +25,7 @@
     },
     "camera.unsplash": {
       "updated_at": "2018-09-10",
-      "version": "",
+      "version": "0.4.2",
       "local_location": "/custom_components/camera/unsplash.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
       "visit_repo": "https://github.com/custom-components/camera.unsplash",
@@ -33,7 +33,7 @@
     },
     "climate.e_thermostaat": {
       "updated_at": "2018-08-28",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/climate/e_thermostaat.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
       "visit_repo": "https://github.com/custom-components/climate.e_thermostaat",
@@ -49,7 +49,7 @@
     },
     "hassbian_config": {
       "updated_at": "2018-09-08",
-      "version": "",
+      "version": "2.0.1",
       "local_location": "/custom_components/hassbian_config.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
       "visit_repo": "https://github.com/custom-components/hassbian_config",
@@ -65,7 +65,7 @@
     },
     "media_player.braviatv_psk": {
       "updated_at": "2018-09-03",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/media_player/braviatv_psk.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
       "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk",
@@ -73,7 +73,7 @@
     },
     "sensor.aftership": {
       "updated_at": "2018-10-02",
-      "version": "",
+      "version": "0.3.0",
       "local_location": "/custom_components/sensor/aftership.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
       "visit_repo": "https://github.com/custom-components/sensor.aftership",
@@ -81,7 +81,7 @@
     },
     "sensor.authenticated": {
       "updated_at": "2018-09-08",
-      "version": "",
+      "version": "0.3.1",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
@@ -97,7 +97,7 @@
     },
     "sensor.feedparser": {
       "updated_at": "2018-09-10",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/sensor/feedparser.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
       "visit_repo": "https://github.com/custom-components/sensor.feedparser",
@@ -105,7 +105,7 @@
     },
     "sensor.geoip": {
       "updated_at": "2018-08-29",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/sensor/geoip.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
       "visit_repo": "https://github.com/custom-components/sensor.geoip",
@@ -113,7 +113,7 @@
     },
     "sensor.launchlibrary": {
       "updated_at": "2018-09-23",
-      "version": "",
+      "version": "1.1.0",
       "local_location": "/custom_components/sensor/launchlibrary.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.launchlibrary/master/custom_components/sensor/launchlibrary.py",
       "visit_repo": "https://github.com/custom-components/sensor.launchlibrary",
@@ -121,7 +121,7 @@
     },
     "sensor.personalcapital": {
       "updated_at": "2018-10-01",
-      "version": "",
+      "version": "0.0.1",
       "local_location": "/custom_components/sensor/personalcapital.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
       "visit_repo": "https://github.com/custom-components/sensor.personalcapital",
@@ -129,7 +129,7 @@
     },
     "sensor.radarr_upcoming_media": {
       "updated_at": "2018-09-13",
-      "version": "",
+      "version": "0.1.5",
       "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
@@ -137,7 +137,7 @@
     },
     "sensor.rpi_power": {
       "updated_at": "2018-10-02",
-      "version": "",
+      "version": "0.0.7",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
       "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
@@ -153,7 +153,7 @@
     },
     "sensor.sonarr_upcoming_media": {
       "updated_at": "2018-09-17",
-      "version": "",
+      "version": "0.0.7",
       "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media",
@@ -169,7 +169,7 @@
     },
     "sensor.tautulli": {
       "updated_at": "2018-09-27",
-      "version": "",
+      "version": "0.2.0",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
       "visit_repo": "https://github.com/custom-components/sensor.tautulli",
@@ -177,7 +177,7 @@
     },
     "sensor.trakt": {
       "updated_at": "2018-10-02",
-      "version": "",
+      "version": "trakt==2.8.2",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
       "visit_repo": "https://github.com/custom-components/sensor.trakt",
@@ -193,7 +193,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-09-02",
-      "version": "",
+      "version": "0.3.0",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
