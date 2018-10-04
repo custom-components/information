@@ -119,6 +119,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.launchlibrary",
       "changelog": "https://github.com/custom-components/sensor.launchlibrary/releases/latest"
     },
+    "sensor.owlintuition": {
+      "updated_at": "2018-10-04",
+      "version": "",
+      "local_location": "/custom_components/sensor/owlintuition/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition/__init__.py",
+      "visit_repo": "https://github.com/custom-components/sensor.owlintuition",
+      "changelog": "https://github.com/custom-components/sensor.owlintuition/releases/latest"
+    },
     "sensor.personalcapital": {
       "updated_at": "2018-10-01",
       "version": "0.0.1",
