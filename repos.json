@@ -122,8 +122,8 @@
     "sensor.owlintuition": {
       "updated_at": "2018-10-04",
       "version": "",
-      "local_location": "/custom_components/sensor/owlintuition/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition/__init__.py",
+      "local_location": "/custom_components/sensor/owlintuition.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
       "visit_repo": "https://github.com/custom-components/sensor.owlintuition",
       "changelog": "https://github.com/custom-components/sensor.owlintuition/releases/latest"
     },
