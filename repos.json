@@ -193,7 +193,7 @@
     },
     "sensor.unifigateway": {
       "updated_at": "2018-10-05",
-      "version": "",
+      "version": "0.1.0",
       "local_location": "/custom_components/sensor/unifigateway.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
       "visit_repo": "https://github.com/custom-components/sensor.unifigateway",
