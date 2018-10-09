@@ -120,7 +120,7 @@
       "changelog": "https://github.com/custom-components/sensor.launchlibrary/releases/latest"
     },
     "sensor.owlintuition": {
-      "updated_at": "2018-10-07",
+      "updated_at": "2018-10-09",
       "version": "1.0.0",
       "local_location": "/custom_components/sensor/owlintuition.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
