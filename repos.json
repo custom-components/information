@@ -137,7 +137,7 @@
     },
     "sensor.radarr_upcoming_media": {
       "updated_at": "2018-10-23",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
@@ -161,7 +161,7 @@
     },
     "sensor.sonarr_upcoming_media": {
       "updated_at": "2018-10-23",
-      "version": "0.0.9",
+      "version": "0.1.0",
       "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media",
