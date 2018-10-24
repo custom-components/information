@@ -137,7 +137,7 @@
     },
     "sensor.radarr_upcoming_media": {
       "updated_at": "2018-10-24",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
