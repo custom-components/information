@@ -136,8 +136,8 @@
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
     "sensor.radarr_upcoming_media": {
-      "updated_at": "2018-10-25",
-      "version": "0.1.9",
+      "updated_at": "2018-10-26",
+      "version": "0.2.0",
       "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
