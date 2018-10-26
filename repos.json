@@ -167,6 +167,14 @@
       "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media",
       "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/latest"
     },
+    "sensor.ssh": {
+      "updated_at": "2018-10-26",
+      "version": "",
+      "local_location": "/custom_components/sensor/ssh/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh/__init__.py",
+      "visit_repo": "https://github.com/custom-components/sensor.ssh",
+      "changelog": "https://github.com/custom-components/sensor.ssh/releases/latest"
+    },
     "sensor.syncthing": {
       "updated_at": "2018-08-21",
       "version": "",
