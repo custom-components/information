@@ -248,7 +248,7 @@
       "changelog": "https://github.com/custom-components/sickchill/releases/latest"
     },
     "switch.hadockermon": {
-      "updated_at": "2018-10-27",
+      "updated_at": "2018-10-28",
       "version": "",
       "local_location": "/custom_components/switch/hadockermon.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
