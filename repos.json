@@ -72,7 +72,7 @@
       "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/latest"
     },
     "sensor.aftership": {
-      "updated_at": "2018-10-04",
+      "updated_at": "2018-10-31",
       "version": "0.3.0",
       "local_location": "/custom_components/sensor/aftership.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
