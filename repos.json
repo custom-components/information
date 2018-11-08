@@ -184,7 +184,7 @@
       "changelog": "https://github.com/custom-components/sensor.syncthing/releases/latest"
     },
     "sensor.tautulli": {
-      "updated_at": "2018-10-30",
+      "updated_at": "2018-11-08",
       "version": "",
       "local_location": "/custom_components/sensor/tautulli.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
