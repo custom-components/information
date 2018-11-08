@@ -217,7 +217,7 @@
     },
     "sensor.versions": {
       "updated_at": "2018-11-06",
-      "version": "pyhaversion==2.0.1",
+      "version": "9.9.9",
       "local_location": "/custom_components/sensor/versions.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
       "visit_repo": "https://github.com/custom-components/sensor.versions",
