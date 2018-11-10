@@ -215,14 +215,6 @@
       "visit_repo": "https://github.com/custom-components/sensor.untapped",
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
-    "sensor.versions": {
-      "updated_at": "2018-11-08",
-      "version": "9.9.9",
-      "local_location": "/custom_components/sensor/versions.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.versions/master/custom_components/sensor/versions.py",
-      "visit_repo": "https://github.com/custom-components/sensor.versions",
-      "changelog": "https://github.com/custom-components/sensor.versions/releases/latest"
-    },
     "sensor.weatheralerts": {
       "updated_at": "2018-10-23",
       "version": "",
