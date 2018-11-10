@@ -248,8 +248,8 @@
       "changelog": "https://github.com/custom-components/switch.hadockermon/releases/latest"
     },
     "usps_mail": {
-      "updated_at": "2018-10-12",
-      "version": "0.0.5",
+      "updated_at": "2018-11-10",
+      "version": "0.0.6",
       "local_location": "/custom_components/usps_mail.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
       "visit_repo": "https://github.com/custom-components/usps_mail",
