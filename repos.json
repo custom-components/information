@@ -137,7 +137,7 @@
     },
     "sensor.plex_recently_added": {
       "updated_at": "2018-11-12",
-      "version": "s recently added media. https://github.com/custom-components/sensor.plex_recently_added https://github.com/custom-cards/upcoming-media-card """ import os.path import logging import json import requests import voluptuous as vol import homeassistant.helpers.config_validation as cv from homeassistant.components.sensor import PLATFORM_SCHEMA from homeassistant.const import CONF_SSL from homeassistant.helpers.entity import Entity __version__ = ",
+      "version": "0.0.9",
       "local_location": "/custom_components/sensor/plex_recently_added.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
       "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
