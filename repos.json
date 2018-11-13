@@ -137,7 +137,7 @@
     },
     "sensor.plex_recently_added": {
       "updated_at": "2018-11-13",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "local_location": "/custom_components/sensor/plex_recently_added.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
       "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
