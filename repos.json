@@ -144,7 +144,7 @@
       "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/latest"
     },
     "sensor.radarr_upcoming_media": {
-      "updated_at": "2018-11-12",
+      "updated_at": "2018-11-14",
       "version": "0.2.3",
       "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
