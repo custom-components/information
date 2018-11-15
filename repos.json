@@ -161,7 +161,7 @@
     },
     "sensor.ruter": {
       "updated_at": "2018-11-05",
-      "version": "3.0.0",
+      "version": "",
       "local_location": "/custom_components/sensor/ruter.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
       "visit_repo": "https://github.com/custom-components/sensor.ruter",
