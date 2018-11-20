@@ -80,8 +80,8 @@
       "changelog": "https://github.com/custom-components/sensor.aftership/releases/latest"
     },
     "sensor.authenticated": {
-      "updated_at": "2018-10-31",
-      "version": "0.3.1",
+      "updated_at": "2018-11-20",
+      "version": "0.4.0",
       "local_location": "/custom_components/sensor/authenticated.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
       "visit_repo": "https://github.com/custom-components/sensor.authenticated",
