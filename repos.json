@@ -136,8 +136,8 @@
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
     "sensor.plex_recently_added": {
-      "updated_at": "2018-11-22",
-      "version": "0.1.7",
+      "updated_at": "2018-11-23",
+      "version": "0.1.8",
       "local_location": "/custom_components/sensor/plex_recently_added.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
       "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
