@@ -96,7 +96,7 @@
       "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
     },
     "sensor.feedparser": {
-      "updated_at": "2018-10-21",
+      "updated_at": "2018-11-28",
       "version": "0.0.2",
       "local_location": "/custom_components/sensor/feedparser.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
