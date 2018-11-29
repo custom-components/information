@@ -224,7 +224,7 @@
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-10-23",
+      "updated_at": "2018-11-29",
       "version": "",
       "local_location": "/custom_components/sensor/weatheralerts.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
