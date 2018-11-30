@@ -111,14 +111,6 @@
       "visit_repo": "https://github.com/custom-components/sensor.geoip",
       "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest"
     },
-    "sensor.launchlibrary": {
-      "updated_at": "2018-09-23",
-      "version": "1.1.0",
-      "local_location": "/custom_components/sensor/launchlibrary.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.launchlibrary/master/custom_components/sensor/launchlibrary.py",
-      "visit_repo": "https://github.com/custom-components/sensor.launchlibrary",
-      "changelog": "https://github.com/custom-components/sensor.launchlibrary/releases/latest"
-    },
     "sensor.owlintuition": {
       "updated_at": "2018-10-25",
       "version": "1.1.0",
@@ -190,14 +182,6 @@
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.syncthing/master/custom_components/sensor/syncthing/__init__.py",
       "visit_repo": "https://github.com/custom-components/sensor.syncthing",
       "changelog": "https://github.com/custom-components/sensor.syncthing/releases/latest"
-    },
-    "sensor.tautulli": {
-      "updated_at": "2018-11-19",
-      "version": "",
-      "local_location": "/custom_components/sensor/tautulli.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.tautulli/master/custom_components/sensor/tautulli.py",
-      "visit_repo": "https://github.com/custom-components/sensor.tautulli",
-      "changelog": "https://github.com/custom-components/sensor.tautulli/releases/latest"
     },
     "sensor.trakt": {
       "updated_at": "2018-11-21",
