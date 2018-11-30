@@ -136,8 +136,8 @@
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
     "sensor.plex_recently_added": {
-      "updated_at": "2018-11-25",
-      "version": "0.1.8",
+      "updated_at": "2018-11-30",
+      "version": "0.1.9",
       "local_location": "/custom_components/sensor/plex_recently_added.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
       "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
@@ -168,8 +168,8 @@
       "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest"
     },
     "sensor.sonarr_upcoming_media": {
-      "updated_at": "2018-11-25",
-      "version": "0.1.5",
+      "updated_at": "2018-11-30",
+      "version": "0.1.6",
       "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
       "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media",
