@@ -120,7 +120,7 @@
       "changelog": "https://github.com/custom-components/sensor.owlintuition/releases/latest"
     },
     "sensor.personalcapital": {
-      "updated_at": "2018-11-20",
+      "updated_at": "2018-12-05",
       "version": "0.0.2",
       "local_location": "/custom_components/sensor/personalcapital.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
