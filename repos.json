@@ -185,7 +185,7 @@
     },
     "sensor.trakt": {
       "updated_at": "2018-11-21",
-      "version": "0.0.2",
+      "version": "",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
       "visit_repo": "https://github.com/custom-components/sensor.trakt",
@@ -193,7 +193,7 @@
     },
     "sensor.unifigateway": {
       "updated_at": "2018-11-20",
-      "version": "0.2.0",
+      "version": "",
       "local_location": "/custom_components/sensor/unifigateway.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
       "visit_repo": "https://github.com/custom-components/sensor.unifigateway",
@@ -202,8 +202,8 @@
     "sensor.untapped": {
       "updated_at": "2018-11-04",
       "version": "",
-      "local_location": "/custom_components/sensor/untapped/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
+      "local_location": "/custom_components/sensor/untapped.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped.py",
       "visit_repo": "https://github.com/custom-components/sensor.untapped",
       "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
     },
@@ -225,9 +225,9 @@
     },
     "sickchill": {
       "updated_at": "2018-10-24",
-      "version": "0.1.1",
-      "local_location": "/custom_components/sickchill/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
+      "version": "",
+      "local_location": "/custom_components/sickchill.py",
+      "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill.py",
       "visit_repo": "https://github.com/custom-components/sickchill",
       "changelog": "https://github.com/custom-components/sickchill/releases/latest"
     },
