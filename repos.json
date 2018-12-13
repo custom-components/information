@@ -144,7 +144,7 @@
       "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/latest"
     },
     "sensor.rpi_power": {
-      "updated_at": "2018-12-04",
+      "updated_at": "2018-12-13",
       "version": "0.0.8",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
