@@ -112,7 +112,7 @@
       "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest"
     },
     "sensor.owlintuition": {
-      "updated_at": "2018-12-01",
+      "updated_at": "2018-12-17",
       "version": "1.2.1",
       "local_location": "/custom_components/sensor/owlintuition.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
