@@ -160,7 +160,7 @@
       "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest"
     },
     "sensor.sonarr_upcoming_media": {
-      "updated_at": "2018-11-30",
+      "updated_at": "2018-12-26",
       "version": "0.1.6",
       "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
