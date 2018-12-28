@@ -65,7 +65,7 @@
     },
     "media_player.braviatv_psk": {
       "updated_at": "2018-12-28",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "local_location": "/custom_components/media_player/braviatv_psk.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
       "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk",
