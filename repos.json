@@ -144,7 +144,7 @@
       "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/latest"
     },
     "sensor.rpi_power": {
-      "updated_at": "2018-12-19",
+      "updated_at": "2019-01-03",
       "version": "0.0.8",
       "local_location": "/custom_components/sensor/rpi_power.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
@@ -224,7 +224,7 @@
       "changelog": "https://github.com/custom-components/sensor.wienerlinien/releases/latest"
     },
     "sickchill": {
-      "updated_at": "2018-10-24",
+      "updated_at": "2019-01-03",
       "version": "0.1.1",
       "local_location": "/custom_components/sickchill/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
