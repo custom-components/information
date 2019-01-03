@@ -200,7 +200,7 @@
       "changelog": "https://github.com/custom-components/sensor.unifigateway/releases/latest"
     },
     "sensor.untapped": {
-      "updated_at": "2018-12-24",
+      "updated_at": "2019-01-03",
       "version": "",
       "local_location": "/custom_components/sensor/untapped/__init__.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
