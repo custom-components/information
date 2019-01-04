@@ -128,8 +128,8 @@
       "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
     },
     "sensor.plex_recently_added": {
-      "updated_at": "2018-11-30",
-      "version": "0.1.9",
+      "updated_at": "2019-01-04",
+      "version": "0.2.0",
       "local_location": "/custom_components/sensor/plex_recently_added.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
       "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
@@ -184,8 +184,8 @@
       "changelog": "https://github.com/custom-components/sensor.syncthing/releases/latest"
     },
     "sensor.trakt": {
-      "updated_at": "2018-12-28",
-      "version": "0.0.2",
+      "updated_at": "2019-01-04",
+      "version": "0.0.3",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
       "visit_repo": "https://github.com/custom-components/sensor.trakt",
