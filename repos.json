@@ -185,7 +185,7 @@
     },
     "sensor.trakt": {
       "updated_at": "2019-01-04",
-      "version": "0.0.3",
+      "version": "s upcoming TV episodes. https://github.com/custom-components/sensor.trakt https://github.com/custom-cards/upcoming-media-card """ import json import logging import time from datetime import datetime, timedelta import homeassistant.helpers.config_validation as cv import voluptuous as vol from homeassistant.components.sensor import PLATFORM_SCHEMA from homeassistant.helpers.entity import Entity __version__ = ",
       "local_location": "/custom_components/sensor/trakt.py",
       "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
       "visit_repo": "https://github.com/custom-components/sensor.trakt",
