@@ -1,234 +1,234 @@
 {
     "binary_sensor.hadockermon": {
-      "updated_at": "2018-07-20",
-      "version": "",
-      "local_location": "/custom_components/binary_sensor/hadockermon.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
-      "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon",
-      "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest"
+        "changelog": "https://github.com/custom-components/binary_sensor.hadockermon/releases/latest",
+        "local_location": "/custom_components/binary_sensor/hadockermon.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
+        "updated_at": "2018-07-20",
+        "version": "",
+        "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
     "camera.combined": {
-      "updated_at": "2019-01-03",
-      "version": "0.0.1",
-      "local_location": "/custom_components/camera/combined.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
-      "visit_repo": "https://github.com/custom-components/camera.combined",
-      "changelog": "https://github.com/custom-components/camera.combined/releases/latest"
+        "changelog": "https://github.com/custom-components/camera.combined/releases/latest",
+        "local_location": "/custom_components/camera/combined.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
+        "updated_at": "2019-01-03",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
-      "updated_at": "2018-08-23",
-      "version": "0.3.0",
-      "local_location": "/custom_components/camera/multisource.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
-      "visit_repo": "https://github.com/custom-components/camera.multisource",
-      "changelog": "https://github.com/custom-components/camera.multisource/releases/latest"
+        "changelog": "https://github.com/custom-components/camera.multisource/releases/latest",
+        "local_location": "/custom_components/camera/multisource.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
+        "updated_at": "2018-08-23",
+        "version": "0.3.0",
+        "visit_repo": "https://github.com/custom-components/camera.multisource"
     },
     "camera.unsplash": {
-      "updated_at": "2018-11-04",
-      "version": "0.4.2",
-      "local_location": "/custom_components/camera/unsplash.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
-      "visit_repo": "https://github.com/custom-components/camera.unsplash",
-      "changelog": "https://github.com/custom-components/camera.unsplash/releases/latest"
+        "changelog": "https://github.com/custom-components/camera.unsplash/releases/latest",
+        "local_location": "/custom_components/camera/unsplash.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
+        "updated_at": "2018-11-04",
+        "version": "0.4.2",
+        "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "climate.e_thermostaat": {
-      "updated_at": "2018-08-28",
-      "version": "0.2.0",
-      "local_location": "/custom_components/climate/e_thermostaat.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
-      "visit_repo": "https://github.com/custom-components/climate.e_thermostaat",
-      "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/latest"
+        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/latest",
+        "local_location": "/custom_components/climate/e_thermostaat.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
+        "updated_at": "2018-08-28",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "custom_updater": {
-      "updated_at": "2019-01-04",
-      "version": "3.1.8",
-      "local_location": "/custom_components/custom_updater.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-      "visit_repo": "https://github.com/custom-components/custom_updater",
-      "changelog": "https://github.com/custom-components/custom_updater/releases/latest"
+        "changelog": "https://github.com/custom-components/custom_updater/releases/latest",
+        "local_location": "/custom_components/custom_updater.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
+        "updated_at": "2019-01-04",
+        "version": "3.1.8",
+        "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "hassbian_config": {
-      "updated_at": "2018-09-08",
-      "version": "2.0.1",
-      "local_location": "/custom_components/hassbian_config.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
-      "visit_repo": "https://github.com/custom-components/hassbian_config",
-      "changelog": "https://github.com/custom-components/hassbian_config/releases/latest"
+        "changelog": "https://github.com/custom-components/hassbian_config/releases/latest",
+        "local_location": "/custom_components/hassbian_config.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "updated_at": "2018-09-08",
+        "version": "2.0.1",
+        "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "lists": {
-      "updated_at": "2018-09-14",
-      "version": "",
-      "local_location": "/custom_components/lists.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
-      "visit_repo": "https://github.com/custom-components/lists",
-      "changelog": "https://github.com/custom-components/lists/releases/latest"
+        "changelog": "https://github.com/custom-components/lists/releases/latest",
+        "local_location": "/custom_components/lists.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
+        "updated_at": "2018-09-14",
+        "version": "",
+        "visit_repo": "https://github.com/custom-components/lists"
     },
     "media_player.braviatv_psk": {
-      "updated_at": "2018-12-28",
-      "version": "0.2.4",
-      "local_location": "/custom_components/media_player/braviatv_psk.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
-      "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk",
-      "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/latest"
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/latest",
+        "local_location": "/custom_components/media_player/braviatv_psk.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
+        "updated_at": "2018-12-28",
+        "version": "0.2.4",
+        "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "sensor.aftership": {
-      "updated_at": "2018-10-31",
-      "version": "0.3.0",
-      "local_location": "/custom_components/sensor/aftership.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
-      "visit_repo": "https://github.com/custom-components/sensor.aftership",
-      "changelog": "https://github.com/custom-components/sensor.aftership/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.aftership/releases/latest",
+        "local_location": "/custom_components/sensor/aftership.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
+        "updated_at": "2018-10-31",
+        "version": "0.3.0",
+        "visit_repo": "https://github.com/custom-components/sensor.aftership"
     },
     "sensor.authenticated": {
-      "updated_at": "2018-12-20",
-      "version": "0.4.0",
-      "local_location": "/custom_components/sensor/authenticated.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
-      "visit_repo": "https://github.com/custom-components/sensor.authenticated",
-      "changelog": "https://github.com/custom-components/sensor.authenticated/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.authenticated/releases/latest",
+        "local_location": "/custom_components/sensor/authenticated.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
+        "updated_at": "2018-12-20",
+        "version": "0.4.0",
+        "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.brewdog": {
-      "updated_at": "2019-01-01",
-      "version": "0.1.0",
-      "local_location": "/custom_components/sensor/brewdog.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
-      "visit_repo": "https://github.com/custom-components/sensor.brewdog",
-      "changelog": "https://github.com/custom-components/sensor.brewdog/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.brewdog",
+        "local_location": "/custom_components/sensor/brewdog.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
+        "updated_at": "2019-01-01",
+        "version": "'0.1.0'",
+        "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.feedparser": {
-      "updated_at": "2019-01-02",
-      "version": "0.0.3",
-      "local_location": "/custom_components/sensor/feedparser.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-      "visit_repo": "https://github.com/custom-components/sensor.feedparser",
-      "changelog": "https://github.com/custom-components/sensor.feedparser/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.feedparser/releases/latest",
+        "local_location": "/custom_components/sensor/feedparser.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
+        "updated_at": "2019-01-02",
+        "version": "0.0.3",
+        "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.geoip": {
-      "updated_at": "2018-08-29",
-      "version": "0.0.1",
-      "local_location": "/custom_components/sensor/geoip.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
-      "visit_repo": "https://github.com/custom-components/sensor.geoip",
-      "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.geoip/releases/latest",
+        "local_location": "/custom_components/sensor/geoip.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
+        "updated_at": "2018-08-29",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-components/sensor.geoip"
     },
     "sensor.owlintuition": {
-      "updated_at": "2018-12-17",
-      "version": "1.2.1",
-      "local_location": "/custom_components/sensor/owlintuition.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
-      "visit_repo": "https://github.com/custom-components/sensor.owlintuition",
-      "changelog": "https://github.com/custom-components/sensor.owlintuition/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.owlintuition/releases/latest",
+        "local_location": "/custom_components/sensor/owlintuition.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
+        "updated_at": "2018-12-17",
+        "version": "1.2.1",
+        "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
-      "updated_at": "2018-12-05",
-      "version": "0.0.2",
-      "local_location": "/custom_components/sensor/personalcapital.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-      "visit_repo": "https://github.com/custom-components/sensor.personalcapital",
-      "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/latest",
+        "local_location": "/custom_components/sensor/personalcapital.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
+        "updated_at": "2018-12-05",
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
-      "updated_at": "2019-01-04",
-      "version": "0.2.0",
-      "local_location": "/custom_components/sensor/plex_recently_added.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
-      "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added",
-      "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/latest",
+        "local_location": "/custom_components/sensor/plex_recently_added.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
+        "updated_at": "2019-01-04",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
-      "updated_at": "2019-01-04",
-      "version": "0.2.4",
-      "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
-      "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media",
-      "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/latest",
+        "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
+        "updated_at": "2019-01-04",
+        "version": "0.2.4",
+        "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
-      "updated_at": "2019-01-03",
-      "version": "0.0.8",
-      "local_location": "/custom_components/sensor/rpi_power.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
-      "visit_repo": "https://github.com/custom-components/sensor.rpi_power",
-      "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/latest",
+        "local_location": "/custom_components/sensor/rpi_power.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
+        "updated_at": "2019-01-03",
+        "version": "0.0.8",
+        "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
     "sensor.ruter": {
-      "updated_at": "2018-11-05",
-      "version": "3.0.0",
-      "local_location": "/custom_components/sensor/ruter.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
-      "visit_repo": "https://github.com/custom-components/sensor.ruter",
-      "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.ruter/releases/latest",
+        "local_location": "/custom_components/sensor/ruter.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
+        "updated_at": "2018-11-05",
+        "version": "3.0.0",
+        "visit_repo": "https://github.com/custom-components/sensor.ruter"
     },
     "sensor.sonarr_upcoming_media": {
-      "updated_at": "2019-01-04",
-      "version": "0.1.6",
-      "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
-      "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media",
-      "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/latest",
+        "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
+        "updated_at": "2019-01-04",
+        "version": "0.1.6",
+        "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
-      "updated_at": "2018-10-26",
-      "version": "0.1.1",
-      "local_location": "/custom_components/sensor/ssh.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
-      "visit_repo": "https://github.com/custom-components/sensor.ssh",
-      "changelog": "https://github.com/custom-components/sensor.ssh/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.ssh/releases/latest",
+        "local_location": "/custom_components/sensor/ssh.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
+        "updated_at": "2018-10-26",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.unifigateway": {
-      "updated_at": "2018-12-20",
-      "version": "0.2.0",
-      "local_location": "/custom_components/sensor/unifigateway.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
-      "visit_repo": "https://github.com/custom-components/sensor.unifigateway",
-      "changelog": "https://github.com/custom-components/sensor.unifigateway/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.unifigateway/releases/latest",
+        "local_location": "/custom_components/sensor/unifigateway.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
+        "updated_at": "2018-12-20",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.untapped": {
-      "updated_at": "2019-01-03",
-      "version": "",
-      "local_location": "/custom_components/sensor/untapped/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
-      "visit_repo": "https://github.com/custom-components/sensor.untapped",
-      "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.untapped/releases/latest",
+        "local_location": "/custom_components/sensor/untapped/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untapped/master/custom_components/sensor/untapped/__init__.py",
+        "updated_at": "2019-01-03",
+        "version": "",
+        "visit_repo": "https://github.com/custom-components/sensor.untapped"
     },
     "sensor.weatheralerts": {
-      "updated_at": "2018-11-29",
-      "version": "",
-      "local_location": "/custom_components/sensor/weatheralerts.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
-      "visit_repo": "https://github.com/custom-components/sensor.weatheralerts",
-      "changelog": "https://github.com/custom-components/sensor.weatheralerts/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.weatheralerts/releases/latest",
+        "local_location": "/custom_components/sensor/weatheralerts.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
+        "updated_at": "2018-11-29",
+        "version": "",
+        "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
     "sensor.wienerlinien": {
-      "updated_at": "2018-07-20",
-      "version": "1.1.1",
-      "local_location": "/custom_components/sensor/wienerlinien.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
-      "visit_repo": "https://github.com/custom-components/sensor.wienerlinien",
-      "changelog": "https://github.com/custom-components/sensor.wienerlinien/releases/latest"
+        "changelog": "https://github.com/custom-components/sensor.wienerlinien/releases/latest",
+        "local_location": "/custom_components/sensor/wienerlinien.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
+        "updated_at": "2018-07-20",
+        "version": "1.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sickchill": {
-      "updated_at": "2019-01-03",
-      "version": "0.1.1",
-      "local_location": "/custom_components/sickchill/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
-      "visit_repo": "https://github.com/custom-components/sickchill",
-      "changelog": "https://github.com/custom-components/sickchill/releases/latest"
+        "changelog": "https://github.com/custom-components/sickchill/releases/latest",
+        "local_location": "/custom_components/sickchill/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
+        "updated_at": "2019-01-03",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sickchill"
     },
     "switch.hadockermon": {
-      "updated_at": "2018-12-07",
-      "version": "3.0.1",
-      "local_location": "/custom_components/switch/hadockermon.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
-      "visit_repo": "https://github.com/custom-components/switch.hadockermon",
-      "changelog": "https://github.com/custom-components/switch.hadockermon/releases/latest"
+        "changelog": "https://github.com/custom-components/switch.hadockermon/releases/latest",
+        "local_location": "/custom_components/switch/hadockermon.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
+        "updated_at": "2018-12-07",
+        "version": "3.0.1",
+        "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
-      "updated_at": "2018-11-24",
-      "version": "0.1.1",
-      "local_location": "/custom_components/usps_mail.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
-      "visit_repo": "https://github.com/custom-components/usps_mail",
-      "changelog": "https://github.com/custom-components/usps_mail/releases/latest"
+        "changelog": "https://github.com/custom-components/usps_mail/releases/latest",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "updated_at": "2018-11-24",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
