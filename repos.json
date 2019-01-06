@@ -175,14 +175,6 @@
       "visit_repo": "https://github.com/custom-components/sensor.ssh",
       "changelog": "https://github.com/custom-components/sensor.ssh/releases/latest"
     },
-    "sensor.syncthing": {
-      "updated_at": "2018-08-21",
-      "version": "",
-      "local_location": "/custom_components/sensor/syncthing/__init__.py",
-      "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.syncthing/master/custom_components/sensor/syncthing/__init__.py",
-      "visit_repo": "https://github.com/custom-components/sensor.syncthing",
-      "changelog": "https://github.com/custom-components/sensor.syncthing/releases/latest"
-    },
     "sensor.unifigateway": {
       "updated_at": "2018-12-20",
       "version": "0.2.0",
