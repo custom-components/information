@@ -8,12 +8,12 @@
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
     "camera.combined": {
-        "changelog": "https://github.com/isabellaalstrom/camera.combined",
+        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
         "local_location": "/custom_components/camera/combined.py",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/camera.combined/master/custom_components/camera/combined.py",
-        "updated_at": "2018-11-07",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
+        "updated_at": "2019-01-03",
         "version": "0.0.1",
-        "visit_repo": "https://github.com/isabellaalstrom/camera.combined"
+        "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
@@ -43,7 +43,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-06",
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -99,7 +99,7 @@
         "changelog": "https://github.com/custom-components/sensor.feedparser",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-02",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
@@ -110,14 +110,6 @@
         "updated_at": "2018-08-29",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
-    },
-    "sensor.krisinformation": {
-        "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
-        "local_location": "/custom_components/sensor/krisinformation.py",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "updated_at": "2019-01-09",
-        "version": "0.0.4",
-        "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
         "changelog": "https://github.com/custom-components/sensor.owlintuition",
@@ -131,17 +123,17 @@
         "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/0.0.2",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-07",
+        "updated_at": "2018-12-05",
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
-        "changelog": "https://github.com/isabellaalstrom/sensor.plex_recently_added",
+        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.0",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
-        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
-        "updated_at": "2018-11-14",
-        "version": "0.1.2",
-        "visit_repo": "https://github.com/isabellaalstrom/sensor.plex_recently_added"
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
+        "updated_at": "2019-01-04",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
@@ -155,7 +147,7 @@
         "changelog": "https://github.com/custom-components/sensor.rpi_power",
         "local_location": "/custom_components/sensor/rpi_power.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-07",
         "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
@@ -187,7 +179,7 @@
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-06",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
