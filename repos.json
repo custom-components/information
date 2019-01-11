@@ -59,7 +59,7 @@
         "changelog": "https://github.com/custom-components/lists",
         "local_location": "/custom_components/lists.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
-        "updated_at": "2018-09-14",
+        "updated_at": "2019-01-10",
         "version": null,
         "visit_repo": "https://github.com/custom-components/lists"
     },
@@ -83,7 +83,7 @@
         "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
         "local_location": "/custom_components/sensor/authenticated.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
-        "updated_at": "2018-12-20",
+        "updated_at": "2019-01-10",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
@@ -115,7 +115,7 @@
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-10",
         "version": "0.0.4",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
@@ -128,11 +128,11 @@
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/0.0.4",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.5",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-10",
-        "version": "0.0.3",
+        "updated_at": "2019-01-11",
+        "version": "0.0.5",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
@@ -187,7 +187,7 @@
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-11",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
