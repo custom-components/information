@@ -67,7 +67,7 @@
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk",
         "local_location": "/custom_components/media_player/braviatv_psk.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
-        "updated_at": "2018-12-28",
+        "updated_at": "2019-01-11",
         "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
@@ -128,11 +128,11 @@
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.5",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.8",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-11",
-        "version": "0.0.5",
+        "updated_at": "2019-01-12",
+        "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
@@ -158,14 +158,6 @@
         "updated_at": "2019-01-09",
         "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
-    },
-    "sensor.ruter": {
-        "changelog": "https://github.com/custom-components/sensor.ruter/releases/tag/3.0.0",
-        "local_location": "/custom_components/sensor/ruter.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ruter/master/custom_components/sensor/ruter.py",
-        "updated_at": "2018-11-05",
-        "version": "3.0.0",
-        "visit_repo": "https://github.com/custom-components/sensor.ruter"
     },
     "sensor.sonarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
