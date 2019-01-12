@@ -1,6 +1,7 @@
 {
     "binary_sensor.hadockermon": {
         "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
+        "description": "A custom binary_sensor platform which allows you get sensor data from ha-dockermon.",
         "local_location": "/custom_components/binary_sensor/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/binary_sensor/hadockermon.py",
         "updated_at": "2018-07-20",
@@ -9,6 +10,7 @@
     },
     "camera.combined": {
         "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
+        "description": "A camera platform that give you a combined feed of your defined camera entities.",
         "local_location": "/custom_components/camera/combined.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/camera/combined.py",
         "updated_at": "2019-01-03",
@@ -17,6 +19,7 @@
     },
     "camera.multisource": {
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
+        "description": "A camera platform that generate a camera feed from multiple sources.",
         "local_location": "/custom_components/camera/multisource.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/camera/multisource.py",
         "updated_at": "2018-08-23",
@@ -25,6 +28,7 @@
     },
     "camera.unsplash": {
         "changelog": "https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2",
+        "description": "A camera platform that give you random images from Unsplash presented as a camera feed.",
         "local_location": "/custom_components/camera/unsplash.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/camera/unsplash.py",
         "updated_at": "2018-11-04",
@@ -33,6 +37,7 @@
     },
     "climate.e_thermostaat": {
         "changelog": "https://github.com/custom-components/climate.e_thermostaat",
+        "description": "E-Thermostaat (ICY) component for Home Assistant",
         "local_location": "/custom_components/climate/e_thermostaat.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/climate/e_thermostaat.py",
         "updated_at": "2018-08-28",
@@ -41,6 +46,7 @@
     },
     "custom_updater": {
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
+        "description": ":package: A component which allows you to track and update custom cards/components and python_scripts",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "updated_at": "2019-01-10",
@@ -49,6 +55,7 @@
     },
     "hassbian_config": {
         "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
+        "description": "A custom component which allows you to controll some hassbian-config functions from Home Assistant.",
         "local_location": "/custom_components/hassbian_config.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
         "updated_at": "2018-09-08",
@@ -57,6 +64,7 @@
     },
     "lists": {
         "changelog": "https://github.com/custom-components/lists",
+        "description": null,
         "local_location": "/custom_components/lists.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/lists/master/custom_components/lists.py",
         "updated_at": "2019-01-10",
@@ -65,6 +73,7 @@
     },
     "media_player.braviatv_psk": {
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk",
+        "description": "Sony Bravia TV (Pre-Shared Key) component for Home Assistant",
         "local_location": "/custom_components/media_player/braviatv_psk.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
         "updated_at": "2019-01-11",
@@ -73,6 +82,7 @@
     },
     "sensor.aftership": {
         "changelog": "https://github.com/custom-components/sensor.aftership/releases/tag/0.3.0",
+        "description": "A component which allows you to get information about pending parcels.",
         "local_location": "/custom_components/sensor/aftership.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
         "updated_at": "2018-10-31",
@@ -81,6 +91,7 @@
     },
     "sensor.authenticated": {
         "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
+        "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
         "local_location": "/custom_components/sensor/authenticated.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/sensor/authenticated.py",
         "updated_at": "2019-01-10",
@@ -89,6 +100,7 @@
     },
     "sensor.brewdog": {
         "changelog": "https://github.com/custom-components/sensor.brewdog",
+        "description": "A sensor that give you information about a random Brewdog beer.",
         "local_location": "/custom_components/sensor/brewdog.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
         "updated_at": "2019-01-01",
@@ -97,6 +109,7 @@
     },
     "sensor.feedparser": {
         "changelog": "https://github.com/custom-components/sensor.feedparser",
+        "description": "RSS feed custom component for Home Assistant",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
         "updated_at": "2019-01-07",
@@ -105,6 +118,7 @@
     },
     "sensor.geoip": {
         "changelog": "https://github.com/custom-components/sensor.geoip",
+        "description": null,
         "local_location": "/custom_components/sensor/geoip.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
         "updated_at": "2018-08-29",
@@ -113,6 +127,7 @@
     },
     "sensor.krisinformation": {
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
+        "description": "A custom component for Home Assistant to get messages from krisinformation.se",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
         "updated_at": "2019-01-10",
@@ -121,6 +136,7 @@
     },
     "sensor.owlintuition": {
         "changelog": "https://github.com/custom-components/sensor.owlintuition",
+        "description": "A set of sensors to integrate the OWL Intuition devices network",
         "local_location": "/custom_components/sensor/owlintuition.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
         "updated_at": "2019-01-06",
@@ -129,6 +145,7 @@
     },
     "sensor.personalcapital": {
         "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.8",
+        "description": "Personal Capital component for Home Assistant",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
         "updated_at": "2019-01-12",
@@ -137,6 +154,7 @@
     },
     "sensor.plex_recently_added": {
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
+        "description": "Plex component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
         "updated_at": "2019-01-09",
@@ -145,6 +163,7 @@
     },
     "sensor.radarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
+        "description": "Radarr component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
         "updated_at": "2019-01-04",
@@ -153,6 +172,7 @@
     },
     "sensor.rpi_power": {
         "changelog": "https://github.com/custom-components/sensor.rpi_power",
+        "description": "A Custom component for Home-Assistant that checks if your Raspberry Pi power supply is giving enough voltage from the kernel.",
         "local_location": "/custom_components/sensor/rpi_power.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
         "updated_at": "2019-01-09",
@@ -161,6 +181,7 @@
     },
     "sensor.sonarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
+        "description": "Sonarr component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
         "updated_at": "2019-01-04",
@@ -169,6 +190,7 @@
     },
     "sensor.ssh": {
         "changelog": "https://github.com/custom-components/sensor.ssh",
+        "description": "SSH Generic Sensor",
         "local_location": "/custom_components/sensor/ssh.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
         "updated_at": "2018-10-26",
@@ -177,14 +199,16 @@
     },
     "sensor.trakt": {
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
+        "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "updated_at": "2019-01-11",
+        "updated_at": "2019-01-12",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
     "sensor.unifigateway": {
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
+        "description": "High level health status of UniFi Security Gateway devices via UniFi Controller",
         "local_location": "/custom_components/sensor/unifigateway.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
         "updated_at": "2018-12-20",
@@ -193,6 +217,7 @@
     },
     "sensor.weatheralerts": {
         "changelog": "https://github.com/custom-components/sensor.weatheralerts",
+        "description": "A sensor that give you information from alerts.weather.gov.",
         "local_location": "/custom_components/sensor/weatheralerts.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/sensor/weatheralerts.py",
         "updated_at": "2018-11-29",
@@ -201,6 +226,7 @@
     },
     "sensor.wienerlinien": {
         "changelog": "https://github.com/custom-components/sensor.wienerlinien",
+        "description": "A sensor that give you information about next departure from spesified stop.",
         "local_location": "/custom_components/sensor/wienerlinien.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
         "updated_at": "2018-07-20",
@@ -209,6 +235,7 @@
     },
     "sickchill": {
         "changelog": "https://github.com/custom-components/sickchill",
+        "description": "Taps into Sickchill Api so you can perform basic commands",
         "local_location": "/custom_components/sickchill/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
         "updated_at": "2019-01-03",
@@ -217,6 +244,7 @@
     },
     "switch.hadockermon": {
         "changelog": "https://github.com/custom-components/switch.hadockermon",
+        "description": "A switch platform that interact with ha-dockermon.",
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
         "updated_at": "2018-12-07",
@@ -225,6 +253,7 @@
     },
     "usps_mail": {
         "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
+        "description": "A component that give you to info about incoming letters and packages from USPS.",
         "local_location": "/custom_components/usps_mail.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "updated_at": "2018-11-24",
