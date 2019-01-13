@@ -49,7 +49,7 @@
         "description": ":package: A component which allows you to track and update custom cards/components and python_scripts",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-10",
+        "updated_at": "2019-01-13",
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -109,10 +109,10 @@
     },
     "sensor.feedparser": {
         "changelog": "https://github.com/custom-components/sensor.feedparser",
-        "description": "RSS feed custom component for Home Assistant",
+        "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "updated_at": "2019-01-07",
+        "updated_at": "2019-01-13",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
@@ -130,7 +130,7 @@
         "description": "A custom component for Home Assistant to get messages from krisinformation.se",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "updated_at": "2019-01-10",
+        "updated_at": "2019-01-13",
         "version": "0.0.4",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
@@ -145,10 +145,10 @@
     },
     "sensor.personalcapital": {
         "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.8",
-        "description": "Personal Capital component for Home Assistant",
+        "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-12",
+        "updated_at": "2019-01-13",
         "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
@@ -184,7 +184,7 @@
         "description": "Sonarr component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-12",
         "version": "0.1.6",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
