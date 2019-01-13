@@ -212,12 +212,12 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.8",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.9",
         "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
         "updated_at": "2019-01-13",
-        "version": "0.0.8",
+        "version": "0.0.9",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
