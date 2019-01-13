@@ -1,5 +1,9 @@
 {
     "binary_sensor.hadockermon": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
         "description": "A custom binary_sensor platform which allows you get sensor data from ha-dockermon.",
         "local_location": "/custom_components/binary_sensor/hadockermon.py",
@@ -9,6 +13,10 @@
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
     "camera.combined": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
         "description": "A camera platform that give you a combined feed of your defined camera entities.",
         "local_location": "/custom_components/camera/combined.py",
@@ -18,6 +26,10 @@
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
         "description": "A camera platform that generate a camera feed from multiple sources.",
         "local_location": "/custom_components/camera/multisource.py",
@@ -27,6 +39,10 @@
         "visit_repo": "https://github.com/custom-components/camera.multisource"
     },
     "camera.unsplash": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2",
         "description": "A camera platform that give you random images from Unsplash presented as a camera feed.",
         "local_location": "/custom_components/camera/unsplash.py",
@@ -36,6 +52,10 @@
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "climate.e_thermostaat": {
+        "author": {
+            "html_url": "https://github.com/gerard33",
+            "login": "gerard33"
+        },
         "changelog": "https://github.com/custom-components/climate.e_thermostaat",
         "description": "E-Thermostaat (ICY) component for Home Assistant",
         "local_location": "/custom_components/climate/e_thermostaat.py",
@@ -45,6 +65,10 @@
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "custom_updater": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
         "description": ":package: A component which allows you to track and update custom cards/components and python_scripts",
         "local_location": "/custom_components/custom_updater.py",
@@ -54,6 +78,10 @@
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "hassbian_config": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
         "description": "A custom component which allows you to controll some hassbian-config functions from Home Assistant.",
         "local_location": "/custom_components/hassbian_config.py",
@@ -63,6 +91,10 @@
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "lists": {
+        "author": {
+            "html_url": "https://github.com/iantrich",
+            "login": "iantrich"
+        },
         "changelog": "https://github.com/custom-components/lists",
         "description": null,
         "local_location": "/custom_components/lists.py",
@@ -72,6 +104,10 @@
         "visit_repo": "https://github.com/custom-components/lists"
     },
     "media_player.braviatv_psk": {
+        "author": {
+            "html_url": "https://github.com/gerard33",
+            "login": "gerard33"
+        },
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk",
         "description": "Sony Bravia TV (Pre-Shared Key) component for Home Assistant",
         "local_location": "/custom_components/media_player/braviatv_psk.py",
@@ -81,6 +117,10 @@
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "sensor.aftership": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/sensor.aftership/releases/tag/0.3.0",
         "description": "A component which allows you to get information about pending parcels.",
         "local_location": "/custom_components/sensor/aftership.py",
@@ -90,6 +130,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.aftership"
     },
     "sensor.authenticated": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
         "description": "A platform which allows you to get information about sucessfull logins to Home Assistant.",
         "local_location": "/custom_components/sensor/authenticated.py",
@@ -99,6 +143,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.brewdog": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/sensor.brewdog",
         "description": "A sensor that give you information about a random Brewdog beer.",
         "local_location": "/custom_components/sensor/brewdog.py",
@@ -108,6 +156,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.feedparser": {
+        "author": {
+            "html_url": "https://github.com/iantrich",
+            "login": "iantrich"
+        },
         "changelog": "https://github.com/custom-components/sensor.feedparser",
         "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
         "local_location": "/custom_components/sensor/feedparser.py",
@@ -117,6 +169,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.geoip": {
+        "author": {
+            "html_url": "https://github.com/swetoast",
+            "login": "swetoast"
+        },
         "changelog": "https://github.com/custom-components/sensor.geoip",
         "description": null,
         "local_location": "/custom_components/sensor/geoip.py",
@@ -126,6 +182,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
     },
     "sensor.krisinformation": {
+        "author": {
+            "html_url": "https://github.com/isabellaalstrom",
+            "login": "isabellaalstrom"
+        },
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
         "description": "A custom component for Home Assistant to get messages from krisinformation.se",
         "local_location": "/custom_components/sensor/krisinformation.py",
@@ -135,15 +195,23 @@
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
+        "author": {
+            "html_url": "https://github.com/glpatcern",
+            "login": "glpatcern"
+        },
         "changelog": "https://github.com/custom-components/sensor.owlintuition",
         "description": "A set of sensors to integrate the OWL Intuition devices network",
         "local_location": "/custom_components/sensor/owlintuition.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
-        "updated_at": "2019-01-06",
+        "updated_at": "2019-01-13",
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
+        "author": {
+            "html_url": "https://github.com/iantrich",
+            "login": "iantrich"
+        },
         "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.8",
         "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
         "local_location": "/custom_components/sensor/personalcapital.py",
@@ -153,6 +221,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
+        "author": {
+            "html_url": "https://github.com/maykar",
+            "login": "maykar"
+        },
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
         "description": "Plex component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
@@ -162,6 +234,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
+        "author": {
+            "html_url": "https://github.com/maykar",
+            "login": "maykar"
+        },
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
         "description": "Radarr component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
@@ -171,6 +247,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
+        "author": {
+            "html_url": "https://github.com/swetoast",
+            "login": "swetoast"
+        },
         "changelog": "https://github.com/custom-components/sensor.rpi_power",
         "description": "A Custom component for Home-Assistant that checks if your Raspberry Pi power supply is giving enough voltage from the kernel.",
         "local_location": "/custom_components/sensor/rpi_power.py",
@@ -180,6 +260,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
     "sensor.sonarr_upcoming_media": {
+        "author": {
+            "html_url": "https://github.com/maykar",
+            "login": "maykar"
+        },
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
         "description": "Sonarr component to feed the Upcoming Media Card for Home Assistant.",
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
@@ -189,6 +273,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
+        "author": {
+            "html_url": "https://github.com/jchasey",
+            "login": "jchasey"
+        },
         "changelog": "https://github.com/custom-components/sensor.ssh",
         "description": "SSH Generic Sensor",
         "local_location": "/custom_components/sensor/ssh.py",
@@ -198,6 +286,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
+        "author": {
+            "html_url": "https://github.com/iantrich",
+            "login": "iantrich"
+        },
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
         "description": "\ud83d\udcfa Trakt component for Home Assistant and Upcoming Media Card",
         "local_location": "/custom_components/sensor/trakt.py",
@@ -207,6 +299,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
     "sensor.unifigateway": {
+        "author": {
+            "html_url": "https://github.com/jchasey",
+            "login": "jchasey"
+        },
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
         "description": "High level health status of UniFi Security Gateway devices via UniFi Controller",
         "local_location": "/custom_components/sensor/unifigateway.py",
@@ -216,6 +312,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.weatheralerts": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/sensor.weatheralerts",
         "description": "A sensor that give you information from alerts.weather.gov.",
         "local_location": "/custom_components/sensor/weatheralerts.py",
@@ -225,6 +325,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
     "sensor.wienerlinien": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/sensor.wienerlinien",
         "description": "A sensor that give you information about next departure from spesified stop.",
         "local_location": "/custom_components/sensor/wienerlinien.py",
@@ -234,6 +338,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sickchill": {
+        "author": {
+            "html_url": "https://github.com/swetoast",
+            "login": "swetoast"
+        },
         "changelog": "https://github.com/custom-components/sickchill",
         "description": "Taps into Sickchill Api so you can perform basic commands",
         "local_location": "/custom_components/sickchill/__init__.py",
@@ -243,6 +351,10 @@
         "visit_repo": "https://github.com/custom-components/sickchill"
     },
     "switch.hadockermon": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/switch.hadockermon",
         "description": "A switch platform that interact with ha-dockermon.",
         "local_location": "/custom_components/switch/hadockermon.py",
@@ -252,6 +364,10 @@
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
         "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
         "description": "A component that give you to info about incoming letters and packages from USPS.",
         "local_location": "/custom_components/usps_mail.py",
