@@ -164,7 +164,7 @@
         "description": "\ud83d\udcf0 RSS feed custom component for Home Assistant",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-14",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
@@ -203,7 +203,7 @@
         "description": "A set of sensors to integrate the OWL Intuition devices network",
         "local_location": "/custom_components/sensor/owlintuition.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/sensor/owlintuition.py",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-14",
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
@@ -212,12 +212,12 @@
             "html_url": "https://github.com/iantrich",
             "login": "iantrich"
         },
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.9",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.1",
         "description": "\ud83d\udcb5 Personal Capital component for Home Assistant",
         "local_location": "/custom_components/sensor/personalcapital.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
-        "updated_at": "2019-01-13",
-        "version": "0.0.9",
+        "updated_at": "2019-01-14",
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
@@ -359,8 +359,8 @@
         "description": "A switch platform that interact with ha-dockermon.",
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/switch/hadockermon.py",
-        "updated_at": "2018-12-07",
-        "version": "3.0.1",
+        "updated_at": "2019-01-14",
+        "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
