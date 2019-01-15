@@ -91,7 +91,7 @@
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-13",
+        "updated_at": "2019-01-15",
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -379,7 +379,7 @@
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
         "local_location": "/custom_components/sensor/unifigateway.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
-        "updated_at": "2018-12-20",
+        "updated_at": "2019-01-15",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
