@@ -95,6 +95,38 @@
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
+    "device_tracker.composite": {
+        "author": {
+            "html_url": "https://github.com/pnbruckner",
+            "login": "pnbruckner"
+        },
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
+        "description": "A Device Tracker platform that combines one or more device trackers. ",
+        "embedded": false,
+        "embedded_path": "/custom_components/composite/device_tracker.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
+        "local_location": "/custom_components/device_tracker/composite.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
+        "updated_at": "2018-11-09",
+        "version": "1.6.0",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
+    "device_tracker.life360": {
+        "author": {
+            "html_url": "https://github.com/pnbruckner",
+            "login": "pnbruckner"
+        },
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
+        "description": "A Device Tracker platform that retrieves location from Life360. ",
+        "embedded": false,
+        "embedded_path": "/custom_components/life360/device_tracker.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
+        "local_location": "/custom_components/device_tracker/life360.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
+        "updated_at": "2018-11-30",
+        "version": "2.3.1",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
     "hassbian_config": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -222,6 +254,22 @@
         "updated_at": "2018-08-29",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
+    },
+    "sensor.illuminance": {
+        "author": {
+            "html_url": "https://github.com/pnbruckner",
+            "login": "pnbruckner"
+        },
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
+        "description": "A Sensor platform that estimates outdoor illuminance from Weather Underground, YR or Dark Sky current conditions.",
+        "embedded": false,
+        "embedded_path": "/custom_components/illuminance/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+        "local_location": "/custom_components/sensor/illuminance.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/sensor/illuminance.py",
+        "updated_at": "2019-01-11",
+        "version": "2.0.1",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "sensor.krisinformation": {
         "author": {
