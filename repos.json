@@ -461,7 +461,7 @@
             "login": "swetoast"
         },
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/v0.1.1",
-        "description": "Because Beer ?",
+        "description": "\ud83c\udf7b Untappd component for Home Assistant",
         "embedded": false,
         "embedded_path": "/custom_components/untappd/sensor.py",
         "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
