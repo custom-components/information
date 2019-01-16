@@ -349,7 +349,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
-        "updated_at": "2019-01-09",
+        "updated_at": "2019-01-16",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
@@ -366,7 +366,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/radarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
-        "updated_at": "2019-01-04",
+        "updated_at": "2019-01-16",
         "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
@@ -400,7 +400,7 @@
         "image_link": "",
         "local_location": "/custom_components/sensor/sonarr_upcoming_media.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
-        "updated_at": "2019-01-12",
+        "updated_at": "2019-01-16",
         "version": "0.1.6",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
@@ -454,6 +454,23 @@
         "updated_at": "2019-01-15",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
+    },
+    "sensor.untappd": {
+        "author": {
+            "html_url": "https://github.com/swetoast",
+            "login": "swetoast"
+        },
+        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/v0.1.1",
+        "description": "Because Beer ?",
+        "embedded": false,
+        "embedded_path": "/custom_components/untappd/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/untappd.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
+        "updated_at": "2019-01-16",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
         "author": {
