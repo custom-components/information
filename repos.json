@@ -184,23 +184,6 @@
         "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
-    "sensor.aftership": {
-        "author": {
-            "html_url": "https://github.com/ludeeus",
-            "login": "ludeeus"
-        },
-        "changelog": "https://github.com/custom-components/sensor.aftership/releases/tag/0.3.0",
-        "description": "A component which allows you to get information about pending parcels.",
-        "embedded": true,
-        "embedded_path": "/custom_components/aftership/sensor.py",
-        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/aftership/sensor.py",
-        "image_link": "",
-        "local_location": "/custom_components/sensor/aftership.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.aftership/master/custom_components/sensor/aftership.py",
-        "updated_at": "2019-01-14",
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-components/sensor.aftership"
-    },
     "sensor.authenticated": {
         "author": {
             "html_url": "https://github.com/ludeeus",
@@ -234,6 +217,23 @@
         "updated_at": "2019-01-15",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
+    },
+    "sensor.custom_aftership": {
+        "author": {
+            "html_url": "https://github.com/ludeeus",
+            "login": "ludeeus"
+        },
+        "changelog": "https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0",
+        "description": "A component which allows you to get information about pending parcels.",
+        "embedded": true,
+        "embedded_path": "/custom_components/custom_aftership/sensor.py",
+        "embedded_path_remote": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
+        "image_link": "",
+        "local_location": "/custom_components/sensor/custom_aftership.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/sensor/custom_aftership.py",
+        "updated_at": "2019-01-16",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
     "sensor.feedparser": {
         "author": {
