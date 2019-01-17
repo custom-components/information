@@ -99,7 +99,7 @@
         "changelog": "https://github.com/custom-components/sensor.brewdog",
         "local_location": "/custom_components/sensor/brewdog.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
-        "updated_at": "2019-01-15",
+        "updated_at": "2019-01-17",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
