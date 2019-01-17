@@ -119,6 +119,14 @@
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
+    "sensor.ctabustracker": {
+        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.1",
+        "local_location": "/custom_components/sensor/ctabustracker.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py",
+        "updated_at": "2019-01-17",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
+    },
     "sensor.custom_aftership": {
         "changelog": "https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0",
         "local_location": "/custom_components/sensor/custom_aftership.py",
