@@ -51,7 +51,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-18",
+        "updated_at": "2019-01-23",
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -59,8 +59,8 @@
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
         "local_location": "/custom_components/device_tracker/composite.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/composite.py",
-        "updated_at": "2018-11-09",
-        "version": "1.6.0",
+        "updated_at": "2019-01-23",
+        "version": "1.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
@@ -75,8 +75,8 @@
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
         "local_location": "/custom_components/device_tracker/life360.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "updated_at": "2018-11-30",
-        "version": "2.3.1",
+        "updated_at": "2019-01-23",
+        "version": "2.4.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "hassbian_config": {
@@ -179,8 +179,8 @@
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
         "local_location": "/custom_components/sensor/krisinformation.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/sensor/krisinformation.py",
-        "updated_at": "2019-01-17",
-        "version": "0.0.4",
+        "updated_at": "2019-01-23",
+        "version": "0.0.5",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
@@ -203,7 +203,7 @@
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
         "local_location": "/custom_components/sensor/plex_recently_added.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
-        "updated_at": "2019-01-18",
+        "updated_at": "2019-01-23",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
@@ -291,7 +291,7 @@
         "changelog": "https://github.com/custom-components/switch.hadockermon",
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "updated_at": "2019-01-18",
+        "updated_at": "2019-01-21",
         "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
