@@ -51,7 +51,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-23",
+        "updated_at": "2019-01-24",
         "version": "3.1.8",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -138,9 +138,9 @@
     "sensor.feedparser": {
         "changelog": "https://github.com/custom-components/sensor.feedparser",
         "local_location": "/custom_components/sensor/feedparser.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/sensor/feedparser.py",
-        "updated_at": "2019-01-14",
-        "version": "0.0.3",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
+        "updated_at": "2019-01-24",
+        "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.geoip": {
@@ -192,9 +192,9 @@
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
     "sensor.personalcapital": {
-        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.0.1",
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.1.0",
         "local_location": "/custom_components/sensor/personalcapital.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/sensor/personalcapital.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
         "updated_at": "2019-01-24",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
@@ -256,11 +256,11 @@
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.untappd": {
-        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/v0.1.1",
+        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/v0.1.2",
         "local_location": "/custom_components/sensor/untappd.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
-        "updated_at": "2019-01-17",
-        "version": "0.1.1",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
+        "updated_at": "2019-01-24",
+        "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
