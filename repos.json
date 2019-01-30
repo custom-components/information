@@ -240,10 +240,10 @@
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
-        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.6",
+        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.7",
         "local_location": "/custom_components/sensor/trakt.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "updated_at": "2019-01-18",
+        "updated_at": "2019-01-29",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
