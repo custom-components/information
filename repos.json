@@ -267,7 +267,7 @@
         "changelog": "https://github.com/custom-components/sensor.weatheralerts",
         "local_location": "/custom_components/sensor/weatheralerts.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-30",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
