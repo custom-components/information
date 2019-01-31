@@ -139,7 +139,7 @@
         "changelog": "https://github.com/custom-components/sensor.feedparser",
         "local_location": "/custom_components/sensor/feedparser.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-01-31",
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
