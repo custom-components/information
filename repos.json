@@ -51,7 +51,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/3.1.8",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-03",
         "version": "3.1.9",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
