@@ -107,7 +107,7 @@
         "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
         "local_location": "/custom_components/sensor/authenticated.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
-        "updated_at": "2019-01-24",
+        "updated_at": "2019-02-08",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
