@@ -251,7 +251,7 @@
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
         "local_location": "/custom_components/sensor/unifigateway.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
-        "updated_at": "2019-01-15",
+        "updated_at": "2019-02-10",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
