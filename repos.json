@@ -275,7 +275,7 @@
         "changelog": "https://github.com/custom-components/switch.hadockermon",
         "local_location": "/custom_components/switch/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "updated_at": "2019-02-11",
+        "updated_at": "2019-02-15",
         "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
