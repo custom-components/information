@@ -3,7 +3,7 @@
         "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
         "local_location": "/custom_components/binary_sensor/hadockermon.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
-        "updated_at": "2019-01-31",
+        "updated_at": "2019-02-17",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
