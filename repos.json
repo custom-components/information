@@ -48,11 +48,11 @@
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "custom_updater": {
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.0.5",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.1.0",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-02-17",
-        "version": "4.0.5",
+        "updated_at": "2019-02-18",
+        "version": "4.1.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
