@@ -203,7 +203,7 @@
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
-        "updated_at": "2019-01-16",
+        "updated_at": "2019-02-20",
         "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
@@ -219,7 +219,7 @@
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
         "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
-        "updated_at": "2019-01-27",
+        "updated_at": "2019-02-20",
         "version": "0.1.6",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
