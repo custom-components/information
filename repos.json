@@ -75,8 +75,8 @@
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
         "local_location": "/custom_components/life360/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/device_tracker/life360.py",
-        "updated_at": "2019-02-19",
-        "version": "2.7.0",
+        "updated_at": "2019-02-22",
+        "version": "2.8.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "hassbian_config": {
