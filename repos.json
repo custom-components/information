@@ -51,7 +51,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.4",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-02-21",
+        "updated_at": "2019-02-22",
         "version": "4.2.5",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -91,7 +91,7 @@
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/media_player/braviatv_psk.py",
-        "updated_at": "2019-02-21",
+        "updated_at": "2019-02-22",
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
