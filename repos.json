@@ -235,7 +235,7 @@
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.8",
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
-        "updated_at": "2019-02-11",
+        "updated_at": "2019-02-22",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
