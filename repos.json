@@ -275,7 +275,7 @@
         "changelog": "https://github.com/custom-components/sensor.youtube",
         "local_location": "/custom_components/youtube/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
-        "updated_at": "2019-02-21",
+        "updated_at": "2019-02-22",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
