@@ -171,7 +171,7 @@
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
         "local_location": "/custom_components/krisinformation/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
-        "updated_at": "2019-02-21",
+        "updated_at": "2019-02-23",
         "version": "0.0.6",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
