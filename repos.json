@@ -48,11 +48,11 @@
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "custom_updater": {
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.6",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.7",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
-        "updated_at": "2019-02-23",
-        "version": "4.2.6",
+        "updated_at": "2019-02-24",
+        "version": "4.2.7",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
@@ -275,8 +275,8 @@
         "changelog": "https://github.com/custom-components/sensor.youtube",
         "local_location": "/custom_components/youtube/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
-        "updated_at": "2019-02-23",
-        "version": "0.0.2",
+        "updated_at": "2019-02-24",
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
     "sickchill": {
