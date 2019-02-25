@@ -22,7 +22,7 @@
         "local_location": "/custom_components/combined/camera.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
         "resources": [],
-        "updated_at": "2019-01-24",
+        "updated_at": "2019-02-25",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
@@ -31,7 +31,7 @@
         "local_location": "/custom_components/multisource/camera.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
         "resources": [],
-        "updated_at": "2019-01-24",
+        "updated_at": "2019-02-25",
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/camera.multisource"
     },
@@ -265,7 +265,7 @@
         "local_location": "/custom_components/weatheralerts/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
         "resources": [],
-        "updated_at": "2019-01-30",
+        "updated_at": "2019-02-25",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
