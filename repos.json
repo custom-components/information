@@ -58,7 +58,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-26",
         "version": "4.2.13",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -275,7 +275,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
         "resources": [],
         "updated_at": "2019-02-26",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sensor.youtube": {
