@@ -274,7 +274,7 @@
         "local_location": "/custom_components/wienerlinien/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
         "resources": [],
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-02-26",
         "version": "1.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
