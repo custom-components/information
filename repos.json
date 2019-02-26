@@ -59,7 +59,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
         "updated_at": "2019-02-26",
-        "version": null,
+        "version": "4.2.13",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.hue": {
@@ -101,10 +101,10 @@
     "sensor.brewdog": {
         "changelog": "https://github.com/custom-components/sensor.brewdog",
         "local_location": "/custom_components/brewdog/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/sensor/brewdog.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
         "resources": [],
         "updated_at": "2019-01-28",
-        "version": null,
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.ctabustracker": {
