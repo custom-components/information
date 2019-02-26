@@ -130,7 +130,7 @@
         "local_location": "/custom_components/feedparser/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-26",
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
@@ -184,7 +184,7 @@
         "local_location": "/custom_components/personalcapital/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-26",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
@@ -238,7 +238,7 @@
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-26",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
@@ -256,7 +256,7 @@
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-26",
         "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
