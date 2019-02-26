@@ -11,10 +11,10 @@
     "binary_sensor.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
         "local_location": "/custom_components/hue/binary_sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/binary_sensor/hue.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/binary_sensor.py",
         "resources": [],
-        "updated_at": "2019-02-06",
-        "version": "1.0.4",
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "camera.combined": {
@@ -59,16 +59,16 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
         "updated_at": "2019-02-26",
-        "version": "4.2.13",
+        "version": "4.2.14",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
         "local_location": "/custom_components/hue/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/device_tracker/hue.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/device_tracker.py",
         "resources": [],
-        "updated_at": "2019-02-06",
-        "version": "1.0.4",
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "hassbian_config": {
@@ -146,10 +146,10 @@
     "sensor.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
         "local_location": "/custom_components/hue/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/sensor/hue.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-06",
-        "version": "1.0.4",
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.kodi_recently_added": {
