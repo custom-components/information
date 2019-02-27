@@ -293,7 +293,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
         "resources": [],
         "updated_at": "2019-02-27",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
     "sickchill": {
