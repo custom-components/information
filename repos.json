@@ -22,8 +22,8 @@
         "local_location": "/custom_components/combined/camera.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
         "resources": [],
-        "updated_at": "2019-02-25",
-        "version": "0.0.1",
+        "updated_at": "2019-02-27",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
@@ -265,7 +265,7 @@
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-26",
+        "updated_at": "2019-02-27",
         "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
