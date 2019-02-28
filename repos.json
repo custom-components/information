@@ -293,7 +293,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
         "resources": [],
         "updated_at": "2019-02-28",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
     "sensor.youtube": {
