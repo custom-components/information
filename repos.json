@@ -103,7 +103,7 @@
         "local_location": "/custom_components/authenticated/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-03-01",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
@@ -139,7 +139,7 @@
         "local_location": "/custom_components/feedparser/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-28",
+        "updated_at": "2019-03-01",
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
