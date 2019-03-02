@@ -98,6 +98,15 @@
         "version": "2.8.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "hacs": {
+        "changelog": "https://github.com/custom-components/hacs",
+        "local_location": "/custom_components/hacs/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
+        "resources": [],
+        "updated_at": "2019-03-02",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/hacs"
+    },
     "hassbian_config": {
         "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
         "local_location": "/custom_components/hassbian_config.py",
