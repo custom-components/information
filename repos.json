@@ -236,19 +236,19 @@
     "sensor.plex_recently_added": {
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
         "local_location": "/custom_components/plex_recently_added/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/sensor/plex_recently_added.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-26",
-        "version": "0.2.1",
+        "updated_at": "2019-03-03",
+        "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-22",
-        "version": "0.2.4",
+        "updated_at": "2019-03-03",
+        "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
@@ -263,10 +263,10 @@
     "sensor.sonarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
         "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sensor/sonarr_upcoming_media.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
         "resources": [],
-        "updated_at": "2019-02-22",
-        "version": "0.1.6",
+        "updated_at": "2019-03-03",
+        "version": "0.1.7",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
