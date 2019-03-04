@@ -4,7 +4,7 @@
         "local_location": "/custom_components/hadockermon/binary_sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
         "resources": [],
-        "updated_at": "2019-02-17",
+        "updated_at": "2019-03-04",
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
@@ -72,12 +72,12 @@
         "visit_repo": "https://github.com/custom-components/config_check"
     },
     "custom_updater": {
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.15",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.17",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-03-03",
-        "version": "4.2.16",
+        "updated_at": "2019-03-04",
+        "version": "4.2.17",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
