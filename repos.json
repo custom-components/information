@@ -230,7 +230,7 @@
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
         "resources": [],
         "updated_at": "2019-03-05",
-        "version": "0.0.8",
+        "version": "0.0.9",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
@@ -346,7 +346,7 @@
         "local_location": "/custom_components/yandex_maps/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-04",
+        "updated_at": "2019-03-05",
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
