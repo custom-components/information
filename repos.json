@@ -166,7 +166,7 @@
         "local_location": "/custom_components/custom_aftership/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
         "resources": [],
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-03-07",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
@@ -265,7 +265,7 @@
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-03",
+        "updated_at": "2019-03-07",
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
@@ -382,7 +382,7 @@
         "local_location": "/custom_components/usps_mail.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
-        "updated_at": "2019-02-06",
+        "updated_at": "2019-03-07",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
