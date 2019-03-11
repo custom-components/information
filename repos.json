@@ -311,7 +311,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
         "resources": [],
         "updated_at": "2018-10-26",
-        "version": null,
+        "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
