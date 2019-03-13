@@ -148,7 +148,7 @@
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
         "resources": [],
-        "updated_at": "2019-03-08",
+        "updated_at": "2019-03-13",
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
