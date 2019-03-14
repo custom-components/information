@@ -90,12 +90,12 @@
         "visit_repo": "https://github.com/custom-components/config_check"
     },
     "custom_updater": {
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.17",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.18",
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-03-13",
-        "version": "4.2.17",
+        "updated_at": "2019-03-14",
+        "version": "4.2.18",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
