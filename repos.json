@@ -224,15 +224,6 @@
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
-    "sensor.illuminance": {
-        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
-        "local_location": "/custom_components/illuminance/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
-        "resources": [],
-        "updated_at": "2019-03-07",
-        "version": "2.0.2",
-        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
     "sensor.kodi_recently_added": {
         "changelog": "https://github.com/custom-components/sensor.kodi_recently_added",
         "local_location": "/custom_components/kodi_recently_added/sensor.py",
