@@ -314,6 +314,15 @@
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
+    "sensor.trakt": {
+        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/v0.0.9",
+        "local_location": "/custom_components/trakt/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
+        "resources": [],
+        "updated_at": "2019-03-03",
+        "version": "0.0.6",
+        "visit_repo": "https://github.com/custom-components/sensor.trakt"
+    },
     "sensor.unifigateway": {
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
         "local_location": "/custom_components/unifigateway/sensor.py",
