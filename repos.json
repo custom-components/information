@@ -116,12 +116,21 @@
         "version": "2.8.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "gpodder": {
+        "changelog": "https://github.com/custom-components/gpodder",
+        "local_location": "/custom_components/gpodder/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py",
+        "resources": [],
+        "updated_at": "2019-03-16",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/gpodder"
+    },
     "hacs": {
         "changelog": "https://github.com/custom-components/hacs",
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-03-15",
+        "updated_at": "2019-03-16",
         "version": null,
         "visit_repo": "https://github.com/custom-components/hacs"
     },
@@ -310,7 +319,7 @@
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/sensor/trakt.py",
         "resources": [],
-        "updated_at": "2019-03-03",
+        "updated_at": "2019-03-16",
         "version": "0.0.6",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
