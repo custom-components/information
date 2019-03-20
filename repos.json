@@ -401,7 +401,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
         "updated_at": "2019-03-07",
-        "version": "0.1.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
