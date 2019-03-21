@@ -8,15 +8,6 @@
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
-    "binary_sensor.hue": {
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/binary_sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/binary_sensor.py",
-        "resources": [],
-        "updated_at": "2019-02-24",
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
-    },
     "camera.combined": {
         "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
         "local_location": "/custom_components/combined/camera.py",
@@ -85,7 +76,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-03-20",
+        "updated_at": "2019-03-21",
         "version": "4.2.18",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -97,15 +88,6 @@
         "updated_at": "2019-01-23",
         "version": "1.7.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
-    },
-    "device_tracker.hue": {
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/device_tracker.py",
-        "resources": [],
-        "updated_at": "2019-02-24",
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "device_tracker.life360": {
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
@@ -214,15 +196,6 @@
         "updated_at": "2019-01-29",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
-    },
-    "sensor.hue": {
-        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/hue/sensor.py",
-        "resources": [],
-        "updated_at": "2019-02-24",
-        "version": "1.0.5",
-        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
     "sensor.illuminance": {
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
