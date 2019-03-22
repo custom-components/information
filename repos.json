@@ -301,7 +301,7 @@
         "local_location": "/custom_components/rpi_power/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
         "resources": [],
-        "updated_at": "2019-03-10",
+        "updated_at": "2019-03-22",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
