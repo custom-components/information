@@ -59,7 +59,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/programmable_thermostat/climate.py",
         "resources": [],
         "updated_at": "2019-03-09",
-        "version": "1.0.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
     "complimentr": {
