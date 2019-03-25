@@ -134,6 +134,15 @@
         "version": null,
         "visit_repo": "https://github.com/custom-components/hacs"
     },
+    "hassbian_config": {
+        "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
+        "local_location": "/custom_components/hassbian_config.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "resources": [],
+        "updated_at": "2019-02-06",
+        "version": "2.0.1",
+        "visit_repo": "https://github.com/custom-components/hassbian_config"
+    },
     "media_player.braviatv_psk": {
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
@@ -157,7 +166,7 @@
         "local_location": "/custom_components/avanza_stock/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-22",
+        "updated_at": "2019-03-25",
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
@@ -176,7 +185,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py",
         "resources": [],
         "updated_at": "2019-01-19",
-        "version": "0.0.3",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
     },
     "sensor.custom_aftership": {
