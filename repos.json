@@ -85,7 +85,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-03-24",
+        "updated_at": "2019-03-25",
         "version": "4.2.18",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -130,7 +130,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-03-16",
+        "updated_at": "2019-03-25",
         "version": null,
         "visit_repo": "https://github.com/custom-components/hacs"
     },
