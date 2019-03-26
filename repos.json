@@ -188,15 +188,6 @@
         "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
     },
-    "sensor.custom_aftership": {
-        "changelog": "https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0",
-        "local_location": "/custom_components/custom_aftership/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
-        "resources": [],
-        "updated_at": "2019-03-07",
-        "version": "0.4.0",
-        "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
-    },
     "sensor.feedparser": {
         "changelog": "https://github.com/custom-components/sensor.feedparser/releases/tag/v0.0.2",
         "local_location": "/custom_components/feedparser/sensor.py",
