@@ -157,7 +157,7 @@
         "local_location": "/custom_components/airthings_wave/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-28",
+        "updated_at": "2019-03-30",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
