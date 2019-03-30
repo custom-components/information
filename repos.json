@@ -171,12 +171,12 @@
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
-        "changelog": "https://github.com/custom-components/sensor.avanza_stock",
+        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.3",
         "local_location": "/custom_components/avanza_stock/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-29",
-        "version": "0.0.2",
+        "updated_at": "2019-03-30",
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
     "sensor.brewdog": {
@@ -364,8 +364,8 @@
         "local_location": "/custom_components/weatheralerts/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-26",
-        "version": "0.0.3",
+        "updated_at": "2019-03-30",
+        "version": "\"0.1.1\"",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
     "sensor.wienerlinien": {
