@@ -283,7 +283,7 @@
         "local_location": "/custom_components/personalcapital/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-16",
+        "updated_at": "2019-04-02",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
