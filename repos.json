@@ -85,7 +85,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-04-02",
+        "updated_at": "2019-04-04",
         "version": "4.2.18",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -265,8 +265,8 @@
         "local_location": "/custom_components/krisinformation/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-24",
-        "version": "0.0.10",
+        "updated_at": "2019-04-04",
+        "version": "1.0.0",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
     "sensor.owlintuition": {
