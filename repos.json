@@ -346,7 +346,7 @@
         "local_location": "/custom_components/unifigateway/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-06",
+        "updated_at": "2019-04-08",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
