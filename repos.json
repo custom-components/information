@@ -306,11 +306,11 @@
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
-        "changelog": "https://github.com/custom-components/sensor.rpi_power",
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.0.9",
         "local_location": "/custom_components/rpi_power/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/sensor/rpi_power.py",
         "resources": [],
-        "updated_at": "2019-04-06",
+        "updated_at": "2019-04-09",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
@@ -355,7 +355,7 @@
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-05",
+        "updated_at": "2019-04-09",
         "version": "0.1.4",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
@@ -409,7 +409,7 @@
         "local_location": "/custom_components/hadockermon/switch.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
         "resources": [],
-        "updated_at": "2019-04-02",
+        "updated_at": "2019-04-09",
         "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
