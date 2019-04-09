@@ -328,7 +328,7 @@
         "local_location": "/custom_components/ssh/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-06",
+        "updated_at": "2019-04-09",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
@@ -346,7 +346,7 @@
         "local_location": "/custom_components/unifigateway/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-08",
+        "updated_at": "2019-04-09",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
