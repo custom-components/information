@@ -35,14 +35,9 @@
         "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.1.0",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/binary_sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
-        ],
+        "resources": [],
         "updated_at": "2019-04-10",
-        "version": "0.1.0",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
     "camera.combined": {
@@ -51,7 +46,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
         "resources": [],
         "updated_at": "2019-03-10",
-        "version": "untagged-de115bdf35cad9f7e672",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
@@ -69,7 +64,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/unsplash/camera.py",
         "resources": [],
         "updated_at": "2019-01-24",
-        "version": "untagged-87e73bc7c935f59e00b4",
+        "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "circadian_lighting": {
@@ -108,7 +103,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py",
         "resources": [],
         "updated_at": "2019-03-09",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/complimentr"
     },
     "config_check": {
@@ -160,13 +155,9 @@
         "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.3",
         "local_location": "/custom_components/gpodder/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/const.py",
-            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py"
-        ],
+        "resources": [],
         "updated_at": "2019-03-24",
-        "version": "1.0.3",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
     "hacs": {
@@ -200,10 +191,7 @@
         "changelog": "https://github.com/custom-components/sensor.airthings_wave",
         "local_location": "/custom_components/airthings_wave/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
-        ],
+        "resources": [],
         "updated_at": "2019-04-09",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
@@ -214,7 +202,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
         "resources": [],
         "updated_at": "2019-03-31",
-        "version": "untagged-dce8283554e20c2f175e",
+        "version": "0.4.1",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
@@ -259,7 +247,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
         "resources": [],
         "updated_at": "2019-04-06",
-        "version": "v0.0.2",
+        "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.file_restore": {
@@ -331,7 +319,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
         "resources": [],
         "updated_at": "2019-04-02",
-        "version": "v0.1.1",
+        "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
@@ -340,7 +328,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
         "resources": [],
         "updated_at": "2019-03-03",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
@@ -367,7 +355,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
         "resources": [],
         "updated_at": "2019-03-03",
-        "version": "0.0.7",
+        "version": "0.1.7",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
@@ -403,7 +391,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [],
         "updated_at": "2019-04-09",
-        "version": "1.1.5",
+        "version": "0.1.4",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
@@ -457,7 +445,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
         "resources": [],
         "updated_at": "2019-04-09",
-        "version": "untagged-5e59b9037c63bce5d745",
+        "version": "3.1.0",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
@@ -466,7 +454,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
         "updated_at": "2019-03-07",
-        "version": "untagged-56aead20725f7977fac8",
+        "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
