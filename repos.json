@@ -204,7 +204,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
         ],
-        "updated_at": "2019-04-09",
+        "updated_at": "2019-04-11",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
