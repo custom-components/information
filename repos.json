@@ -31,20 +31,6 @@
         "version": "1.0.5",
         "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
     },
-    "breaking_changes": {
-        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.1.0",
-        "local_location": "/custom_components/breaking_changes/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/binary_sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
-        ],
-        "updated_at": "2019-04-10",
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-components/breaking_changes"
-    },
     "camera.combined": {
         "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
         "local_location": "/custom_components/combined/camera.py",
