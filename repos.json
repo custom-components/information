@@ -164,7 +164,7 @@
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/const.py",
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py"
         ],
-        "updated_at": "2019-04-11",
+        "updated_at": "2019-04-13",
         "version": "1.0.3",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
@@ -383,7 +383,7 @@
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-06",
+        "updated_at": "2019-04-13",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
@@ -401,7 +401,7 @@
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-09",
+        "updated_at": "2019-04-13",
         "version": "0.1.4",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
