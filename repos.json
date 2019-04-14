@@ -338,7 +338,7 @@
         "local_location": "/custom_components/plex_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-03",
+        "updated_at": "2019-04-14",
         "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
