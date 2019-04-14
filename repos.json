@@ -124,7 +124,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-04-12",
+        "updated_at": "2019-04-14",
         "version": "4.2.19",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
