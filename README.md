@@ -43,7 +43,7 @@ The `.py` file also will have to include a `__version__` variable, [example here
 
 ## Want access to push your amazing stuff to this space?
 
-Contact one of the users with an owner role.
+Contact one of the users with an owner role.  
 This are currently:
 
 - [ludeeus](https://github.com/ludeeus) - You can find him on he [Discord server](https://discord.gg/c5DvZ4e) as `@Ludeeus#4212`
