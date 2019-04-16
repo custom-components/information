@@ -19,7 +19,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
         "resources": [],
         "updated_at": "2019-03-04",
-        "version": null,
+        "version": "0.0.3",
         "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
     },
     "binary_sensor.hue": {
@@ -461,8 +461,8 @@
     },
     "usps_mail": {
         "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
-        "local_location": "/custom_components/usps_mail/__init__.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail/__init__.py",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
         "updated_at": "2019-03-07",
         "version": "0.1.1",
