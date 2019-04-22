@@ -137,8 +137,8 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
         ],
-        "updated_at": "2019-04-19",
-        "version": "1.7.3",
+        "updated_at": "2019-04-22",
+        "version": "1.7.4",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "device_tracker.hue": {
@@ -158,8 +158,8 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
         ],
-        "updated_at": "2019-04-19",
-        "version": "2.9.3",
+        "updated_at": "2019-04-22",
+        "version": "2.9.4",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
@@ -348,8 +348,8 @@
         "local_location": "/custom_components/plex_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-14",
-        "version": "0.2.2",
+        "updated_at": "2019-04-22",
+        "version": "0.2.3",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
