@@ -158,8 +158,8 @@
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
         ],
-        "updated_at": "2019-04-22",
-        "version": "2.9.4",
+        "updated_at": "2019-04-23",
+        "version": "2.9.5",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "gpodder": {
