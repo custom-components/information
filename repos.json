@@ -451,6 +451,20 @@
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
+    "shelly": {
+        "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
+        "local_location": "/components/shelly/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/light.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
+        ],
+        "updated_at": "2019-04-20",
+        "version": "0.0.9",
+        "visit_repo": "https://github.com/StyraHem/hass"
+    },
     "sickchill": {
         "changelog": "https://github.com/custom-components/sickchill",
         "local_location": "/custom_components/sickchill/__init__.py",
