@@ -25,7 +25,7 @@
     },
     "binary_sensor.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/binary_sensor.py",
+        "local_location": "/custom_components/huesensor/binary_sensor.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py",
         "resources": [],
         "updated_at": "2019-02-24",
@@ -131,8 +131,8 @@
     },
     "device_tracker.composite": {
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
-        "local_location": "/custom_components/composite/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
+        "local_location": "/custom_components/composite/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
@@ -143,7 +143,7 @@
     },
     "device_tracker.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/device_tracker.py",
+        "local_location": "/custom_components/huesensor/device_tracker.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py",
         "resources": [],
         "updated_at": "2019-02-24",
@@ -152,8 +152,8 @@
     },
     "device_tracker.life360": {
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
-        "local_location": "/custom_components/life360/device_tracker.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
+        "local_location": "/custom_components/life360/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
@@ -288,7 +288,7 @@
     },
     "sensor.hue": {
         "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
-        "local_location": "/custom_components/hue/sensor.py",
+        "local_location": "/custom_components/huesensor/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py",
         "resources": [],
         "updated_at": "2019-02-24",
@@ -297,8 +297,8 @@
     },
     "sensor.illuminance": {
         "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
-        "local_location": "/custom_components/illuminance/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+        "local_location": "/custom_components/illuminance/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
             "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/manifest.json"
@@ -453,7 +453,7 @@
     },
     "shelly": {
         "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
-        "local_location": "/components/shelly/__init__.py",
+        "local_location": "/custom_components/shelly/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py",
@@ -463,7 +463,7 @@
         ],
         "updated_at": "2019-04-24",
         "version": "0.0.10",
-        "visit_repo": "https://github.com/StyraHem/hass"
+        "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
     },
     "sickchill": {
         "changelog": "https://github.com/custom-components/sickchill",
