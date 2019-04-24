@@ -442,6 +442,15 @@
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
+    "sensor.youtube": {
+        "changelog": "https://github.com/custom-components/sensor.youtube",
+        "local_location": "/custom_components/youtube/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-10",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.youtube"
+    },
     "shelly": {
         "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
         "local_location": "/components/shelly/__init__.py",
