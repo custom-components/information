@@ -447,7 +447,7 @@
         "local_location": "/custom_components/youtube/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-10",
+        "updated_at": "2019-04-26",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
