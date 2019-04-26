@@ -12,7 +12,7 @@ This shared space is **not** supposed to be a replacement of any kind to the off
 
 This shared space is a place where all users that develop custom_components are invited to share their codes for discoverability.
 This space has some benefits.
- - Users that are looking for custom_components will have fever places to look.
+ - Users that are looking for custom_components will have fewer places to look.
  - There is less chance that multiple developers are working on the same thing.
 
 ## Rules
