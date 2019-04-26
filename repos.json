@@ -41,7 +41,7 @@
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
         ],
-        "updated_at": "2019-04-25",
+        "updated_at": "2019-04-26",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
@@ -125,7 +125,7 @@
         "local_location": "/custom_components/custom_updater.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
         "resources": [],
-        "updated_at": "2019-04-25",
+        "updated_at": "2019-04-26",
         "version": "4.2.19",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -312,8 +312,8 @@
         "local_location": "/custom_components/kodi_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-25",
-        "version": "0.2.3",
+        "updated_at": "2019-04-26",
+        "version": "0.2.4",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
     "sensor.krisinformation": {
