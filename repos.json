@@ -122,11 +122,11 @@
     },
     "custom_updater": {
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.19",
-        "local_location": "/custom_components/custom_updater.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater.py",
+        "local_location": "/custom_components/custom_updater/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
         "resources": [],
         "updated_at": "2019-04-26",
-        "version": "4.2.19",
+        "version": "5.0.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
@@ -210,7 +210,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
         ],
-        "updated_at": "2019-04-21",
+        "updated_at": "2019-04-26",
         "version": "\"0.4.0\"",
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
@@ -366,7 +366,7 @@
         "local_location": "/custom_components/rpi_power/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-26",
+        "updated_at": "2019-04-27",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
