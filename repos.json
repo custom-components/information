@@ -1,1 +1,495 @@
-"{\n    \"amcrest\": {\n        \"changelog\": \"https://github.com/pnbruckner/homeassistant-config/blob/master/docs/amcrest.md\",\n        \"local_location\": \"/custom_components/amcrest/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/binary_sensor.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/camera.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/sensor.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/switch.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/manifest.json\"\n        ],\n        \"updated_at\": \"2019-04-19\",\n        \"version\": \"1.3.3\",\n        \"visit_repo\": \"https://github.com/pnbruckner/homeassistant-config\"\n    },\n    \"binary_sensor.hadockermon\": {\n        \"changelog\": \"https://github.com/custom-components/binary_sensor.hadockermon\",\n        \"local_location\": \"/custom_components/hadockermon/binary_sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-04\",\n        \"version\": \"0.0.3\",\n        \"visit_repo\": \"https://github.com/custom-components/binary_sensor.hadockermon\"\n    },\n    \"binary_sensor.hue\": {\n        \"changelog\": \"https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest\",\n        \"local_location\": \"/custom_components/huesensor/binary_sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-24\",\n        \"version\": \"1.0.5\",\n        \"visit_repo\": \"https://github.com/robmarkcole/Hue-sensors-HASS\"\n    },\n    \"breaking_changes\": {\n        \"changelog\": \"https://github.com/custom-components/breaking_changes/releases/tag/0.1.0\",\n        \"local_location\": \"/custom_components/breaking_changes/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py\",\n            \"https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py\",\n            \"https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json\"\n        ],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": \"0.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/breaking_changes\"\n    },\n    \"camera.combined\": {\n        \"changelog\": \"https://github.com/custom-components/camera.combined/releases/tag/0.0.1\",\n        \"local_location\": \"/custom_components/combined/camera.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-10\",\n        \"version\": \"0.0.2\",\n        \"visit_repo\": \"https://github.com/custom-components/camera.combined\"\n    },\n    \"camera.multisource\": {\n        \"changelog\": \"https://github.com/custom-components/camera.multisource/releases/tag/0.3.0\",\n        \"local_location\": \"/custom_components/multisource/camera.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-25\",\n        \"version\": \"0.3.0\",\n        \"visit_repo\": \"https://github.com/custom-components/camera.multisource\"\n    },\n    \"camera.unsplash\": {\n        \"changelog\": \"https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2\",\n        \"local_location\": \"/custom_components/unsplash/camera.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/unsplash/camera.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-01-24\",\n        \"version\": \"0.4.2\",\n        \"visit_repo\": \"https://github.com/custom-components/camera.unsplash\"\n    },\n    \"circadian_lighting\": {\n        \"changelog\": \"https://github.com/claytonjn/hass-circadian_lighting/releases\",\n        \"local_location\": \"/custom_components/circadian_lighting/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/sensor.py\",\n            \"https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py\"\n        ],\n        \"updated_at\": \"2019-04-05\",\n        \"version\": \"1.0.3\",\n        \"visit_repo\": \"https://github.com/claytonjn/hass-circadian_lighting\"\n    },\n    \"climate.e_thermostaat\": {\n        \"changelog\": \"https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.1\",\n        \"local_location\": \"/custom_components/e_thermostaat/climate.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"0.2.1\",\n        \"visit_repo\": \"https://github.com/custom-components/climate.e_thermostaat\"\n    },\n    \"climate.programmable_thermostat\": {\n        \"changelog\": \"https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.2.0\",\n        \"local_location\": \"/custom_components/programmable_thermostat/climate.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/programmable_thermostat/climate.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"1.2.0\",\n        \"visit_repo\": \"https://github.com/custom-components/climate.programmable_thermostat\"\n    },\n    \"complimentr\": {\n        \"changelog\": \"https://github.com/custom-components/complimentr/releases/tag/0.0.1\",\n        \"local_location\": \"/custom_components/complimentr/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-09\",\n        \"version\": \"0.0.2\",\n        \"visit_repo\": \"https://github.com/custom-components/complimentr\"\n    },\n    \"config_check\": {\n        \"changelog\": \"https://github.com/custom-components/config_check\",\n        \"local_location\": \"/custom_components/config_check/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/config_check/master/custom_components/config_check/__init__.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-30\",\n        \"version\": \"0.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/config_check\"\n    },\n    \"custom_updater\": {\n        \"changelog\": \"https://github.com/custom-components/custom_updater/releases/tag/4.2.19\",\n        \"local_location\": \"/custom_components/custom_updater/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-27\",\n        \"version\": \"5.0.0\",\n        \"visit_repo\": \"https://github.com/custom-components/custom_updater\"\n    },\n    \"device_tracker.composite\": {\n        \"changelog\": \"https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes\",\n        \"local_location\": \"/custom_components/composite/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json\"\n        ],\n        \"updated_at\": \"2019-04-22\",\n        \"version\": \"1.7.4\",\n        \"visit_repo\": \"https://github.com/pnbruckner/homeassistant-config\"\n    },\n    \"device_tracker.hue\": {\n        \"changelog\": \"https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest\",\n        \"local_location\": \"/custom_components/huesensor/device_tracker.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-24\",\n        \"version\": \"1.0.5\",\n        \"visit_repo\": \"https://github.com/robmarkcole/Hue-sensors-HASS\"\n    },\n    \"device_tracker.life360\": {\n        \"changelog\": \"https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes\",\n        \"local_location\": \"/custom_components/life360/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json\"\n        ],\n        \"updated_at\": \"2019-04-23\",\n        \"version\": \"2.9.5\",\n        \"visit_repo\": \"https://github.com/pnbruckner/homeassistant-config\"\n    },\n    \"gpodder\": {\n        \"changelog\": \"https://github.com/custom-components/gpodder/releases/tag/1.0.3\",\n        \"local_location\": \"/custom_components/gpodder/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/__init__.py\",\n            \"https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/const.py\",\n            \"https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py\"\n        ],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"1.0.3\",\n        \"visit_repo\": \"https://github.com/custom-components/gpodder\"\n    },\n    \"hacs\": {\n        \"changelog\": \"https://github.com/custom-components/hacs\",\n        \"local_location\": \"/custom_components/hacs/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": null,\n        \"visit_repo\": \"https://github.com/custom-components/hacs\"\n    },\n    \"hassbian_config\": {\n        \"changelog\": \"https://github.com/custom-components/hassbian_config/releases/tag/2.0.1\",\n        \"local_location\": \"/custom_components/hassbian_config.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-06\",\n        \"version\": \"2.0.1\",\n        \"visit_repo\": \"https://github.com/custom-components/hassbian_config\"\n    },\n    \"media_player.braviatv_psk\": {\n        \"changelog\": \"https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5\",\n        \"local_location\": \"/custom_components/braviatv_psk/media_player.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"0.2.5\",\n        \"visit_repo\": \"https://github.com/custom-components/media_player.braviatv_psk\"\n    },\n    \"sensor.airthings_wave\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.airthings_wave\",\n        \"local_location\": \"/custom_components/airthings_wave/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py\",\n            \"https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py\"\n        ],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": \"\\\"0.4.0\\\"\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.airthings_wave\"\n    },\n    \"sensor.authenticated\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0\",\n        \"local_location\": \"/custom_components/authenticated/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"0.4.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.authenticated\"\n    },\n    \"sensor.avanza_stock\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.6\",\n        \"local_location\": \"/custom_components/avanza_stock/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"0.0.6\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.avanza_stock\"\n    },\n    \"sensor.brewdog\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.brewdog\",\n        \"local_location\": \"/custom_components/brewdog/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-01-28\",\n        \"version\": \"0.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.brewdog\"\n    },\n    \"sensor.ctabustracker\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3\",\n        \"local_location\": \"/custom_components/ctabustracker/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-01-19\",\n        \"version\": \"0.0.3\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.ctabustracker\"\n    },\n    \"sensor.custom_aftership\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0\",\n        \"local_location\": \"/custom_components/custom_aftership/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-07\",\n        \"version\": \"0.4.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.custom_aftership\"\n    },\n    \"sensor.feedparser\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.feedparser/releases/tag/v0.0.2\",\n        \"local_location\": \"/custom_components/feedparser/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"0.0.4\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.feedparser\"\n    },\n    \"sensor.file_restore\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.1\",\n        \"local_location\": \"/custom_components/file_restore/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/file_restore/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-09\",\n        \"version\": \"1.0.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.file_restore\"\n    },\n    \"sensor.geoip\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.geoip\",\n        \"local_location\": \"/custom_components/geoip/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-01-29\",\n        \"version\": \"0.0.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.geoip\"\n    },\n    \"sensor.hue\": {\n        \"changelog\": \"https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest\",\n        \"local_location\": \"/custom_components/huesensor/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-24\",\n        \"version\": \"1.0.5\",\n        \"visit_repo\": \"https://github.com/robmarkcole/Hue-sensors-HASS\"\n    },\n    \"sensor.illuminance\": {\n        \"changelog\": \"https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes\",\n        \"local_location\": \"/custom_components/illuminance/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py\",\n            \"https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/manifest.json\"\n        ],\n        \"updated_at\": \"2019-04-19\",\n        \"version\": \"2.0.5\",\n        \"visit_repo\": \"https://github.com/pnbruckner/homeassistant-config\"\n    },\n    \"sensor.kodi_recently_added\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.kodi_recently_added\",\n        \"local_location\": \"/custom_components/kodi_recently_added/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": \"0.2.4\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.kodi_recently_added\"\n    },\n    \"sensor.krisinformation\": {\n        \"changelog\": \"https://github.com/isabellaalstrom/sensor.krisinformation\",\n        \"local_location\": \"/custom_components/krisinformation/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-17\",\n        \"version\": \"1.0.0\",\n        \"visit_repo\": \"https://github.com/isabellaalstrom/sensor.krisinformation\"\n    },\n    \"sensor.owlintuition\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.owlintuition\",\n        \"local_location\": \"/custom_components/owlintuition/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-28\",\n        \"version\": null,\n        \"visit_repo\": \"https://github.com/custom-components/sensor.owlintuition\"\n    },\n    \"sensor.personalcapital\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.1.1\",\n        \"local_location\": \"/custom_components/personalcapital/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"0.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.personalcapital\"\n    },\n    \"sensor.plex_recently_added\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1\",\n        \"local_location\": \"/custom_components/plex_recently_added/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"0.2.5\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.plex_recently_added\"\n    },\n    \"sensor.radarr_upcoming_media\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.radarr_upcoming_media\",\n        \"local_location\": \"/custom_components/radarr_upcoming_media/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-27\",\n        \"version\": \"0.2.7\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.radarr_upcoming_media\"\n    },\n    \"sensor.rpi_power\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.0\",\n        \"local_location\": \"/custom_components/rpi_power/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-27\",\n        \"version\": \"0.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.rpi_power\"\n    },\n    \"sensor.sonarr_upcoming_media\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7\",\n        \"local_location\": \"/custom_components/sonarr_upcoming_media/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-25\",\n        \"version\": \"0.1.9\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.sonarr_upcoming_media\"\n    },\n    \"sensor.ssh\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.ssh\",\n        \"local_location\": \"/custom_components/ssh/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-09\",\n        \"version\": \"0.1.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.ssh\"\n    },\n    \"sensor.trakt\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.trakt/releases/tag/1.0.0\",\n        \"local_location\": \"/custom_components/trakt/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": \"1.0.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.trakt\"\n    },\n    \"sensor.unifigateway\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.unifigateway\",\n        \"local_location\": \"/custom_components/unifigateway/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-09\",\n        \"version\": \"0.2.0\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.unifigateway\"\n    },\n    \"sensor.untappd\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.untappd/releases/tag/1.1.5\",\n        \"local_location\": \"/custom_components/untappd/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"0.1.4\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.untappd\"\n    },\n    \"sensor.weatheralerts\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.weatheralerts\",\n        \"local_location\": \"/custom_components/weatheralerts/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-30\",\n        \"version\": \"\\\"0.1.1\\\"\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.weatheralerts\"\n    },\n    \"sensor.wienerlinien\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.wienerlinien\",\n        \"local_location\": \"/custom_components/wienerlinien/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-02-26\",\n        \"version\": \"1.1.2\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.wienerlinien\"\n    },\n    \"sensor.yandex_maps\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.yandex_maps\",\n        \"local_location\": \"/custom_components/yandex_maps/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-13\",\n        \"version\": \"0.0.4\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.yandex_maps\"\n    },\n    \"sensor.youtube\": {\n        \"changelog\": \"https://github.com/custom-components/sensor.youtube\",\n        \"local_location\": \"/custom_components/youtube/sensor.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-26\",\n        \"version\": \"0.1.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sensor.youtube\"\n    },\n    \"shelly\": {\n        \"changelog\": \"https://github.com/StyraHem/hass/tree/master/components/shelly\",\n        \"local_location\": \"/custom_components/shelly/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py\",\n        \"resources\": [\n            \"https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py\",\n            \"https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/light.py\",\n            \"https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py\",\n            \"https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py\"\n        ],\n        \"updated_at\": \"2019-04-24\",\n        \"version\": \"0.0.10\",\n        \"visit_repo\": \"https://github.com/StyraHem/hass/tree/master/components/shelly\"\n    },\n    \"sickchill\": {\n        \"changelog\": \"https://github.com/custom-components/sickchill\",\n        \"local_location\": \"/custom_components/sickchill/__init__.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-01-29\",\n        \"version\": \"0.1.1\",\n        \"visit_repo\": \"https://github.com/custom-components/sickchill\"\n    },\n    \"switch.hadockermon\": {\n        \"changelog\": \"https://github.com/custom-components/switch.hadockermon\",\n        \"local_location\": \"/custom_components/hadockermon/switch.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-04-09\",\n        \"version\": \"3.1.0\",\n        \"visit_repo\": \"https://github.com/custom-components/switch.hadockermon\"\n    },\n    \"usps_mail\": {\n        \"changelog\": \"https://github.com/custom-components/usps_mail/releases/tag/0.1.1\",\n        \"local_location\": \"/custom_components/usps_mail.py\",\n        \"remote_location\": \"https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py\",\n        \"resources\": [],\n        \"updated_at\": \"2019-03-07\",\n        \"version\": \"0.1.1\",\n        \"visit_repo\": \"https://github.com/custom-components/usps_mail\"\n    }\n}"
+{
+    "amcrest": {
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/amcrest.md",
+        "local_location": "/custom_components/amcrest/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/binary_sensor.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/camera.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/sensor.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/switch.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/amcrest/manifest.json"
+        ],
+        "updated_at": "2019-04-19",
+        "version": "1.3.3",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
+    "binary_sensor.hadockermon": {
+        "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
+        "local_location": "/custom_components/hadockermon/binary_sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-04",
+        "version": "0.0.3",
+        "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
+    },
+    "binary_sensor.hue": {
+        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
+        "local_location": "/custom_components/huesensor/binary_sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/binary_sensor.py",
+        "resources": [],
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
+        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
+    },
+    "breaking_changes": {
+        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.1.0",
+        "local_location": "/custom_components/breaking_changes/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
+        ],
+        "updated_at": "2019-04-26",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/breaking_changes"
+    },
+    "camera.combined": {
+        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
+        "local_location": "/custom_components/combined/camera.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
+        "resources": [],
+        "updated_at": "2019-03-10",
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-components/camera.combined"
+    },
+    "camera.multisource": {
+        "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
+        "local_location": "/custom_components/multisource/camera.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
+        "resources": [],
+        "updated_at": "2019-02-25",
+        "version": "0.3.0",
+        "visit_repo": "https://github.com/custom-components/camera.multisource"
+    },
+    "camera.unsplash": {
+        "changelog": "https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2",
+        "local_location": "/custom_components/unsplash/camera.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.unsplash/master/custom_components/unsplash/camera.py",
+        "resources": [],
+        "updated_at": "2019-01-24",
+        "version": "0.4.2",
+        "visit_repo": "https://github.com/custom-components/camera.unsplash"
+    },
+    "circadian_lighting": {
+        "changelog": "https://github.com/claytonjn/hass-circadian_lighting/releases",
+        "local_location": "/custom_components/circadian_lighting/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/sensor.py",
+            "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py"
+        ],
+        "updated_at": "2019-04-05",
+        "version": "1.0.3",
+        "visit_repo": "https://github.com/claytonjn/hass-circadian_lighting"
+    },
+    "climate.e_thermostaat": {
+        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.1",
+        "local_location": "/custom_components/e_thermostaat/climate.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "0.2.1",
+        "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
+    },
+    "climate.programmable_thermostat": {
+        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.2.0",
+        "local_location": "/custom_components/programmable_thermostat/climate.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/programmable_thermostat/climate.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "1.2.0",
+        "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
+    },
+    "complimentr": {
+        "changelog": "https://github.com/custom-components/complimentr/releases/tag/0.0.1",
+        "local_location": "/custom_components/complimentr/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/complimentr/master/custom_components/complimentr/__init__.py",
+        "resources": [],
+        "updated_at": "2019-03-09",
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-components/complimentr"
+    },
+    "config_check": {
+        "changelog": "https://github.com/custom-components/config_check",
+        "local_location": "/custom_components/config_check/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/config_check/master/custom_components/config_check/__init__.py",
+        "resources": [],
+        "updated_at": "2019-03-30",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/config_check"
+    },
+    "custom_updater": {
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/4.2.19",
+        "local_location": "/custom_components/custom_updater/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
+        "resources": [],
+        "updated_at": "2019-04-27",
+        "version": "5.0.0",
+        "visit_repo": "https://github.com/custom-components/custom_updater"
+    },
+    "device_tracker.composite": {
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/composite.md#release-notes",
+        "local_location": "/custom_components/composite/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/device_tracker.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/composite/manifest.json"
+        ],
+        "updated_at": "2019-04-22",
+        "version": "1.7.4",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
+    "device_tracker.hue": {
+        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
+        "local_location": "/custom_components/huesensor/device_tracker.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/device_tracker.py",
+        "resources": [],
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
+        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
+    },
+    "device_tracker.life360": {
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/life360.md#release-notes",
+        "local_location": "/custom_components/life360/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/device_tracker.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/life360/manifest.json"
+        ],
+        "updated_at": "2019-04-23",
+        "version": "2.9.5",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
+    "gpodder": {
+        "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.3",
+        "local_location": "/custom_components/gpodder/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/const.py",
+            "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py"
+        ],
+        "updated_at": "2019-04-13",
+        "version": "1.0.3",
+        "visit_repo": "https://github.com/custom-components/gpodder"
+    },
+    "hacs": {
+        "changelog": "https://github.com/custom-components/hacs",
+        "local_location": "/custom_components/hacs/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
+        "resources": [],
+        "updated_at": "2019-04-26",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/hacs"
+    },
+    "hassbian_config": {
+        "changelog": "https://github.com/custom-components/hassbian_config/releases/tag/2.0.1",
+        "local_location": "/custom_components/hassbian_config.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
+        "resources": [],
+        "updated_at": "2019-02-06",
+        "version": "2.0.1",
+        "visit_repo": "https://github.com/custom-components/hassbian_config"
+    },
+    "media_player.braviatv_psk": {
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5",
+        "local_location": "/custom_components/braviatv_psk/media_player.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "0.2.5",
+        "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
+    },
+    "sensor.airthings_wave": {
+        "changelog": "https://github.com/custom-components/sensor.airthings_wave",
+        "local_location": "/custom_components/airthings_wave/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
+        ],
+        "updated_at": "2019-04-26",
+        "version": "\"0.4.0\"",
+        "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
+    },
+    "sensor.authenticated": {
+        "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
+        "local_location": "/custom_components/authenticated/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "0.4.1",
+        "visit_repo": "https://github.com/custom-components/sensor.authenticated"
+    },
+    "sensor.avanza_stock": {
+        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.6",
+        "local_location": "/custom_components/avanza_stock/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-13",
+        "version": "0.0.6",
+        "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
+    },
+    "sensor.brewdog": {
+        "changelog": "https://github.com/custom-components/sensor.brewdog",
+        "local_location": "/custom_components/brewdog/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
+        "resources": [],
+        "updated_at": "2019-01-28",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/sensor.brewdog"
+    },
+    "sensor.ctabustracker": {
+        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
+        "local_location": "/custom_components/ctabustracker/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py",
+        "resources": [],
+        "updated_at": "2019-01-19",
+        "version": "0.0.3",
+        "visit_repo": "https://github.com/custom-components/sensor.ctabustracker"
+    },
+    "sensor.custom_aftership": {
+        "changelog": "https://github.com/custom-components/sensor.custom_aftership/releases/tag/0.4.0",
+        "local_location": "/custom_components/custom_aftership/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-07",
+        "version": "0.4.0",
+        "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
+    },
+    "sensor.feedparser": {
+        "changelog": "https://github.com/custom-components/sensor.feedparser/releases/tag/v0.0.2",
+        "local_location": "/custom_components/feedparser/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-13",
+        "version": "0.0.4",
+        "visit_repo": "https://github.com/custom-components/sensor.feedparser"
+    },
+    "sensor.file_restore": {
+        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.1",
+        "local_location": "/custom_components/file_restore/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/file_restore/sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-09",
+        "version": "1.0.1",
+        "visit_repo": "https://github.com/custom-components/sensor.file_restore"
+    },
+    "sensor.geoip": {
+        "changelog": "https://github.com/custom-components/sensor.geoip",
+        "local_location": "/custom_components/geoip/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
+        "resources": [],
+        "updated_at": "2019-01-29",
+        "version": "0.0.1",
+        "visit_repo": "https://github.com/custom-components/sensor.geoip"
+    },
+    "sensor.hue": {
+        "changelog": "https://github.com/robmarkcole/Hue-sensors-HASS/releases/latest",
+        "local_location": "/custom_components/huesensor/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/robmarkcole/Hue-sensors-HASS/master/custom_components/huesensor/sensor.py",
+        "resources": [],
+        "updated_at": "2019-02-24",
+        "version": "1.0.5",
+        "visit_repo": "https://github.com/robmarkcole/Hue-sensors-HASS"
+    },
+    "sensor.illuminance": {
+        "changelog": "https://github.com/pnbruckner/homeassistant-config/blob/master/docs/illuminance.md#release-notes",
+        "local_location": "/custom_components/illuminance/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/sensor.py",
+            "https://raw.githubusercontent.com/pnbruckner/homeassistant-config/master/custom_components/illuminance/manifest.json"
+        ],
+        "updated_at": "2019-04-19",
+        "version": "2.0.5",
+        "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
+    },
+    "sensor.kodi_recently_added": {
+        "changelog": "https://github.com/custom-components/sensor.kodi_recently_added",
+        "local_location": "/custom_components/kodi_recently_added/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-26",
+        "version": "0.2.4",
+        "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
+    },
+    "sensor.krisinformation": {
+        "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
+        "local_location": "/custom_components/krisinformation/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-17",
+        "version": "1.0.0",
+        "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
+    },
+    "sensor.owlintuition": {
+        "changelog": "https://github.com/custom-components/sensor.owlintuition",
+        "local_location": "/custom_components/owlintuition/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-28",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
+    },
+    "sensor.personalcapital": {
+        "changelog": "https://github.com/custom-components/sensor.personalcapital/releases/tag/v0.1.1",
+        "local_location": "/custom_components/personalcapital/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-13",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
+    },
+    "sensor.plex_recently_added": {
+        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
+        "local_location": "/custom_components/plex_recently_added/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "0.2.5",
+        "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
+    },
+    "sensor.radarr_upcoming_media": {
+        "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
+        "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-27",
+        "version": "0.2.7",
+        "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
+    },
+    "sensor.rpi_power": {
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.0",
+        "local_location": "/custom_components/rpi_power/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-27",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
+    },
+    "sensor.sonarr_upcoming_media": {
+        "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
+        "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-25",
+        "version": "0.1.9",
+        "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
+    },
+    "sensor.ssh": {
+        "changelog": "https://github.com/custom-components/sensor.ssh",
+        "local_location": "/custom_components/ssh/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-09",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.ssh"
+    },
+    "sensor.trakt": {
+        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/1.0.0",
+        "local_location": "/custom_components/trakt/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-26",
+        "version": "1.0.0",
+        "visit_repo": "https://github.com/custom-components/sensor.trakt"
+    },
+    "sensor.unifigateway": {
+        "changelog": "https://github.com/custom-components/sensor.unifigateway",
+        "local_location": "/custom_components/unifigateway/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-09",
+        "version": "0.2.0",
+        "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
+    },
+    "sensor.untappd": {
+        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/1.1.5",
+        "local_location": "/custom_components/untappd/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-13",
+        "version": "0.1.4",
+        "visit_repo": "https://github.com/custom-components/sensor.untappd"
+    },
+    "sensor.weatheralerts": {
+        "changelog": "https://github.com/custom-components/sensor.weatheralerts",
+        "local_location": "/custom_components/weatheralerts/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
+        "resources": [],
+        "updated_at": "2019-03-30",
+        "version": "\"0.1.1\"",
+        "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
+    },
+    "sensor.wienerlinien": {
+        "changelog": "https://github.com/custom-components/sensor.wienerlinien",
+        "local_location": "/custom_components/wienerlinien/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
+        "resources": [],
+        "updated_at": "2019-02-26",
+        "version": "1.1.2",
+        "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
+    },
+    "sensor.yandex_maps": {
+        "changelog": "https://github.com/custom-components/sensor.yandex_maps",
+        "local_location": "/custom_components/yandex_maps/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-13",
+        "version": "0.0.4",
+        "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
+    },
+    "sensor.youtube": {
+        "changelog": "https://github.com/custom-components/sensor.youtube",
+        "local_location": "/custom_components/youtube/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/sensor.py",
+        "resources": [],
+        "updated_at": "2019-04-26",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sensor.youtube"
+    },
+    "shelly": {
+        "changelog": "https://github.com/StyraHem/hass/tree/master/components/shelly",
+        "local_location": "/custom_components/shelly/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/cover.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/light.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
+            "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
+        ],
+        "updated_at": "2019-04-24",
+        "version": "0.0.10",
+        "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
+    },
+    "sickchill": {
+        "changelog": "https://github.com/custom-components/sickchill",
+        "local_location": "/custom_components/sickchill/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
+        "resources": [],
+        "updated_at": "2019-01-29",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/sickchill"
+    },
+    "switch.hadockermon": {
+        "changelog": "https://github.com/custom-components/switch.hadockermon",
+        "local_location": "/custom_components/hadockermon/switch.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
+        "resources": [],
+        "updated_at": "2019-04-09",
+        "version": "3.1.0",
+        "visit_repo": "https://github.com/custom-components/switch.hadockermon"
+    },
+    "usps_mail": {
+        "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "resources": [],
+        "updated_at": "2019-03-07",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/usps_mail"
+    }
+}
