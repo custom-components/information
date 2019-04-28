@@ -41,7 +41,7 @@
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
         ],
-        "updated_at": "2019-04-26",
+        "updated_at": "2019-04-28",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
@@ -378,7 +378,7 @@
         "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-25",
+        "updated_at": "2019-04-28",
         "version": "0.1.9",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
