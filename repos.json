@@ -362,12 +362,12 @@
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
-        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.0",
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.1",
         "local_location": "/custom_components/rpi_power/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-27",
-        "version": "0.1.0",
+        "updated_at": "2019-04-28",
+        "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
     "sensor.sonarr_upcoming_media": {
