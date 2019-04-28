@@ -357,7 +357,7 @@
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-27",
+        "updated_at": "2019-04-28",
         "version": "0.2.7",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
