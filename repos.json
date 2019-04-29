@@ -332,7 +332,7 @@
         "local_location": "/custom_components/owlintuition/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.owlintuition/master/custom_components/owlintuition/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-28",
+        "updated_at": "2019-04-29",
         "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.owlintuition"
     },
