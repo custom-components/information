@@ -396,7 +396,7 @@
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-28",
+        "updated_at": "2019-04-29",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
