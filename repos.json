@@ -177,6 +177,15 @@
         "version": "1.0.3",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
+    "grocy": {
+        "changelog": "https://github.com/custom-components/grocy",
+        "local_location": "/custom_components/grocy/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/grocy/master/custom_components/grocy/__init__.py",
+        "resources": [],
+        "updated_at": "2019-04-29",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/grocy"
+    },
     "hacs": {
         "changelog": "https://github.com/custom-components/hacs",
         "local_location": "/custom_components/hacs/__init__.py",
@@ -323,7 +332,7 @@
         "local_location": "/custom_components/krisinformation/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/isabellaalstrom/sensor.krisinformation/master/custom_components/krisinformation/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-17",
+        "updated_at": "2019-04-29",
         "version": "1.0.0",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
