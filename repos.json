@@ -213,6 +213,15 @@
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
+    "qbo": {
+        "changelog": "https://github.com/custom-components/qbo",
+        "local_location": "/custom_components/qbo/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/qbo/master/custom_components/qbo/__init__.py",
+        "resources": [],
+        "updated_at": "2019-05-01",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/qbo"
+    },
     "sensor.airthings_wave": {
         "changelog": "https://github.com/custom-components/sensor.airthings_wave",
         "local_location": "/custom_components/airthings_wave/sensor.py",
