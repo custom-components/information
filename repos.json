@@ -205,12 +205,12 @@
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "media_player.braviatv_psk": {
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.5",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.6",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
         "resources": [],
-        "updated_at": "2019-04-25",
-        "version": "0.2.5",
+        "updated_at": "2019-05-03",
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
