@@ -239,7 +239,7 @@
         "local_location": "/custom_components/authenticated/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-25",
+        "updated_at": "2019-05-04",
         "version": "0.4.1",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
@@ -252,7 +252,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "updated_at": "2019-05-02",
+        "updated_at": "2019-05-04",
         "version": "0.0.8",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
