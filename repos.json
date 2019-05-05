@@ -372,18 +372,24 @@
         "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.1",
         "local_location": "/custom_components/plex_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
-        "resources": [],
-        "updated_at": "2019-05-04",
-        "version": "0.2.5",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/manifest.json"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media",
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
-        "resources": [],
-        "updated_at": "2019-04-28",
-        "version": "0.2.7",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/manifest.json"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
@@ -402,9 +408,12 @@
         "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.0.7",
         "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
-        "resources": [],
-        "updated_at": "2019-04-28",
-        "version": "0.1.9",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/manifest.json"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.1.10",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
@@ -438,9 +447,12 @@
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/1.1.5",
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
-        "resources": [],
-        "updated_at": "2019-04-13",
-        "version": "0.1.4",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
