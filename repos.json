@@ -88,9 +88,11 @@
         "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.1",
         "local_location": "/custom_components/e_thermostaat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
-        "resources": [],
-        "updated_at": "2019-04-25",
-        "version": "0.2.1",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "climate.programmable_thermostat": {
@@ -208,9 +210,11 @@
         "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.6",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
-        "resources": [],
-        "updated_at": "2019-05-03",
-        "version": "0.2.6",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.2.7",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
