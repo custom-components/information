@@ -238,9 +238,11 @@
         "changelog": "https://github.com/custom-components/sensor.authenticated/releases/tag/0.4.0",
         "local_location": "/custom_components/authenticated/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/sensor.py",
-        "resources": [],
-        "updated_at": "2019-05-04",
-        "version": "0.4.1",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
@@ -504,9 +506,12 @@
         "changelog": "https://github.com/custom-components/switch.hadockermon",
         "local_location": "/custom_components/hadockermon/switch.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "resources": [],
-        "updated_at": "2019-05-03",
-        "version": "3.1.1",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/manifest.json"
+        ],
+        "updated_at": "2019-05-05",
+        "version": "3.1.2",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
