@@ -166,6 +166,19 @@
         "version": "2.10.0",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "feedparser": {
+        "changelog": "https://github.com/custom-components/feedparser/releases/tag/0.06",
+        "local_location": "/custom_components/feedparser/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/manifest.json",
+            "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/sensor.py"
+        ],
+        "updated_at": "2019-05-06",
+        "version": "0.06",
+        "visit_repo": "https://github.com/custom-components/feedparser"
+    },
     "gpodder": {
         "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.4",
         "local_location": "/custom_components/gpodder/__init__.py",
@@ -255,7 +268,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
     "sensor.avanza_stock": {
-        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/0.0.9",
+        "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/1.0.0",
         "local_location": "/custom_components/avanza_stock/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/sensor.py",
         "resources": [
@@ -263,7 +276,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
         "updated_at": "2019-05-06",
-        "version": "0.0.10",
+        "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
     "sensor.brewdog": {
@@ -292,18 +305,6 @@
         "updated_at": "2019-03-07",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
-    },
-    "sensor.feedparser": {
-        "changelog": "https://github.com/custom-components/sensor.feedparser/releases/tag/0.0.5",
-        "local_location": "/custom_components/feedparser/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/sensor.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.feedparser/master/custom_components/feedparser/manifest.json"
-        ],
-        "updated_at": "2019-05-06",
-        "version": "0.0.5",
-        "visit_repo": "https://github.com/custom-components/sensor.feedparser"
     },
     "sensor.file_restore": {
         "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.1",
