@@ -489,12 +489,12 @@
     "sensor.wienerlinien": {
         "changelog": "https://github.com/custom-components/sensor.wienerlinien",
         "local_location": "/custom_components/wienerlinien/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/sensor/wienerlinien.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
         ],
         "updated_at": "2019-05-06",
-        "version": "1.2.1",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
     "sensor.yandex_maps": {
