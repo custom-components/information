@@ -50,7 +50,7 @@
         "local_location": "/custom_components/combined/camera.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
         "resources": [],
-        "updated_at": "2019-03-10",
+        "updated_at": "2019-03-09",
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
@@ -59,7 +59,7 @@
         "local_location": "/custom_components/multisource/camera.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
         "resources": [],
-        "updated_at": "2019-02-25",
+        "updated_at": "2019-02-24",
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/camera.multisource"
     },
@@ -220,7 +220,7 @@
         "local_location": "/custom_components/hassbian_config.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hassbian_config/master/custom_components/hassbian_config.py",
         "resources": [],
-        "updated_at": "2019-02-06",
+        "updated_at": "2019-02-05",
         "version": "2.0.1",
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
@@ -252,7 +252,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
         ],
-        "updated_at": "2019-04-30",
+        "updated_at": "2019-04-29",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
@@ -302,7 +302,7 @@
         "local_location": "/custom_components/custom_aftership/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.custom_aftership/master/custom_components/custom_aftership/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-07",
+        "updated_at": "2019-03-06",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
@@ -320,7 +320,7 @@
         "local_location": "/custom_components/geoip/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.geoip/master/custom_components/sensor/geoip.py",
         "resources": [],
-        "updated_at": "2019-01-29",
+        "updated_at": "2019-01-28",
         "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.geoip"
     },
@@ -350,7 +350,7 @@
         "local_location": "/custom_components/kodi_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
         "resources": [],
-        "updated_at": "2019-05-03",
+        "updated_at": "2019-05-02",
         "version": "0.2.5",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
@@ -493,7 +493,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-05-05",
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
@@ -513,7 +513,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-05-05",
         "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
@@ -536,7 +536,7 @@
         "local_location": "/custom_components/sickchill/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sickchill/master/custom_components/sickchill/__init__.py",
         "resources": [],
-        "updated_at": "2019-01-29",
+        "updated_at": "2019-01-28",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sickchill"
     },
@@ -557,7 +557,7 @@
         "local_location": "/custom_components/usps_mail.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
         "resources": [],
-        "updated_at": "2019-03-07",
+        "updated_at": "2019-03-06",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
     }
