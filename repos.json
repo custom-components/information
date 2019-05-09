@@ -188,7 +188,7 @@
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py",
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/manifest.json"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-05-09",
         "version": "1.0.4",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
@@ -263,7 +263,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "updated_at": "2019-05-05",
+        "updated_at": "2019-05-09",
         "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
