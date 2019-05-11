@@ -277,7 +277,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "updated_at": "2019-05-07",
+        "updated_at": "2019-05-11",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
