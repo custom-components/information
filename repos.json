@@ -190,7 +190,7 @@
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py",
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/manifest.json"
         ],
-        "updated_at": "2019-05-09",
+        "updated_at": "2019-05-12",
         "version": "1.0.4",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
