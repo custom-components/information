@@ -454,7 +454,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/manifest.json"
         ],
-        "updated_at": "2019-05-09",
+        "updated_at": "2019-05-13",
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
