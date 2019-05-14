@@ -131,7 +131,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
         ],
-        "updated_at": "2019-05-13",
+        "updated_at": "2019-05-14",
         "version": "5.0.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -265,7 +265,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "updated_at": "2019-05-09",
+        "updated_at": "2019-05-14",
         "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/sensor.authenticated"
     },
