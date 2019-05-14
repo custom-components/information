@@ -291,7 +291,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.ctabustracker": {
-        "changelog": "https://github.com/custom-components/sensor.ctabustracker",
+        "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
         "local_location": "/custom_components/ctabustracker/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ctabustracker/master/custom_components/ctabustracker/sensor.py",
         "resources": [],
