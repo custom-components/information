@@ -227,14 +227,15 @@
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "media_player.braviatv_psk": {
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.7",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.8",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
         "resources": [
-            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py"
+            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/manifest.json"
         ],
-        "updated_at": "2019-05-11",
-        "version": "0.2.7",
+        "updated_at": "2019-05-15",
+        "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
@@ -529,8 +530,8 @@
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/sensor.py",
             "https://raw.githubusercontent.com/StyraHem/hass/master/components/shelly/switch.py"
         ],
-        "updated_at": "2019-05-02",
-        "version": "0.0.12",
+        "updated_at": "2019-05-15",
+        "version": "0.0.13",
         "visit_repo": "https://github.com/StyraHem/hass/tree/master/components/shelly"
     },
     "sickchill": {
