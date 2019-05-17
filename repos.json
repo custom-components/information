@@ -181,6 +181,20 @@
         "version": "0.06",
         "visit_repo": "https://github.com/custom-components/feedparser"
     },
+    "goldair_climate": {
+        "changelog": "https://github.com/nikrolls/homeassistant-goldair-climate/releases/latest",
+        "local_location": "/custom_components/goldair_climate/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/climate.py",
+            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/light.py",
+            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/lock.py",
+            "https://raw.githubusercontent.com/nikrolls/homeassistant-goldair-climate/master/custom_components/goldair_climate/sensor.py"
+        ],
+        "updated_at": null,
+        "version": "0.0.3",
+        "visit_repo": "https://github.com/nikrolls/homeassistant-goldair-climate"
+    },
     "gpodder": {
         "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.4",
         "local_location": "/custom_components/gpodder/__init__.py",
