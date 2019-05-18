@@ -248,7 +248,7 @@
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py",
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/manifest.json"
         ],
-        "updated_at": "2019-05-15",
+        "updated_at": "2019-05-18",
         "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
@@ -436,7 +436,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/manifest.json"
         ],
-        "updated_at": "2019-05-15",
+        "updated_at": "2019-05-18",
         "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
@@ -469,7 +469,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/manifest.json"
         ],
-        "updated_at": "2019-05-15",
+        "updated_at": "2019-05-18",
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
