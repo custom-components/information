@@ -519,7 +519,7 @@
         "local_location": "/custom_components/yandex_maps/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
         "resources": [],
-        "updated_at": "2019-04-13",
+        "updated_at": "2019-05-20",
         "version": "0.0.4",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
