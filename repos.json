@@ -465,7 +465,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
-        "changelog": "https://github.com/custom-components/sensor.trakt",
+        "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/1.0.1",
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
         "resources": [
