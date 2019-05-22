@@ -218,7 +218,7 @@
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/sensor.py",
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/services.yaml"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-05-22",
         "version": null,
         "visit_repo": "https://github.com/custom-components/grocy"
     },
@@ -256,8 +256,12 @@
         "changelog": "https://github.com/custom-components/qbo",
         "local_location": "/custom_components/qbo/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/qbo/master/custom_components/qbo/__init__.py",
-        "resources": [],
-        "updated_at": "2019-05-01",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/const.py",
+            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/manifest.json",
+            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/sensor.py"
+        ],
+        "updated_at": "2019-05-22",
         "version": null,
         "visit_repo": "https://github.com/custom-components/qbo"
     },
