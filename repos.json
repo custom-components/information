@@ -227,7 +227,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-05-21",
+        "updated_at": "2019-05-22",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
