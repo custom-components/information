@@ -45,6 +45,15 @@
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
+    "camera.combined": {
+        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
+        "local_location": "/custom_components/combined/camera.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
+        "resources": [],
+        "updated_at": "2019-05-16",
+        "version": "0.0.2",
+        "visit_repo": "https://github.com/custom-components/camera.combined"
+    },
     "camera.multisource": {
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
         "local_location": "/custom_components/multisource/camera.py",
@@ -463,7 +472,10 @@
         "changelog": "https://github.com/custom-components/sensor.trakt/releases/tag/1.0.1",
         "local_location": "/custom_components/trakt/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/sensor.py",
-        "resources": [],
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/manifest.json"
+        ],
         "updated_at": "2019-05-18",
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
