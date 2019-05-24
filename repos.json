@@ -248,7 +248,7 @@
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py",
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/manifest.json"
         ],
-        "updated_at": "2019-05-19",
+        "updated_at": "2019-05-24",
         "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
