@@ -416,7 +416,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/manifest.json"
         ],
-        "updated_at": "2019-05-22",
+        "updated_at": "2019-05-26",
         "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
@@ -488,7 +488,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/__init__.py"
         ],
-        "updated_at": "2019-05-21",
+        "updated_at": "2019-05-26",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
@@ -540,7 +540,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-05-26",
         "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.youtube"
     },
