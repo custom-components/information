@@ -261,7 +261,7 @@
             "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/manifest.json",
             "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/sensor.py"
         ],
-        "updated_at": "2019-05-22",
+        "updated_at": "2019-05-26",
         "version": null,
         "visit_repo": "https://github.com/custom-components/qbo"
     },
@@ -273,7 +273,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
         ],
-        "updated_at": "2019-04-30",
+        "updated_at": "2019-05-26",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
