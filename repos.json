@@ -459,13 +459,13 @@
     "sensor.ssh": {
         "changelog": "https://github.com/custom-components/sensor.ssh",
         "local_location": "/custom_components/ssh/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/sensor/ssh.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/__init__.py"
         ],
         "updated_at": "2019-05-21",
-        "version": "0.1.2",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
