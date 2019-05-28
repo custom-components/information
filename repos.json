@@ -54,15 +54,6 @@
         "version": "0.0.2",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
-    "camera.multisource": {
-        "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
-        "local_location": "/custom_components/multisource/camera.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.multisource/master/custom_components/multisource/camera.py",
-        "resources": [],
-        "updated_at": "2019-02-25",
-        "version": "0.3.0",
-        "visit_repo": "https://github.com/custom-components/camera.multisource"
-    },
     "camera.unsplash": {
         "changelog": "https://github.com/custom-components/camera.unsplash/releases/tag/0.4.2",
         "local_location": "/custom_components/unsplash/camera.py",
