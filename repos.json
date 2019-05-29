@@ -131,7 +131,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
         ],
-        "updated_at": "2019-05-28",
+        "updated_at": "2019-05-29",
         "version": "5.1.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
@@ -493,7 +493,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.untappd": {
-        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
+        "changelog": "https://github.com/custom-components/sensor.untappd",
         "local_location": "/custom_components/untappd/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [
@@ -578,5 +578,14 @@
         "updated_at": "2019-05-17",
         "version": "3.1.2",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
+    },
+    "usps_mail": {
+        "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
+        "local_location": "/custom_components/usps_mail.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
+        "resources": [],
+        "updated_at": "2019-03-07",
+        "version": "0.1.1",
+        "visit_repo": "https://github.com/custom-components/usps_mail"
     }
 }
