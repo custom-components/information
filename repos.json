@@ -208,6 +208,20 @@
         "version": "1.0.4",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
+    "grocy": {
+        "changelog": "https://github.com/custom-components/grocy",
+        "local_location": "/custom_components/grocy/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/grocy/master/custom_components/grocy/__init__.py",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/const.py",
+            "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/manifest.json",
+            "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/sensor.py",
+            "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/services.yaml"
+        ],
+        "updated_at": "2019-05-22",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/grocy"
+    },
     "hacs": {
         "changelog": "https://github.com/custom-components/hacs/releases/tag/0.2.1",
         "local_location": "/custom_components/hacs/__init__.py",
