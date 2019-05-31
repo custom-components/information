@@ -366,6 +366,15 @@
         "version": "2.0.5",
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
+    "sensor.kodi_recently_added": {
+        "changelog": "https://github.com/custom-components/sensor.kodi_recently_added",
+        "local_location": "/custom_components/kodi_recently_added/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
+        "resources": [],
+        "updated_at": "2019-05-26",
+        "version": "0.2.5",
+        "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
+    },
     "sensor.krisinformation": {
         "changelog": "https://github.com/isabellaalstrom/sensor.krisinformation",
         "local_location": "/custom_components/krisinformation/sensor.py",
