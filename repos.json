@@ -102,7 +102,7 @@
         "local_location": "/custom_components/programmable_thermostat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/programmable_thermostat/climate.py",
         "resources": [],
-        "updated_at": "2019-05-29",
+        "updated_at": "2019-06-02",
         "version": "1.2.0",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
@@ -223,12 +223,12 @@
         "visit_repo": "https://github.com/custom-components/grocy"
     },
     "hacs": {
-        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.4.1",
+        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.4.2",
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-06-01",
-        "version": "0.4.1",
+        "updated_at": "2019-06-02",
+        "version": "0.4.2",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
     "hassbian_config": {
@@ -332,7 +332,7 @@
         "local_location": "/custom_components/file_restore/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/file_restore/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-09",
+        "updated_at": "2019-06-02",
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.file_restore"
     },
@@ -575,7 +575,7 @@
             "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/__init__.py",
             "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/manifest.json"
         ],
-        "updated_at": "2019-06-01",
+        "updated_at": "2019-06-02",
         "version": "3.1.2",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
