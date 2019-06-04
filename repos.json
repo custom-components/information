@@ -483,13 +483,13 @@
     "sensor.unifigateway": {
         "changelog": "https://github.com/custom-components/sensor.unifigateway",
         "local_location": "/custom_components/unifigateway/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/sensor/unifigateway.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/sensor.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/__init__.py"
         ],
         "updated_at": "2019-06-04",
-        "version": null,
+        "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
     "sensor.untappd": {
