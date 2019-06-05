@@ -223,12 +223,12 @@
         "visit_repo": "https://github.com/custom-components/grocy"
     },
     "hacs": {
-        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.5.0",
+        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.5.1",
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-06-04",
-        "version": "0.5.0",
+        "updated_at": "2019-06-05",
+        "version": "0.5.1",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
     "hassbian_config": {
