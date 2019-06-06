@@ -42,7 +42,7 @@
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
         ],
         "updated_at": "2019-06-06",
-        "version": "0.1.0",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
     "camera.combined": {
@@ -300,6 +300,15 @@
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
+    "sensor.brewdog": {
+        "changelog": "https://github.com/custom-components/sensor.brewdog",
+        "local_location": "/custom_components/brewdog/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
+        "resources": [],
+        "updated_at": "2019-01-28",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/sensor.brewdog"
+    },
     "sensor.ctabustracker": {
         "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
         "local_location": "/custom_components/ctabustracker/sensor.py",
@@ -479,7 +488,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/__init__.py"
         ],
-        "updated_at": "2019-06-04",
+        "updated_at": "2019-06-06",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
