@@ -409,7 +409,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
     "sensor.plex_recently_added": {
-        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.7",
+        "changelog": "https://github.com/custom-components/sensor.plex_recently_added/releases/tag/0.2.8",
         "local_location": "/custom_components/plex_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/sensor.py",
         "resources": [
@@ -421,7 +421,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
     "sensor.radarr_upcoming_media": {
-        "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/tag/0.2.9",
+        "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/tag/0.3.0",
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
         "resources": [
@@ -445,7 +445,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
     "sensor.sonarr_upcoming_media": {
-        "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.2.0",
+        "changelog": "https://github.com/custom-components/sensor.sonarr_upcoming_media/releases/tag/0.2.1",
         "local_location": "/custom_components/sonarr_upcoming_media/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/sensor.py",
         "resources": [
@@ -464,7 +464,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/__init__.py"
         ],
-        "updated_at": "2019-05-21",
+        "updated_at": "2019-06-06",
         "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
