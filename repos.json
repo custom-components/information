@@ -82,8 +82,8 @@
             "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/services.yaml",
             "https://raw.githubusercontent.com/claytonjn/hass-circadian_lighting/master/custom_components/circadian_lighting/switch.py"
         ],
-        "updated_at": "2019-05-09",
-        "version": "1.0.4",
+        "updated_at": "2019-06-01",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/claytonjn/hass-circadian_lighting"
     },
     "climate.e_thermostaat": {
