@@ -256,11 +256,7 @@
         "changelog": "https://github.com/custom-components/qbo",
         "local_location": "/custom_components/qbo/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/qbo/master/custom_components/qbo/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/const.py",
-            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/manifest.json",
-            "https://raw.githubusercontent.com/custom-components/qbo/develop/custom_components/qbo/sensor.py"
-        ],
+        "resources": [],
         "updated_at": "2019-05-26",
         "version": null,
         "visit_repo": "https://github.com/custom-components/qbo"
