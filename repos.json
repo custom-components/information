@@ -98,7 +98,7 @@
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "climate.programmable_thermostat": {
-        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/1.2.0",
+        "changelog": "https://github.com/custom-components/climate.programmable_thermostat/releases/tag/2.1.1",
         "local_location": "/custom_components/programmable_thermostat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.programmable_thermostat/master/custom_components/programmable_thermostat/climate.py",
         "resources": [],
@@ -328,12 +328,12 @@
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
     "sensor.file_restore": {
-        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.1",
+        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.2",
         "local_location": "/custom_components/file_restore/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/file_restore/sensor.py",
         "resources": [],
-        "updated_at": "2019-06-02",
-        "version": "1.0.1",
+        "updated_at": "2019-06-09",
+        "version": "1.0.2",
         "visit_repo": "https://github.com/custom-components/sensor.file_restore"
     },
     "sensor.geoip": {
