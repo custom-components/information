@@ -41,7 +41,7 @@
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
         ],
-        "updated_at": "2019-06-09",
+        "updated_at": "2019-06-10",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
