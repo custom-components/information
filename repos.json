@@ -416,7 +416,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.plex_recently_added/master/custom_components/plex_recently_added/manifest.json"
         ],
-        "updated_at": "2019-06-11",
+        "updated_at": "2019-06-13",
         "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.plex_recently_added"
     },
