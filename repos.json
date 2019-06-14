@@ -370,9 +370,12 @@
         "changelog": "https://github.com/custom-components/sensor.kodi_recently_added",
         "local_location": "/custom_components/kodi_recently_added/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/sensor.py",
-        "resources": [],
-        "updated_at": "2019-05-26",
-        "version": "0.2.5",
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/sensor.kodi_recently_added/master/custom_components/kodi_recently_added/manifest.json"
+        ],
+        "updated_at": "2019-06-14",
+        "version": "0.2.6",
         "visit_repo": "https://github.com/custom-components/sensor.kodi_recently_added"
     },
     "sensor.krisinformation": {
