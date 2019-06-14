@@ -177,7 +177,7 @@
             "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/manifest.json",
             "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/sensor.py"
         ],
-        "updated_at": "2019-05-18",
+        "updated_at": "2019-06-14",
         "version": "0.06",
         "visit_repo": "https://github.com/custom-components/feedparser"
     },
