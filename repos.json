@@ -252,7 +252,7 @@
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "media_player.braviatv_psk": {
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.8",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
         "resources": [
