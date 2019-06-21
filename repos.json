@@ -238,7 +238,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-06-20",
+        "updated_at": "2019-06-21",
         "version": "0.8.1",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
@@ -436,7 +436,7 @@
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
-        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.4",
+        "changelog": "https://github.com/custom-components/sensor.rpi_power/releases/tag/0.1.5",
         "local_location": "/custom_components/rpi_power/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/sensor.py",
         "resources": [
