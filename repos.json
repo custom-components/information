@@ -327,15 +327,6 @@
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.custom_aftership"
     },
-    "sensor.file_restore": {
-        "changelog": "https://github.com/custom-components/sensor.file_restore/releases/tag/1.0.2",
-        "local_location": "/custom_components/file_restore/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.file_restore/master/custom_components/file_restore/sensor.py",
-        "resources": [],
-        "updated_at": "2019-06-09",
-        "version": "1.0.2",
-        "visit_repo": "https://github.com/custom-components/sensor.file_restore"
-    },
     "sensor.geoip": {
         "changelog": "https://github.com/custom-components/sensor.geoip",
         "local_location": "/custom_components/geoip/sensor.py",
