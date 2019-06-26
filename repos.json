@@ -250,7 +250,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.avanza_stock/master/custom_components/avanza_stock/manifest.json"
         ],
-        "updated_at": "2019-06-01",
+        "updated_at": "2019-06-26",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
     },
@@ -400,7 +400,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/manifest.json"
         ],
-        "updated_at": "2019-06-07",
+        "updated_at": "2019-06-26",
         "version": "0.1.10",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
