@@ -38,7 +38,11 @@
         "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.2.0",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
-        "resources": [],
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
+            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
+        ],
         "updated_at": "2019-06-25",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
@@ -112,7 +116,9 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/5.1.1",
         "local_location": "/custom_components/custom_updater/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
-        "resources": [],
+        "resources": [
+            "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
+        ],
         "updated_at": "2019-06-25",
         "version": "5.1.1",
         "visit_repo": "https://github.com/custom-components/custom_updater"
@@ -365,13 +371,13 @@
     "sensor.radarr_upcoming_media": {
         "changelog": "https://github.com/custom-components/sensor.radarr_upcoming_media/releases/tag/0.3.0",
         "local_location": "/custom_components/radarr_upcoming_media/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/sensor/radarr_upcoming_media.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/manifest.json"
         ],
         "updated_at": "2019-06-11",
-        "version": "0.2.8",
+        "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
     "sensor.rpi_power": {
