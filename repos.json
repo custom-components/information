@@ -448,7 +448,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
         ],
-        "updated_at": "2019-05-19",
+        "updated_at": "2019-06-27",
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
