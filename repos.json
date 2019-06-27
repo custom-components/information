@@ -401,7 +401,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.sonarr_upcoming_media/master/custom_components/sonarr_upcoming_media/manifest.json"
         ],
         "updated_at": "2019-06-26",
-        "version": "0.2.1",
+        "version": "0.1.10",
         "visit_repo": "https://github.com/custom-components/sensor.sonarr_upcoming_media"
     },
     "sensor.ssh": {
