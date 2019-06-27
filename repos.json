@@ -38,11 +38,7 @@
         "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.2.0",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/const.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/sensor.py",
-            "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
-        ],
+        "resources": [],
         "updated_at": "2019-06-25",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
@@ -116,9 +112,7 @@
         "changelog": "https://github.com/custom-components/custom_updater/releases/tag/5.1.1",
         "local_location": "/custom_components/custom_updater/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
-        ],
+        "resources": [],
         "updated_at": "2019-06-25",
         "version": "5.1.1",
         "visit_repo": "https://github.com/custom-components/custom_updater"
@@ -188,12 +182,12 @@
         "visit_repo": "https://github.com/custom-components/grocy"
     },
     "hacs": {
-        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.9.0",
+        "changelog": "https://github.com/custom-components/hacs/releases/tag/0.10.0b0",
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
         "updated_at": "2019-06-27",
-        "version": "0.9.0",
+        "version": "0.10.0b0",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
     "hassbian_config": {
