@@ -183,7 +183,7 @@
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/sensor.py",
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/services.yaml"
         ],
-        "updated_at": "2019-06-18",
+        "updated_at": "2019-06-28",
         "version": "v0.1.0",
         "visit_repo": "https://github.com/custom-components/grocy"
     },
