@@ -174,7 +174,7 @@
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
     "grocy": {
-        "changelog": "https://github.com/custom-components/grocy/releases/tag/v0.1.0",
+        "changelog": "https://github.com/custom-components/grocy/releases/tag/v0.1.1",
         "local_location": "/custom_components/grocy/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/grocy/master/custom_components/grocy/__init__.py",
         "resources": [
@@ -184,7 +184,7 @@
             "https://raw.githubusercontent.com/custom-components/grocy/develop/custom_components/grocy/services.yaml"
         ],
         "updated_at": "2019-06-28",
-        "version": "v0.1.0",
+        "version": "v0.1.1",
         "visit_repo": "https://github.com/custom-components/grocy"
     },
     "hacs": {
