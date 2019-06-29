@@ -192,7 +192,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-06-28",
+        "updated_at": "2019-06-29",
         "version": "0.10.0b0",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
