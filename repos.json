@@ -376,7 +376,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.radarr_upcoming_media/master/custom_components/radarr_upcoming_media/manifest.json"
         ],
-        "updated_at": "2019-06-11",
+        "updated_at": "2019-06-29",
         "version": "0.2.8",
         "visit_repo": "https://github.com/custom-components/sensor.radarr_upcoming_media"
     },
