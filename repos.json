@@ -259,7 +259,7 @@
         "local_location": "/custom_components/brewdog/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
         "resources": [],
-        "updated_at": "2019-01-28",
+        "updated_at": "2019-07-01",
         "version": "0.1.0",
         "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
