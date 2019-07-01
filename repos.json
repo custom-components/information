@@ -388,7 +388,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.rpi_power/master/custom_components/rpi_power/manifest.json"
         ],
-        "updated_at": "2019-06-30",
+        "updated_at": "2019-07-01",
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.rpi_power"
     },
