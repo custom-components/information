@@ -468,7 +468,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-07-01",
         "version": "1.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
     },
