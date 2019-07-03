@@ -230,18 +230,6 @@
         "version": null,
         "visit_repo": "https://github.com/custom-components/qbo"
     },
-    "sensor.airthings_wave": {
-        "changelog": "https://github.com/custom-components/sensor.airthings_wave",
-        "local_location": "/custom_components/airthings_wave/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
-        ],
-        "updated_at": "2019-06-29",
-        "version": "0.4.0",
-        "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
-    },
     "sensor.avanza_stock": {
         "changelog": "https://github.com/custom-components/sensor.avanza_stock/releases/tag/1.0.0",
         "local_location": "/custom_components/avanza_stock/sensor.py",
