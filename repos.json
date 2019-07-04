@@ -161,7 +161,7 @@
         "visit_repo": "https://github.com/custom-components/feedparser"
     },
     "gpodder": {
-        "changelog": "https://github.com/custom-components/gpodder/releases/tag/1.0.4",
+        "changelog": "https://github.com/custom-components/gpodder",
         "local_location": "/custom_components/gpodder/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/gpodder/master/custom_components/gpodder/__init__.py",
         "resources": [
