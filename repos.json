@@ -53,7 +53,7 @@
         "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
         "resources": [],
         "updated_at": "2019-06-16",
-        "version": "0.0.2",
+        "version": "0.0.1",
         "visit_repo": "https://github.com/custom-components/camera.combined"
     },
     "camera.multisource": {
@@ -439,18 +439,6 @@
         "updated_at": "2019-07-03",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
-    },
-    "sensor.untappd": {
-        "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
-        "local_location": "/custom_components/untappd/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
-        ],
-        "updated_at": "2019-06-27",
-        "version": "0.1.5",
-        "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
     "sensor.weatheralerts": {
         "changelog": "https://github.com/custom-components/sensor.weatheralerts",
