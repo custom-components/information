@@ -521,5 +521,14 @@
         "updated_at": "2019-06-15",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/youtube"
+    },
+    "zaptec": {
+        "changelog": "https://github.com/custom-components/zaptec",
+        "local_location": "/custom_components/zaptec/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/zaptec/master/custom_components/zaptec/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-06",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/zaptec"
     }
 }
