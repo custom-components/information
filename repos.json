@@ -457,7 +457,7 @@
         "local_location": "/custom_components/weatheralerts/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
         "resources": [],
-        "updated_at": "2019-03-30",
+        "updated_at": "2019-07-07",
         "version": "\"0.1.1\"",
         "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
     },
