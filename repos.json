@@ -192,7 +192,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-07-06",
+        "updated_at": "2019-07-07",
         "version": "0.11.1",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
@@ -436,7 +436,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.unifigateway/master/custom_components/unifigateway/__init__.py"
         ],
-        "updated_at": "2019-07-03",
+        "updated_at": "2019-07-07",
         "version": "0.2.1",
         "visit_repo": "https://github.com/custom-components/sensor.unifigateway"
     },
