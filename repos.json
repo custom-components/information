@@ -15,7 +15,7 @@
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "authenticated": {
-        "changelog": "https://github.com/custom-components/authenticated",
+        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.4",
         "local_location": "/custom_components/authenticated/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
         "resources": [
