@@ -15,14 +15,14 @@
         "visit_repo": "https://github.com/pnbruckner/homeassistant-config"
     },
     "authenticated": {
-        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.4",
+        "changelog": "https://github.com/custom-components/authenticated/releases/tag/1.0.5",
         "local_location": "/custom_components/authenticated/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/authenticated/master/custom_components/authenticated/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "updated_at": "2019-07-07",
-        "version": "1.0.4",
+        "updated_at": "2019-07-08",
+        "version": "1.0.5",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
     "binary_sensor.hadockermon": {
