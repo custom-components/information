@@ -21,7 +21,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "updated_at": "2019-07-08",
+        "updated_at": "2019-07-09",
         "version": "1.0.5",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
