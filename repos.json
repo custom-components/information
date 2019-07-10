@@ -332,6 +332,15 @@
         "version": "1.0.0",
         "visit_repo": "https://github.com/isabellaalstrom/sensor.krisinformation"
     },
+    "sensor.nintendo_wishlist": {
+        "changelog": "https://github.com/custom-components/sensor.nintendo_wishlist",
+        "local_location": "/custom_components/nintendo_wishlist/sensor.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.nintendo_wishlist/master/custom_components/nintendo_wishlist/sensor.py",
+        "resources": [],
+        "updated_at": "2019-07-05",
+        "version": "1.0.0",
+        "visit_repo": "https://github.com/custom-components/sensor.nintendo_wishlist"
+    },
     "sensor.owlintuition": {
         "changelog": "https://github.com/custom-components/sensor.owlintuition",
         "local_location": "/custom_components/owlintuition/sensor.py",
