@@ -21,7 +21,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.authenticated/master/custom_components/authenticated/__init__.py"
         ],
-        "updated_at": "2019-07-09",
+        "updated_at": "2019-07-13",
         "version": "1.0.6",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
@@ -486,8 +486,8 @@
         "local_location": "/custom_components/yandex_maps/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.yandex_maps/master/custom_components/yandex_maps/sensor.py",
         "resources": [],
-        "updated_at": "2019-06-12",
-        "version": "0.0.4",
+        "updated_at": "2019-07-13",
+        "version": "0.0.5",
         "visit_repo": "https://github.com/custom-components/sensor.yandex_maps"
     },
     "sickchill": {
