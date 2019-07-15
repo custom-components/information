@@ -421,7 +421,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/__init__.py"
         ],
-        "updated_at": "2019-06-20",
+        "updated_at": "2019-07-15",
         "version": "0.1.2",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
