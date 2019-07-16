@@ -461,15 +461,6 @@
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
-    "sensor.weatheralerts": {
-        "changelog": "https://github.com/custom-components/sensor.weatheralerts",
-        "local_location": "/custom_components/weatheralerts/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.weatheralerts/master/custom_components/weatheralerts/sensor.py",
-        "resources": [],
-        "updated_at": "2019-07-07",
-        "version": "\"0.1.1\"",
-        "visit_repo": "https://github.com/custom-components/sensor.weatheralerts"
-    },
     "sensor.wienerlinien": {
         "changelog": "https://github.com/custom-components/sensor.wienerlinien",
         "local_location": "/custom_components/wienerlinien/sensor.py",
@@ -519,6 +510,15 @@
         "updated_at": "2019-06-02",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/usps_mail"
+    },
+    "weatheralerts": {
+        "changelog": "https://github.com/custom-components/weatheralerts",
+        "local_location": "/custom_components/weatheralerts/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/weatheralerts/master/custom_components/weatheralerts/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-16",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/weatheralerts"
     },
     "youtube": {
         "changelog": "https://github.com/custom-components/youtube/releases/tag/0.2.0",
