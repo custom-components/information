@@ -79,9 +79,10 @@
         "local_location": "/custom_components/e_thermostaat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
         "resources": [
-            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py"
+            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py",
+            "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/manifest.json"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-07-17",
         "version": "0.2.2",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
@@ -206,15 +207,15 @@
         "visit_repo": "https://github.com/custom-components/hassbian_config"
     },
     "media_player.braviatv_psk": {
-        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.2.8",
+        "changelog": "https://github.com/custom-components/media_player.braviatv_psk/releases/tag/0.3.0",
         "local_location": "/custom_components/braviatv_psk/media_player.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/media_player.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/__init__.py",
             "https://raw.githubusercontent.com/custom-components/media_player.braviatv_psk/master/custom_components/braviatv_psk/manifest.json"
         ],
-        "updated_at": "2019-07-03",
-        "version": "0.2.8",
+        "updated_at": "2019-07-17",
+        "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/media_player.braviatv_psk"
     },
     "qbo": {
