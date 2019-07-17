@@ -502,15 +502,6 @@
         "version": "3.1.2",
         "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
-    "usps_mail": {
-        "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
-        "local_location": "/custom_components/usps_mail.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/usps_mail/master/custom_components/usps_mail.py",
-        "resources": [],
-        "updated_at": "2019-06-02",
-        "version": "0.1.1",
-        "visit_repo": "https://github.com/custom-components/usps_mail"
-    },
     "weatheralerts": {
         "changelog": "https://github.com/custom-components/weatheralerts",
         "local_location": "/custom_components/weatheralerts/__init__.py",
