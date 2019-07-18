@@ -44,7 +44,7 @@
             "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/manifest.json"
         ],
         "updated_at": "2019-07-12",
-        "version": null,
+        "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
     "camera.combined": {
@@ -75,7 +75,7 @@
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "climate.e_thermostaat": {
-        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.2",
+        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.3",
         "local_location": "/custom_components/e_thermostaat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
         "resources": [
@@ -120,7 +120,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
         ],
-        "updated_at": "2019-07-14",
+        "updated_at": "2019-07-18",
         "version": "5.1.1",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
