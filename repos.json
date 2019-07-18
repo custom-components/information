@@ -75,15 +75,15 @@
         "visit_repo": "https://github.com/custom-components/camera.unsplash"
     },
     "climate.e_thermostaat": {
-        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.2.3",
+        "changelog": "https://github.com/custom-components/climate.e_thermostaat/releases/tag/0.3.0",
         "local_location": "/custom_components/e_thermostaat/climate.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/climate.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py",
             "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/manifest.json"
         ],
-        "updated_at": "2019-07-17",
-        "version": "0.2.2",
+        "updated_at": "2019-07-18",
+        "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
     "climate.programmable_thermostat": {
