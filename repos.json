@@ -462,17 +462,6 @@
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
-    "sensor.wienerlinien": {
-        "changelog": "https://github.com/custom-components/sensor.wienerlinien",
-        "local_location": "/custom_components/wienerlinien/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/sensor.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.wienerlinien/master/custom_components/wienerlinien/__init__.py"
-        ],
-        "updated_at": "2019-07-01",
-        "version": "1.2.1",
-        "visit_repo": "https://github.com/custom-components/sensor.wienerlinien"
-    },
     "sensor.yandex_maps": {
         "changelog": "https://github.com/custom-components/sensor.yandex_maps",
         "local_location": "/custom_components/yandex_maps/sensor.py",
@@ -521,6 +510,15 @@
         "version": null,
         "visit_repo": "https://github.com/custom-components/weatheralerts"
     },
+    "wienerlinien": {
+        "changelog": "https://github.com/custom-components/wienerlinien",
+        "local_location": "/custom_components/wienerlinien/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/wienerlinien/master/custom_components/wienerlinien/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-18",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/wienerlinien"
+    },
     "youtube": {
         "changelog": "https://github.com/custom-components/youtube/releases/tag/0.2.0",
         "local_location": "/custom_components/youtube/__init__.py",
@@ -528,7 +526,7 @@
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
         ],
-        "updated_at": "2019-06-15",
+        "updated_at": "2019-07-18",
         "version": "0.2.0",
         "visit_repo": "https://github.com/custom-components/youtube"
     },
