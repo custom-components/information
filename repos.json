@@ -166,7 +166,7 @@
             "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/manifest.json",
             "https://raw.githubusercontent.com/custom-components/feedparser/master/custom_components/feedparser/sensor.py"
         ],
-        "updated_at": "2019-06-14",
+        "updated_at": "2019-07-19",
         "version": "0.06",
         "visit_repo": "https://github.com/custom-components/feedparser"
     },
@@ -179,7 +179,7 @@
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/sensor.py",
             "https://raw.githubusercontent.com/custom-components/blueprint/master/custom_components/gpodder/manifest.json"
         ],
-        "updated_at": "2019-05-28",
+        "updated_at": "2019-07-19",
         "version": "1.0.4",
         "visit_repo": "https://github.com/custom-components/gpodder"
     },
@@ -371,7 +371,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.personalcapital/master/custom_components/personalcapital/manifest.json"
         ],
-        "updated_at": "2019-05-06",
+        "updated_at": "2019-07-19",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sensor.personalcapital"
     },
@@ -443,7 +443,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.trakt/master/custom_components/trakt/manifest.json"
         ],
-        "updated_at": "2019-07-08",
+        "updated_at": "2019-07-19",
         "version": "1.0.1",
         "visit_repo": "https://github.com/custom-components/sensor.trakt"
     },
@@ -467,7 +467,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
         ],
-        "updated_at": "2019-07-08",
+        "updated_at": "2019-07-19",
         "version": "0.1.5",
         "visit_repo": "https://github.com/custom-components/sensor.untappd"
     },
