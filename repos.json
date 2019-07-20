@@ -52,15 +52,6 @@
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
-    "camera.combined": {
-        "changelog": "https://github.com/custom-components/camera.combined/releases/tag/0.0.1",
-        "local_location": "/custom_components/combined/camera.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/camera.combined/master/custom_components/combined/camera.py",
-        "resources": [],
-        "updated_at": "2019-06-16",
-        "version": "0.0.2",
-        "visit_repo": "https://github.com/custom-components/camera.combined"
-    },
     "camera.multisource": {
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
         "local_location": "/custom_components/multisource/camera.py",
@@ -99,6 +90,15 @@
         "updated_at": "2019-07-07",
         "version": "2.1.1",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
+    },
+    "combined": {
+        "changelog": "https://github.com/custom-components/combined/releases/tag/0.1.0",
+        "local_location": "/custom_components/combined/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/combined/master/custom_components/combined/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-20",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/combined"
     },
     "complimentr": {
         "changelog": "https://github.com/custom-components/complimentr/releases/tag/0.0.1",
