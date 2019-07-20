@@ -78,7 +78,7 @@
             "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/__init__.py",
             "https://raw.githubusercontent.com/custom-components/climate.e_thermostaat/master/custom_components/e_thermostaat/manifest.json"
         ],
-        "updated_at": "2019-07-18",
+        "updated_at": "2019-07-20",
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/climate.e_thermostaat"
     },
