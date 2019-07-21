@@ -523,14 +523,12 @@
         "visit_repo": "https://github.com/custom-components/wienerlinien"
     },
     "youtube": {
-        "changelog": "https://github.com/custom-components/youtube/releases/tag/0.2.0",
+        "changelog": "https://github.com/custom-components/youtube",
         "local_location": "/custom_components/youtube/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/youtube/master/custom_components/youtube/__init__.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/sensor.youtube/master/custom_components/youtube/__init__.py"
-        ],
-        "updated_at": "2019-07-18",
-        "version": "0.2.0",
+        "resources": [],
+        "updated_at": "2019-07-21",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/youtube"
     },
     "zaptec": {
