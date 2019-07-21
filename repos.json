@@ -456,7 +456,7 @@
     "sensor.untappd": {
         "changelog": "https://github.com/custom-components/sensor.untappd/releases/tag/0.1.5",
         "local_location": "/custom_components/untappd/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/sensor/untappd.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/sensor.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.untappd/master/custom_components/untappd/manifest.json"
