@@ -112,8 +112,8 @@
         "local_location": "/custom_components/config_check/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/config_check/master/custom_components/config_check/__init__.py",
         "resources": [],
-        "updated_at": "2019-03-30",
-        "version": "0.1.0",
+        "updated_at": "2019-07-21",
+        "version": null,
         "visit_repo": "https://github.com/custom-components/config_check"
     },
     "custom_updater": {
