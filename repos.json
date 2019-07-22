@@ -89,6 +89,15 @@
         "version": "2.1.1",
         "visit_repo": "https://github.com/custom-components/climate.programmable_thermostat"
     },
+    "combined": {
+        "changelog": "https://github.com/custom-components/combined/releases/tag/0.1.0",
+        "local_location": "/custom_components/combined/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/combined/master/custom_components/combined/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-20",
+        "version": "0.1.0",
+        "visit_repo": "https://github.com/custom-components/combined"
+    },
     "complimentr": {
         "changelog": "https://github.com/custom-components/complimentr/releases/tag/0.0.1",
         "local_location": "/custom_components/complimentr/__init__.py",
