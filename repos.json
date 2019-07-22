@@ -341,7 +341,7 @@
         "local_location": "/custom_components/nintendo_wishlist/sensor.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.nintendo_wishlist/master/custom_components/nintendo_wishlist/sensor.py",
         "resources": [],
-        "updated_at": "2019-07-10",
+        "updated_at": "2019-07-22",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.nintendo_wishlist"
     },
