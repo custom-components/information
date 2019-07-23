@@ -32,21 +32,12 @@
         "version": "1.0.7",
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
-    "binary_sensor.hadockermon": {
-        "changelog": "https://github.com/custom-components/binary_sensor.hadockermon",
-        "local_location": "/custom_components/hadockermon/binary_sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/binary_sensor.hadockermon/master/custom_components/hadockermon/binary_sensor.py",
-        "resources": [],
-        "updated_at": "2019-05-28",
-        "version": "0.0.3",
-        "visit_repo": "https://github.com/custom-components/binary_sensor.hadockermon"
-    },
     "breaking_changes": {
         "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.3.0",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
         "resources": [],
-        "updated_at": "2019-07-20",
+        "updated_at": "2019-07-23",
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
@@ -482,18 +473,6 @@
         "updated_at": "2019-01-29",
         "version": "0.1.1",
         "visit_repo": "https://github.com/custom-components/sickchill"
-    },
-    "switch.hadockermon": {
-        "changelog": "https://github.com/custom-components/switch.hadockermon",
-        "local_location": "/custom_components/hadockermon/switch.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/switch.py",
-        "resources": [
-            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/__init__.py",
-            "https://raw.githubusercontent.com/custom-components/switch.hadockermon/master/custom_components/hadockermon/manifest.json"
-        ],
-        "updated_at": "2019-06-02",
-        "version": "3.1.2",
-        "visit_repo": "https://github.com/custom-components/switch.hadockermon"
     },
     "usps_mail": {
         "changelog": "https://github.com/custom-components/usps_mail/releases/tag/0.1.1",
