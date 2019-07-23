@@ -33,12 +33,12 @@
         "visit_repo": "https://github.com/custom-components/authenticated"
     },
     "breaking_changes": {
-        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.3.0",
+        "changelog": "https://github.com/custom-components/breaking_changes/releases/tag/0.3.1",
         "local_location": "/custom_components/breaking_changes/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/breaking_changes/master/custom_components/breaking_changes/__init__.py",
         "resources": [],
         "updated_at": "2019-07-23",
-        "version": "0.3.0",
+        "version": "0.3.1",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
     "brewdog": {
@@ -416,8 +416,8 @@
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/manifest.json",
             "https://raw.githubusercontent.com/custom-components/sensor.ssh/master/custom_components/ssh/__init__.py"
         ],
-        "updated_at": "2019-07-15",
-        "version": "0.1.2",
+        "updated_at": "2019-07-23",
+        "version": "0.1.3",
         "visit_repo": "https://github.com/custom-components/sensor.ssh"
     },
     "sensor.trakt": {
