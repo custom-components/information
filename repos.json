@@ -50,6 +50,15 @@
         "version": "0.3.0",
         "visit_repo": "https://github.com/custom-components/breaking_changes"
     },
+    "brewdog": {
+        "changelog": "https://github.com/custom-components/brewdog",
+        "local_location": "/custom_components/brewdog/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/custom-components/brewdog/master/custom_components/brewdog/__init__.py",
+        "resources": [],
+        "updated_at": "2019-07-23",
+        "version": null,
+        "visit_repo": "https://github.com/custom-components/brewdog"
+    },
     "camera.multisource": {
         "changelog": "https://github.com/custom-components/camera.multisource/releases/tag/0.3.0",
         "local_location": "/custom_components/multisource/camera.py",
@@ -257,15 +266,6 @@
         "updated_at": "2019-06-26",
         "version": "1.0.0",
         "visit_repo": "https://github.com/custom-components/sensor.avanza_stock"
-    },
-    "sensor.brewdog": {
-        "changelog": "https://github.com/custom-components/sensor.brewdog",
-        "local_location": "/custom_components/brewdog/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/custom-components/sensor.brewdog/master/custom_components/brewdog/sensor.py",
-        "resources": [],
-        "updated_at": "2019-07-01",
-        "version": "0.1.0",
-        "visit_repo": "https://github.com/custom-components/sensor.brewdog"
     },
     "sensor.ctabustracker": {
         "changelog": "https://github.com/custom-components/sensor.ctabustracker/releases/tag/0.0.3",
