@@ -196,7 +196,7 @@
         "local_location": "/custom_components/hacs/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/hacs/master/custom_components/hacs/__init__.py",
         "resources": [],
-        "updated_at": "2019-07-22",
+        "updated_at": "2019-07-23",
         "version": "0.12.1",
         "visit_repo": "https://github.com/custom-components/hacs"
     },
@@ -242,7 +242,7 @@
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/__init__.py",
             "https://raw.githubusercontent.com/custom-components/sensor.airthings_wave/master/custom_components/airthings_wave/sensor.py"
         ],
-        "updated_at": "2019-07-10",
+        "updated_at": "2019-07-23",
         "version": "0.4.0",
         "visit_repo": "https://github.com/custom-components/sensor.airthings_wave"
     },
