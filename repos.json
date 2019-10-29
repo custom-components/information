@@ -117,14 +117,14 @@
         "visit_repo": "https://github.com/custom-components/config_check"
     },
     "custom_updater": {
-        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/5.1.1",
+        "changelog": "https://github.com/custom-components/custom_updater/releases/tag/6.0.0",
         "local_location": "/custom_components/custom_updater/__init__.py",
         "remote_location": "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/__init__.py",
         "resources": [
             "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
         ],
-        "updated_at": "2019-07-18",
-        "version": "5.1.1",
+        "updated_at": "2019-10-29",
+        "version": "6.0.0",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
