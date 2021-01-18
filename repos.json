@@ -124,7 +124,7 @@
             "https://raw.githubusercontent.com/custom-components/custom_updater/master/custom_components/custom_updater/services.yaml"
         ],
         "updated_at": "2019-10-29",
-        "version": "6.0.0",
+        "version": "6.0.1",
         "visit_repo": "https://github.com/custom-components/custom_updater"
     },
     "device_tracker.composite": {
