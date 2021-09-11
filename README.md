@@ -1,5 +1,7 @@
 # Information - custom_components
 
+**NOTE:** With the development of [HACS](https://hacs.xyz/), there is a less need for this organization. Legacy repos remain but there may not be as much benefit to transfer to this organization. 
+
 This organization (shared space) was a result of a short discussion over on the [Discord server](https://discord.gg/c5DvZ4e).
 
 A similar organization (shared space) was also made for [custom_cards](https://github.com/custom-cards).
