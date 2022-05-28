@@ -2,6 +2,9 @@
 
 **NOTE:** With the development of [HACS](https://hacs.xyz/), there is a less need for this organization. Legacy repos remain but there may not be as much benefit to transfer to this organization. 
 
+<details>
+ <summary>Old readme</summary>
+ 
 This organization (shared space) was a result of a short discussion over on the [Discord server](https://discord.gg/c5DvZ4e).
 
 A similar organization (shared space) was also made for [custom_cards](https://github.com/custom-cards).
@@ -53,3 +56,6 @@ This are currently:
 If you get your custom_component in Home Assistant, the custom version of it should be archived.
 Before archiving the README file should be updated to point users to the official documentation.
 For a suggestion on how this can be done see the custom_component for [Cloudflare](https://github.com/custom-components/cloudflare).
+ 
+</details>
+
